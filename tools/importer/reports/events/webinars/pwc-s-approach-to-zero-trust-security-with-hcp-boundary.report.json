@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/pwc-s-approach-to-zero-trust-security-with-hcp-boundary",
   "path": "events/webinars/pwc-s-approach-to-zero-trust-security-with-hcp-boundary",
-  "timestamp": "2026-11-22T21:05:46.198Z",
+  "timestamp": "2026-11-22T21:20:39.160Z",
   "title": "PwC’s Approach to Zero Trust Security with HCP Boundary",
   "template": "webinar-detail",
   "blocks": [
@@ -10,7 +10,8 @@
     "cards-speaker"
   ],
   "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/pwc-s-approach-to-zero-trust-security-with-hcp-boundary/image.png": "https://www.datocms-assets.com/2885/1668462709-image.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/pwc-s-approach-to-zero-trust-security-with-hcp-boundary/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "431509bcae4b"
+  "importScript": "eab72306cfc1"
 }

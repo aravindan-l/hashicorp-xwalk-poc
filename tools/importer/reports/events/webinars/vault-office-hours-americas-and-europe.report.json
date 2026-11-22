@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/vault-office-hours-americas-and-europe",
   "path": "events/webinars/vault-office-hours-americas-and-europe",
-  "timestamp": "2026-11-22T21:05:42.703Z",
+  "timestamp": "2026-11-22T21:20:35.937Z",
   "title": "Vault Office Hours (Americas and Europe)",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/headshot-2.png": "https://www.datocms-assets.com/2885/1694009141-headshot_2.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "431509bcae4b"
+  "importScript": "eab72306cfc1"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more",
   "path": "events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more",
-  "timestamp": "2026-11-22T21:05:28.129Z",
+  "timestamp": "2026-11-22T21:20:20.762Z",
   "title": "Boundary 0.12 GA Release Brings Multi-Hop Sessions and more! (EST + EMEA)",
   "template": "webinar-detail",
   "blocks": [
@@ -10,7 +10,9 @@
     "cards-speaker"
   ],
   "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more/van.jpg": "https://www.datocms-assets.com/2885/1678761504-van.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more/xinglu.png": "https://www.datocms-assets.com/2885/1679076694-xinglu.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "431509bcae4b"
+  "importScript": "eab72306cfc1"
 }

@@ -2,17 +2,17 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/observability-as-code-italian-webinar",
   "path": "events/webinars/observability-as-code-italian-webinar",
-  "timestamp": "2026-11-22T21:12:22.918Z",
+  "timestamp": "2026-11-22T21:25:16.719Z",
   "title": "Configurare l'osservabilità come codice con Terraform e Datadog",
   "template": "webinar-detail",
   "blocks": [
     "cards-speaker"
   ],
   "assets": {
-    "/content/dam/hashicorp-xwalk-poc/events/webinars/observability-as-code-italian-webinar/image.png": "https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1611308816-datadog-horizontal-rgb.png&w=3840&q=75",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/observability-as-code-italian-webinar/datadog-horizontal-rgb.png": "https://www.datocms-assets.com/2885/1611308816-datadog-horizontal-rgb.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/observability-as-code-italian-webinar/luca.jpg": "https://www.datocms-assets.com/2885/1636386871-luca.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/observability-as-code-italian-webinar/vito.jpg": "https://www.datocms-assets.com/2885/1666864264-vito.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/observability-as-code-italian-webinar/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "921c5da04b83"
 }

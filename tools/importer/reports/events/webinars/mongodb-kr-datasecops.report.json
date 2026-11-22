@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/mongodb-kr-datasecops",
   "path": "events/webinars/mongodb-kr-datasecops",
-  "timestamp": "2026-11-22T21:15:42.297Z",
+  "timestamp": "2026-11-22T21:25:14.426Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -10,10 +10,10 @@
     "cards-speaker"
   ],
   "assets": {
-    "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/image.png": "https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1651102226-logo_rgb_forest-green.png&w=3840&q=75",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/logo-rgb-forest-green.png": "https://www.datocms-assets.com/2885/1651102226-logo_rgb_forest-green.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/gyuseok-lee.jpg": "https://www.datocms-assets.com/2885/1591835026-gyuseok-lee.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/headshot-kd-kim.png": "https://www.datocms-assets.com/2885/1646110807-headshot_kd-kim.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "921c5da04b83"
 }

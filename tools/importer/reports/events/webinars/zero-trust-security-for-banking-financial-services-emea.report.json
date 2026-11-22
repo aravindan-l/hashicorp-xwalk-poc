@@ -11,4 +11,8 @@
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services-emea/ricardo.jpg": "https://www.datocms-assets.com/2885/1761229325-ricardo.jpeg",
-    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-tr
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services-emea/franco-camba-headshot-1.jpg": "https://www.datocms-assets.com/2885/1669028741-franco-camba-headshot-1.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

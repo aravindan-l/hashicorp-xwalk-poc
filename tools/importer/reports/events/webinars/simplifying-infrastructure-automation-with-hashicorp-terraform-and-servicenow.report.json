@@ -12,4 +12,10 @@
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/servicenow-logo.svg": "https://www.datocms-assets.com/2885/1601066676-servicenow-logo.svg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/polina.jpg": "https://www.datocms-assets.com/2885/1697817795-polina.jpeg",
-    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifyi
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/img-8856.jpg": "https://www.datocms-assets.com/2885/1759412364-img_8856.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/sheneska-williams.png": "https://www.datocms-assets.com/2885/1721853163-sheneska_williams.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/halie-kastl-headshot.jpg": "https://www.datocms-assets.com/2885/1750286548-halie-kastl-headshot.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}
