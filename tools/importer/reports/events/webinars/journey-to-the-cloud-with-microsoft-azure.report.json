@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/journey-to-the-cloud-with-microsoft-azure",
+  "path": "events/webinars/journey-to-the-cloud-with-microsoft-azure",
+  "timestamp": "2026-11-22T21:25:11.359Z",
+  "title": "Journey to the Cloud with Microsoft Azure",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft-azure/azenix.png": "https://www.datocms-assets.com/2885/1654501144-azenix.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft-azure/cam-photo.jpg": "https://www.datocms-assets.com/2885/1586407652-cam-photo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft-azure/brendan-t.jpg": "https://www.datocms-assets.com/2885/1654655963-brendan-t.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft-azure/scott-azure.jpg": "https://www.datocms-assets.com/2885/1654656029-scott-azure.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft-azure/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "921c5da04b83"
+}

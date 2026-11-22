@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected",
+  "path": "events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected",
+  "timestamp": "2026-11-22T21:11:41.718Z",
+  "title": "Automate and Scale your Infrastructure with Terraform and Azure Well-Architected Framework",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected/tae-young-hwang.jpg": "https://www.datocms-assets.com/2885/1656487404-tae-young-hwang.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected/imone-ennett-3-icrosoft.png": "https://www.datocms-assets.com/2885/1641773145-imone-ennett-3-icrosoft.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

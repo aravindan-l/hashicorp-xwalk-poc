@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr",
+  "path": "events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr",
+  "timestamp": "2026-11-22T21:12:06.996Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr/tom-oconnell.png": "https://www.datocms-assets.com/2885/1753985267-tom-oconnell.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr/jacob-plicque-bw.png": "https://www.datocms-assets.com/2885/1751466013-jacob-plicque_bw.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

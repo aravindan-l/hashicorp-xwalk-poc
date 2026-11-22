@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/why-does-a-service-registry-like-consul-matter-kr",
+  "path": "events/webinars/why-does-a-service-registry-like-consul-matter-kr",
+  "timestamp": "2026-11-22T21:15:12.839Z",
+  "title": "Consul, 서비스 레지스트리의 중요성",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-does-a-service-registry-like-consul-matter-kr/junsang-park-photo.jpg": "https://www.datocms-assets.com/2885/1586477899-junsang-park-photo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-does-a-service-registry-like-consul-matter-kr/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

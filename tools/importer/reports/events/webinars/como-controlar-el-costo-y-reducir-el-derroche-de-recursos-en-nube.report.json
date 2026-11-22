@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/como-controlar-el-costo-y-reducir-el-derroche-de-recursos-en-nube",
+  "path": "events/webinars/como-controlar-el-costo-y-reducir-el-derroche-de-recursos-en-nube",
+  "timestamp": "2026-11-22T21:13:46.074Z",
+  "title": "Como controlar el costo y reducir el derroche de recursos en nube",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/como-controlar-el-costo-y-reducir-el-derroche-de-recursos-en-nube/edgardo-villalobos.jpg": "https://www.datocms-assets.com/2885/1643995109-edgardo-villalobos.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/como-controlar-el-costo-y-reducir-el-derroche-de-recursos-en-nube/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

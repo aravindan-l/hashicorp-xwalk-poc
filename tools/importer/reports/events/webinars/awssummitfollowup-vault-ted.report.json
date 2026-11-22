@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/awssummitfollowup-vault-ted",
+  "path": "events/webinars/awssummitfollowup-vault-ted",
+  "timestamp": "2026-11-22T21:12:12.630Z",
+  "title": "AWSとHashiCorp Vault：セキュアなインフラ構築運用に向けたユースケース",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/awssummitfollowup-vault-ted/shogo-katsurad.jpg": "https://www.datocms-assets.com/2885/1631249151-shogo-katsurad.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/awssummitfollowup-vault-ted/23-01-26-17-25-54-975-deco-1.jpg": "https://www.datocms-assets.com/2885/1715046171-23-01-26-17-25-54-975_deco-1.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/awssummitfollowup-vault-ted/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

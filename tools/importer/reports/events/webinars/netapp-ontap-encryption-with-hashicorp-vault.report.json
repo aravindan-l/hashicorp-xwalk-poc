@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/netapp-ontap-encryption-with-hashicorp-vault",
+  "path": "events/webinars/netapp-ontap-encryption-with-hashicorp-vault",
+  "timestamp": "2026-11-22T21:14:18.674Z",
+  "title": "NetApp ONTAP Encryption with HashiCorp Vault",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/netapp-ontap-encryption-with-hashicorp-vault/netapplogo.svg": "https://www.datocms-assets.com/2885/1606839622-netapplogo.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/netapp-ontap-encryption-with-hashicorp-vault/kapil-arora-headshot-2.jpg": "https://www.datocms-assets.com/2885/1622717225-kapil-arora-headshot-2.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/netapp-ontap-encryption-with-hashicorp-vault/david-benadiba-headshot.jpg": "https://www.datocms-assets.com/2885/1606229778-david-benadiba-headshot.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/netapp-ontap-encryption-with-hashicorp-vault/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/azure-builtright-ep2",
+  "path": "events/webinars/azure-builtright-ep2",
+  "timestamp": "2026-11-22T21:19:37.539Z",
+  "title": "Build production-ready AKS at scale with Azure and HashiCorp",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep2/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep2/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep2/paulyuhc.jpg": "https://www.datocms-assets.com/2885/1756825958-paulyuhc.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep2/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

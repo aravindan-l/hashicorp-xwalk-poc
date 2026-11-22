@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj",
+  "path": "events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj",
+  "timestamp": "2026-11-22T21:12:46.478Z",
+  "title": "Part 3: Connecting and running AWS ECS at scale",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj/tony-phan-2.jpg": "https://www.datocms-assets.com/2885/1632375023-tony-phan-2.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj/lachlan-ralph.jpg": "https://www.datocms-assets.com/2885/1696475845-lachlan-ralph.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

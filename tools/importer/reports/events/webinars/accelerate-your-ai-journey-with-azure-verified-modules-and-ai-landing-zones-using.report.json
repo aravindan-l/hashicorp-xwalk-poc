@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using",
+  "path": "events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using",
+  "timestamp": "2026-11-22T21:10:58.626Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using/ksatirli-512x512.jpg": "https://www.datocms-assets.com/2885/1741890057-ksatirli-512x512.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using/mate-hs.png": "https://www.datocms-assets.com/2885/1765982194-mate-hs.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using/1517672415501.jpg": "https://www.datocms-assets.com/2885/1765982467-1517672415501.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

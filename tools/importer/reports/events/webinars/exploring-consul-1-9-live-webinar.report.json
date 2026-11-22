@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/exploring-consul-1-9-live-webinar",
+  "path": "events/webinars/exploring-consul-1-9-live-webinar",
+  "timestamp": "2026-11-22T21:11:13.636Z",
+  "title": "Exploring Consul 1.9 Live Webinar",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/exploring-consul-1-9-live-webinar/codyhashihex2011-edited-edited.png": "https://www.datocms-assets.com/2885/1588001348-codyhashihex2011-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/exploring-consul-1-9-live-webinar/peter-mccarron.png": "https://www.datocms-assets.com/2885/1589491642-peter-mccarron.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/exploring-consul-1-9-live-webinar/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/on-demand-bitkub-journey-to-scalable-dynamic-security",
+  "path": "events/webinars/on-demand-bitkub-journey-to-scalable-dynamic-security",
+  "timestamp": "2026-11-22T21:18:59.038Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/on-demand-bitkub-journey-to-scalable-dynamic-security/k-bird-bitkub.jpg": "https://www.datocms-assets.com/2885/1659359735-k-bird-bitkub.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/on-demand-bitkub-journey-to-scalable-dynamic-security/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

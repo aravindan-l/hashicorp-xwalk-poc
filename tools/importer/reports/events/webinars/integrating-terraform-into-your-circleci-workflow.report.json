@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/integrating-terraform-into-your-circleci-workflow",
+  "path": "events/webinars/integrating-terraform-into-your-circleci-workflow",
+  "timestamp": "2026-11-22T21:12:32.276Z",
+  "title": "Integrating Terraform into your CircleCI Workflow",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-terraform-into-your-circleci-workflow/logo-circleci-horiz-black-1.svg": "https://www.datocms-assets.com/2885/1596044580-logo-circleci-horiz-black-1.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-terraform-into-your-circleci-workflow/professional-avatar.jpg": "https://www.datocms-assets.com/2885/1594163445-professional-avatar.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-terraform-into-your-circleci-workflow/chris-black-picture.jpg": "https://www.datocms-assets.com/2885/1603842944-chris-black-picture.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-terraform-into-your-circleci-workflow/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

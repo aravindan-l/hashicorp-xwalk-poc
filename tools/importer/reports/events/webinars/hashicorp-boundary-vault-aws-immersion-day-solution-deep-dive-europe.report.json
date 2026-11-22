@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe",
+  "path": "events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe",
+  "timestamp": "2026-11-22T21:19:01.936Z",
+  "title": "HashiCorp Boundary & Vault AWS Immersion Day: Solution Deep Dive (Europe)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/hashicorp-verticallogo-black.svg": "https://www.datocms-assets.com/2885/1515620065-hashicorp_verticallogo_black.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/pxl-20230127-150643900-edited.png": "https://www.datocms-assets.com/2885/1709045556-pxl_20230127_150643900-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/1629922704585-1.jpg": "https://www.datocms-assets.com/2885/1693260258-1629922704585-1.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/jonathan-hurley.jpg": "https://www.datocms-assets.com/2885/1716218997-jonathan-hurley.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

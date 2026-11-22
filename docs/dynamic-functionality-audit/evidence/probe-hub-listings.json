@@ -1,0 +1,226 @@
+[
+  {
+    "url": "https://www.hashicorp.com/en/partners/find-a-partner",
+    "status": 500,
+    "final": "https://www.hashicorp.com/en/partners/find-a-partner",
+    "title": "Find a Partner | HashiCorp",
+    "dom": {
+      "inputs": [
+        "search:",
+        "radio:Cloud partners",
+        "radio:Systems integrators",
+        "radio:Technology partners",
+        "radio:Training partners",
+        "checkbox:Boundary",
+        "checkbox:Consul",
+        "checkbox:Nomad",
+        "checkbox:Packer",
+        "checkbox:Americas",
+        "checkbox:Asia & Australia",
+        "checkbox:Europe",
+        "checkbox:Global"
+      ],
+      "buttons": [
+        "Show more",
+        "Load more"
+      ],
+      "cards": 69,
+      "text": "Skip to main content Partners Overview Find a partner Become a partner Partner Portal Find a partner The HashiCorp Partner Network is a worldwide organization of Cloud, Technology and Systems Integrators focused on delivering premiere services to our mutual customers. Explore our network to find the"
+    },
+    "algoliaIndexes": [
+      "www:prod:partners"
+    ],
+    "algoliaResults": {
+      "www:prod:partners": {
+        "nbHits": 478,
+        "facets": [
+          "regions",
+          "category",
+          "products",
+          "hasSITier",
+          "allSITiers",
+          "mainSITier",
+          "competencies",
+          "hasCompetencies"
+        ],
+        "keys": [
+          "name",
+          "description",
+          "slug",
+          "partnerType",
+          "partnerTypeLabel",
+          "category",
+          "categoryLabel",
+          "allSITiers",
+          "mainSITier",
+          "hasSITier",
+          "competencies",
+          "hasCompetencies",
+          "regions",
+          "logo",
+          "products",
+          "objectID",
+          "_highlightResult"
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://www.hashicorp.com/en/resources",
+    "status": 500,
+    "final": "https://www.hashicorp.com/en/resources",
+    "title": "HashiCorp Resources",
+    "dom": {
+      "inputs": [
+        "search:",
+        "checkbox:Show only enterprise content",
+        "checkbox:Terraform",
+        "checkbox:Vault",
+        "checkbox:Consul",
+        "checkbox:Nomad",
+        "checkbox:Presentation",
+        "checkbox:Case Study",
+        "checkbox:Demo",
+        "checkbox:Recorded Webinar",
+        "radio:English",
+        "radio:Korean",
+        "radio:Japanese",
+        "radio:French",
+        "checkbox:Technology",
+        "checkbox:Financial Services",
+        "checkbox:Media",
+        "checkbox:Retail",
+        "checkbox:AWS",
+        "checkbox:Azure",
+        "checkbox:Google Cloud",
+        "checkbox:VMware"
+      ],
+      "buttons": [
+        "Show more",
+        "Load more"
+      ],
+      "cards": 12,
+      "text": "Resource Library Learn how to provision, secure, connect, and run any infrastructure for any application. Filters 2025 resources found 2025 resources found Show only enterprise content Product Terraform Vault Consul Nomad Show more Product Show more Type Presentation Case Study Demo Recorded Webinar"
+    },
+    "algoliaIndexes": [
+      "www:prod:resources"
+    ],
+    "algoliaResults": {
+      "www:prod:resources": {
+        "nbHits": 2025,
+        "facets": [
+          "industry",
+          "language",
+          "products",
+          "enterprise",
+          "contentType",
+          "infrastructureProvider"
+        ],
+        "keys": [
+          "title",
+          "slug",
+          "industry",
+          "infrastructureProvider",
+          "language",
+          "products",
+          "contentType",
+          "enterprise",
+          "postDate",
+          "postDateTimestamp",
+          "imageUrl",
+          "imageAlt",
+          "externalLink",
+          "objectID",
+          "_highlightResult"
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://www.hashicorp.com/en/events/webinars",
+    "status": 404,
+    "final": "https://www.hashicorp.com/en/events/webinars",
+    "title": "HashiCorp | An IBM Company",
+    "dom": {
+      "inputs": [],
+      "buttons": [],
+      "cards": 1,
+      "text": "Page Not Found We're sorry but we can't find the page you're looking for. Back to Home"
+    },
+    "algoliaIndexes": [],
+    "algoliaResults": {}
+  },
+  {
+    "url": "https://www.hashicorp.com/en/conferences/hashiconf/agenda",
+    "status": 200,
+    "final": "https://www.hashicorp.com/en/conferences/hashiconf/agenda",
+    "title": "HashiConf at IBM TechXchange 2026 - Agenda overview",
+    "dom": {
+      "inputs": [],
+      "buttons": [
+        "Previous page",
+        "Next page",
+        "Monday, October 26",
+        "Tuesday, October 27",
+        "Wednesday, October 28",
+        "Thursday, October 29"
+      ],
+      "cards": 68,
+      "text": "Skip to main content Agenda Exclusive Experiences FAQ's Agenda Atlanta | October 26 – 29, 2026 Go deep with HashiCorp through product sessions, hands-on labs, and conversations with experts. Then broaden your skills with even more technical content across IBM TechXchange. See all sessions Featured s"
+    },
+    "algoliaIndexes": [],
+    "algoliaResults": {}
+  },
+  {
+    "url": "https://www.hashicorp.com/en/integrations",
+    "status": 500,
+    "final": "https://www.hashicorp.com/en/partners/find-a-partner?category=tech",
+    "title": "Find a Partner | HashiCorp",
+    "dom": {
+      "inputs": [
+        "search:",
+        "radio:Cloud partners",
+        "radio:Systems integrators",
+        "radio:Technology partners",
+        "radio:Training partners",
+        "checkbox:Boundary",
+        "checkbox:Consul",
+        "checkbox:Nomad",
+        "checkbox:Packer"
+      ],
+      "buttons": [
+        "Clear filters",
+        "Show more",
+        "Load more"
+      ],
+      "cards": 69,
+      "text": "Skip to main content Partners Overview Find a partner Become a partner Partner Portal Find a partner The HashiCorp Partner Network is a worldwide organization of Cloud, Technology and Systems Integrators focused on delivering premiere services to our mutual customers. Explore our network to find the"
+    },
+    "algoliaIndexes": [
+      "www:prod:partners"
+    ],
+    "algoliaResults": {
+      "www:prod:partners": {
+        "nbHits": 478,
+        "facets": [
+          "category"
+        ],
+        "keys": []
+      }
+    }
+  },
+  {
+    "url": "https://www.hashicorp.com/blog/feed.xml",
+    "status": 200,
+    "final": "https://www.hashicorp.com/blog/feed.xml",
+    "title": "",
+    "dom": {
+      "inputs": [],
+      "buttons": [],
+      "cards": 0,
+      "text": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\"> <id>https://hashicorp.com/blog</id> <title>HashiCorp Blog</title> <updated>2026-11-11T14:48:24.341Z</updated> <generator>https://github.com/jpmonette/feed</generator> <author> <name>HashiCorp, Inc.</name> <email>hello@"
+    },
+    "algoliaIndexes": [],
+    "algoliaResults": {}
+  }
+]

@@ -1,0 +1,467 @@
+{
+  "steps": [
+    {
+      "name": "load https://www.hashicorp.com/en/blog/all?q=terraform",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 500,
+        "url": "https://www.hashicorp.com/en/blog/all?q=terraform",
+        "title": "The Stack by HashiCorp",
+        "controls": {
+          "inputs": [
+            "input[text] name=subnavSearch placeholder=Search label=Search"
+          ],
+          "buttons": [
+            "Explore topics",
+            "Search",
+            "Clear filters",
+            "Open filters",
+            "Expand",
+            "Load more"
+          ],
+          "resultLinks": 5
+        }
+      }
+    },
+    {
+      "name": "load https://www.hashicorp.com/en/events",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 500,
+        "url": "https://www.hashicorp.com/en/events",
+        "title": "HashiCorp Events",
+        "controls": {
+          "inputs": [
+            "input[checkbox] name=Webinar placeholder= label=Webinar",
+            "input[checkbox] name=Workshop placeholder= label=Workshop",
+            "input[checkbox] name=Vault placeholder= label=Vault",
+            "input[checkbox] name=Terraform placeholder= label=Terraform",
+            "input[radio] name=Englishlanguage placeholder= label=English",
+            "input[checkbox] name=Americas placeholder= label=Americas"
+          ],
+          "buttons": [],
+          "resultLinks": 2
+        }
+      }
+    },
+    {
+      "name": "load https://www.hashicorp.com/en/case-studies",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 500,
+        "url": "https://www.hashicorp.com/en/case-studies",
+        "title": "Our Customers",
+        "controls": {
+          "inputs": [
+            "input[checkbox] name=Financial Services placeholder= label=Financial Services",
+            "input[checkbox] name=Retail placeholder= label=Retail",
+            "input[checkbox] name=Media placeholder= label=Media",
+            "input[checkbox] name=SaaS placeholder= label=SaaS",
+            "input[checkbox] name=Terraform placeholder= label=Terraform",
+            "input[checkbox] name=Vault placeholder= label=Vault",
+            "input[checkbox] name=Consul placeholder= label=Consul",
+            "input[checkbox] name=Nomad placeholder= label=Nomad",
+            "input[checkbox] name=AMER placeholder= label=AMER",
+            "input[checkbox] name=EMEA placeholder= label=EMEA",
+            "input[checkbox] name=APAC placeholder= label=APAC"
+          ],
+          "buttons": [
+            "Show more",
+            "Load more"
+          ],
+          "resultLinks": 8
+        }
+      }
+    },
+    {
+      "name": "load https://www.hashicorp.com/en/ambassador/directory",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 500,
+        "url": "https://www.hashicorp.com/en/ambassador/directory",
+        "title": "HashiCorp Ambassador Directory",
+        "controls": {
+          "inputs": [
+            "input[search] name= placeholder= label=",
+            "input[checkbox] name=Asia Pacific placeholder= label=Asia Pacific",
+            "input[checkbox] name=Europe, Middle East and Africa placeholder= label=Europe, Middle East and Africa",
+            "input[checkbox] name=Latin America placeholder= label=Latin America",
+            "input[checkbox] name=North America placeholder= label=North America",
+            "input[checkbox] name=Boundary placeholder= label=Boundary",
+            "input[checkbox] name=Consul placeholder= label=Consul",
+            "input[checkbox] name=HashiCorp Cloud Platform placeholder= label=HashiCorp Cloud Platform",
+            "input[checkbox] name=Nomad placeholder= label=Nomad"
+          ],
+          "buttons": [
+            "Show more",
+            "Load more"
+          ],
+          "resultLinks": 4
+        }
+      }
+    },
+    {
+      "name": "load https://www.hashicorp.com/en/press/all",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 500,
+        "url": "https://www.hashicorp.com/en/press/all",
+        "title": "Archive",
+        "controls": {
+          "inputs": [
+            "input[radio] name=Press releasespostType placeholder= label=Press releases",
+            "input[radio] name=Media coveragepostType placeholder= label=Media coverage",
+            "input[radio] name=Analyst reportspostType placeholder= label=Analyst reports",
+            "input[radio] name=Company newspostType placeholder= label=Company news",
+            "input[checkbox] name=2025 placeholder= label=2025",
+            "input[checkbox] name=2024 placeholder= label=2024",
+            "input[checkbox] name=2023 placeholder= label=2023",
+            "input[checkbox] name=2022 placeholder= label=2022",
+            "input[checkbox] name=English placeholder= label=English",
+            "input[checkbox] name=German placeholder= label=German",
+            "input[checkbox] name=Dutch placeholder= label=Dutch",
+            "input[checkbox] name=French placeholder= label=French"
+          ],
+          "buttons": [
+            "Show more",
+            "Load more"
+          ],
+          "resultLinks": 9
+        }
+      }
+    },
+    {
+      "name": "events: click first filter option",
+      "ok": false,
+      "error": "locator.click: Element is not visible",
+      "result": null
+    },
+    {
+      "name": "events: next page",
+      "ok": true,
+      "error": null,
+      "result": {
+        "nextFound": false
+      }
+    }
+  ],
+  "algoliaResults": [
+    {
+      "index": "www:prod:blog",
+      "nbHits": 483,
+      "hitsPerPage": 12,
+      "nbPages": 41,
+      "facets": {
+        "category": 3,
+        "products": 7
+      },
+      "hitKeys": [
+        "photoUrl",
+        "photoAlt",
+        "photoWidth",
+        "photoHeight",
+        "orderingDate",
+        "orderingDateTimestamp",
+        "category",
+        "title",
+        "products",
+        "slug",
+        "tags",
+        "productList",
+        "authors",
+        "content",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:events-asc",
+      "nbHits": 6,
+      "hitsPerPage": 20,
+      "nbPages": 1,
+      "facets": {
+        "type": 2,
+        "region": 1,
+        "language": 1,
+        "products": 2
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "startTime",
+        "endTime",
+        "audienceSegment",
+        "region",
+        "language",
+        "badges",
+        "products",
+        "tags",
+        "series",
+        "eventType",
+        "type",
+        "startTimestamp",
+        "recorded",
+        "isHidden",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:events-asc",
+      "nbHits": 6,
+      "hitsPerPage": 20,
+      "nbPages": 1,
+      "facets": {
+        "type": 2,
+        "region": 1,
+        "language": 1,
+        "products": 2
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "startTime",
+        "endTime",
+        "audienceSegment",
+        "region",
+        "language",
+        "badges",
+        "products",
+        "tags",
+        "series",
+        "eventType",
+        "type",
+        "startTimestamp",
+        "recorded",
+        "isHidden",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:case-studies",
+      "nbHits": 100,
+      "hitsPerPage": 20,
+      "nbPages": 5,
+      "facets": {
+        "regions": 3,
+        "industry": 16,
+        "products": 8
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "infrastructureProvider",
+        "language",
+        "contentType",
+        "enterprise",
+        "postDate",
+        "postDateTimestamp",
+        "imageUrl",
+        "imageAlt",
+        "externalLink",
+        "industry",
+        "products",
+        "regions",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:case-studies",
+      "nbHits": 100,
+      "hitsPerPage": 20,
+      "nbPages": 5,
+      "facets": {
+        "regions": 3,
+        "industry": 16,
+        "products": 8
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "infrastructureProvider",
+        "language",
+        "contentType",
+        "enterprise",
+        "postDate",
+        "postDateTimestamp",
+        "imageUrl",
+        "imageAlt",
+        "externalLink",
+        "industry",
+        "products",
+        "regions",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:ambassadors",
+      "nbHits": 107,
+      "hitsPerPage": 20,
+      "nbPages": 6,
+      "facets": {
+        "region": 4,
+        "products": 9
+      },
+      "hitKeys": [
+        "photoUrl",
+        "photoAlt",
+        "photoWidth",
+        "photoHeight",
+        "link",
+        "firstName",
+        "lastName",
+        "sortByName",
+        "location",
+        "biography",
+        "products",
+        "region",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:ambassadors",
+      "nbHits": 107,
+      "hitsPerPage": 20,
+      "nbPages": 6,
+      "facets": {
+        "region": 4,
+        "products": 9
+      },
+      "hitKeys": [
+        "photoUrl",
+        "photoAlt",
+        "photoWidth",
+        "photoHeight",
+        "link",
+        "firstName",
+        "lastName",
+        "sortByName",
+        "location",
+        "biography",
+        "products",
+        "region",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:press",
+      "nbHits": 563,
+      "hitsPerPage": 20,
+      "nbPages": 29,
+      "facets": {
+        "year": 12,
+        "language": 4,
+        "postType": 4
+      },
+      "hitKeys": [
+        "title",
+        "url",
+        "category",
+        "postType",
+        "publishDate",
+        "publishDateTimestamp",
+        "year",
+        "imageUrl",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:press",
+      "nbHits": 563,
+      "hitsPerPage": 20,
+      "nbPages": 29,
+      "facets": {
+        "year": 12,
+        "language": 4,
+        "postType": 4
+      },
+      "hitKeys": [
+        "title",
+        "url",
+        "category",
+        "postType",
+        "publishDate",
+        "publishDateTimestamp",
+        "year",
+        "imageUrl",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:events-asc",
+      "nbHits": 6,
+      "hitsPerPage": 20,
+      "nbPages": 1,
+      "facets": {
+        "type": 2,
+        "region": 1,
+        "language": 1,
+        "products": 2
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "startTime",
+        "endTime",
+        "audienceSegment",
+        "region",
+        "language",
+        "badges",
+        "products",
+        "tags",
+        "series",
+        "eventType",
+        "type",
+        "startTimestamp",
+        "recorded",
+        "isHidden",
+        "objectID",
+        "_highlightResult"
+      ]
+    },
+    {
+      "index": "www:prod:events-asc",
+      "nbHits": 6,
+      "hitsPerPage": 20,
+      "nbPages": 1,
+      "facets": {
+        "type": 2,
+        "region": 1,
+        "language": 1,
+        "products": 2
+      },
+      "hitKeys": [
+        "title",
+        "slug",
+        "startTime",
+        "endTime",
+        "audienceSegment",
+        "region",
+        "language",
+        "badges",
+        "products",
+        "tags",
+        "series",
+        "eventType",
+        "type",
+        "startTimestamp",
+        "recorded",
+        "isHidden",
+        "objectID",
+        "_highlightResult"
+      ]
+    }
+  ]
+}

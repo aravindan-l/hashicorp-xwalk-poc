@@ -13,6 +13,7 @@
       "blog-list",
       "button",
       "cards",
+      "cards-speaker",
       "carousel",
       "columns",
       "embed",
@@ -21,7 +22,7 @@
       "hero",
       "logo-wall",
       "image",
-      "proof",
+      "marketo-form",
       "quote",
       "search",
       "tabs",
@@ -47,6 +48,12 @@
     "id": "blog-list",
     "components": [
       "blog-list-item"
+    ]
+  },
+  {
+    "id": "cards-speaker",
+    "components": [
+      "cards-speaker-item"
     ]
   },
   {

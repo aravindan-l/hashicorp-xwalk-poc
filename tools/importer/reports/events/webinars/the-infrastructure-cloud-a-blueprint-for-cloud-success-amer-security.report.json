@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-amer-security",
+  "path": "events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-amer-security",
+  "timestamp": "2026-11-22T21:20:06.575Z",
+  "title": "The Infrastructure Cloud: Security Lifecycle Management (Americas and Europe)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-amer-security/ruddy-2021-sm.png": "https://www.datocms-assets.com/2885/1689618967-ruddy_2021_sm.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-amer-security/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

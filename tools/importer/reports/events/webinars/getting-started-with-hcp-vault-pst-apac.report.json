@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/getting-started-with-hcp-vault-pst-apac",
+  "path": "events/webinars/getting-started-with-hcp-vault-pst-apac",
+  "timestamp": "2026-11-22T21:16:48.188Z",
+  "title": "Getting Started with Vault",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/getting-started-with-hcp-vault-pst-apac/kash-patel.png": "https://www.datocms-assets.com/2885/1709047445-kash-patel.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/getting-started-with-hcp-vault-pst-apac/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

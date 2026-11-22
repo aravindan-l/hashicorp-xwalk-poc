@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/korean-nomad",
+  "path": "events/webinars/korean-nomad",
+  "timestamp": "2026-11-22T21:14:40.770Z",
+  "title": "[Korean] 진정한 페더레이션을 위한 오케스트레이터, Nomad",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korean-nomad/gyuseok-lee.jpg": "https://www.datocms-assets.com/2885/1591835026-gyuseok-lee.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korean-nomad/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

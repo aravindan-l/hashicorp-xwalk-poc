@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hcp-vault-radar-agent",
+  "path": "events/webinars/hcp-vault-radar-agent",
+  "timestamp": "2026-11-22T21:17:25.217Z",
+  "title": "Gain visibility and control over secrets with the HCP Vault Radar agent",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hcp-vault-radar-agent/chandni-patel-headshot-edited.png": "https://www.datocms-assets.com/2885/1763477867-chandni_patel_headshot-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hcp-vault-radar-agent/siranjeevi-edited.png": "https://www.datocms-assets.com/2885/1746464662-siranjeevi-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hcp-vault-radar-agent/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

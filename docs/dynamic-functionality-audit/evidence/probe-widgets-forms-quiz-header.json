@@ -1,0 +1,140 @@
+{
+  "steps": [
+    {
+      "name": "partner tabs",
+      "ok": false,
+      "error": "locator.click: Timeout 15000ms exceeded.",
+      "result": null
+    },
+    {
+      "name": "webinar register page: marketo form",
+      "ok": true,
+      "error": null,
+      "result": {
+        "formId": "mktoForm_2334",
+        "fields": [
+          "Email*:email",
+          "FirstName*:text",
+          "LastName*:text",
+          "Company*:text",
+          "Title*:text",
+          "Country*:select-one",
+          "fastTracktoSales:checkbox"
+        ],
+        "hidden": [
+          "utm_medium__c",
+          "utm_source__c",
+          "utm_campaign__c",
+          "utm_cid__c",
+          "utm_offer__c",
+          "form_page_url__c",
+          "utm_content__c",
+          "utm_term__c",
+          "utm_channel_bucket__c",
+          "registeredWebinarID",
+          "is_spam__c",
+          "formid",
+          "munchkinId"
+        ],
+        "submit": "Submit",
+        "mkto": "object",
+        "headings": []
+      }
+    },
+    {
+      "name": "on-demand webinar: gated video in DOM?",
+      "ok": true,
+      "error": null,
+      "result": {
+        "iframes": [],
+        "videos": 0,
+        "ytInHtml": false,
+        "rscVideo": true,
+        "formId": "mktoForm_2334"
+      }
+    },
+    {
+      "name": "pricing controls",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 200,
+        "url": "https://www.hashicorp.com/en/pricing",
+        "title": "HashiCorp Product Pricing",
+        "controls": {
+          "inputs": [],
+          "buttons": [
+            "Terraform",
+            "Packer",
+            "Nomad",
+            "Vault",
+            "Boundary",
+            "Consul",
+            "Unified workflow management",
+            "Visibility & optimization",
+            "Policy & security",
+            "Governance, risk & compliance",
+            "Integrations & API",
+            "Reliability & scale",
+            "Practitioner workflow",
+            "Product",
+            "Billing & support",
+            "Toggle display"
+          ],
+          "resultLinks": 0
+        }
+      }
+    },
+    {
+      "name": "quiz",
+      "ok": false,
+      "error": "locator.innerText: Timeout 15000ms exceeded.",
+      "result": null
+    },
+    {
+      "name": "header controls",
+      "ok": true,
+      "error": null,
+      "result": {
+        "links": [
+          "Log in -> https://portal.cloud.hashicorp.com/sign-in",
+          "Contact us -> https://www.hashicorp.com/contact-sales",
+          "Get started -> https://portal.cloud.hashicorp.com/sign-up",
+          "Sign up now -> https://portal.cloud.hashicorp.com/sign-up?ajs_aid=3e3b5796-ecd1-48e1-afed-7ee0ddb0f256",
+          "Sign up now -> https://portal.cloud.hashicorp.com/sign-up?ajs_aid=3e3b5796-ecd1-48e1-afed-7ee0ddb0f256",
+          "Log in -> https://portal.cloud.hashicorp.com/sign-in",
+          "Contact us -> https://www.hashicorp.com/contact-sales",
+          "Get started -> https://portal.cloud.hashicorp.com/sign-up",
+          "Log in -> https://portal.cloud.hashicorp.com/sign-in",
+          "Contact us -> https://www.hashicorp.com/contact-sales",
+          "Get started -> https://portal.cloud.hashicorp.com/sign-up"
+        ],
+        "locale": "en",
+        "langSwitch": true,
+        "hreflang": [
+          "x-default",
+          "ja",
+          "pt",
+          "de",
+          "es",
+          "ko",
+          "fr",
+          "id",
+          "zh",
+          "it",
+          "ar"
+        ]
+      }
+    },
+    {
+      "name": "careers job links",
+      "ok": true,
+      "error": null,
+      "result": [
+        "https://www.ibm.com/careers/search?q=hashicorp",
+        "https://www.hashicorp.com/en/how-hashicorp-works",
+        "https://www.hashicorp.com/en/our-principles"
+      ]
+    }
+  ]
+}

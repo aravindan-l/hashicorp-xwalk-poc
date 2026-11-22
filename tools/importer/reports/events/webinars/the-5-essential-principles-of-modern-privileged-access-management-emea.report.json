@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/the-5-essential-principles-of-modern-privileged-access-management-emea",
+  "path": "events/webinars/the-5-essential-principles-of-modern-privileged-access-management-emea",
+  "timestamp": "2026-11-22T21:11:45.309Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/the-5-essential-principles-of-modern-privileged-access-management-emea/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hcp-vault-beyond-the-beta",
+  "path": "events/webinars/hcp-vault-beyond-the-beta",
+  "timestamp": "2026-11-22T21:11:08.688Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hcp-vault-beyond-the-beta/hashihex-2887.jpg": "https://www.datocms-assets.com/2885/1644345627-hashihex_2887.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hcp-vault-beyond-the-beta/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

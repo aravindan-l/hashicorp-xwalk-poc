@@ -1,0 +1,60 @@
+/* structural only: brand styling comes in the design pass */
+.cards-speaker > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-speaker > ul > li {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+.cards-speaker .cards-speaker-image {
+  line-height: 0;
+}
+
+.cards-speaker .cards-speaker-image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.cards-speaker .cards-speaker-body > * {
+  margin: 0 0 8px;
+}
+
+.cards-speaker .cards-speaker-name {
+  margin: 0 0 4px;
+}
+
+.cards-speaker .cards-speaker-social {
+  display: flex;
+  gap: 16px;
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-speaker .cards-speaker-social a {
+  display: inline-flex;
+  line-height: 0;
+}
+
+.cards-speaker .cards-speaker-social .icon,
+.cards-speaker .cards-speaker-social img {
+  width: 20px;
+  height: 20px;
+}
+
+@media (width >= 900px) {
+  .cards-speaker > ul {
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  }
+}

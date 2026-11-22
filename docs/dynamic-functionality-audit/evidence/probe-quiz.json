@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hashicorp.com/en/lp/cloud-maturity/quiz",
+  "title": "HashiCorp - Cloud Maturity Quiz",
+  "initial": {
+    "text": "Talk with an expert Question 1 of 8 Are your teams using infrastructure as code (IaC) to provision cloud services? Are your teams using infrastructure as code (IaC) to provision cloud services? Required Not at all Some teams are using independently Many teams are using independently Many teams are using as a common shared service Next GitHub X Youtube LinkedIn Facebook Back to hashicorp.com Terms of use Trust center Trademark policy Trade controls Cookie Manager English",
+    "radios": 32,
+    "checkboxes": 0,
+    "buttons": [
+      "Next",
+      "Cookie Manager",
+      "English"
+    ],
+    "forms": [
+      "style_root__8pEc0"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/terraform-associate-exam-prep",
+  "path": "events/webinars/terraform-associate-exam-prep",
+  "timestamp": "2026-11-22T21:15:39.447Z",
+  "title": "Preparing for the HashiCorp Certified: Terraform Associate (003) certification exam",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/terraform-associate-exam-prep/ef1gckjnm-u04ssau3mbr-dfa7dfbdbdf9-512.jpg": "https://www.datocms-assets.com/2885/1724163283-ef1gckjnm-u04ssau3mbr-dfa7dfbdbdf9-512.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/terraform-associate-exam-prep/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

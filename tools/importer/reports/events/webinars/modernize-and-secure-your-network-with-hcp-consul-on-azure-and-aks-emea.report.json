@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea",
+  "path": "events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea",
+  "timestamp": "2026-11-22T21:15:18.679Z",
+  "title": "Modernize and secure your network with HCP Consul on Azure and AKS (EMEA)",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea/jaredholgate.jpg": "https://www.datocms-assets.com/2885/1676475479-jaredholgate.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea/1516829789807.jpg": "https://www.datocms-assets.com/2885/1668727888-1516829789807.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

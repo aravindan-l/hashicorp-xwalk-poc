@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software",
+  "path": "events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software",
+  "timestamp": "2026-11-22T21:25:25.317Z",
+  "title": "Sicurezza Zero Trust nel ciclo di vita dello sviluppo software",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/sysdig-logo-horz-color-100x400-1.png": "https://www.datocms-assets.com/2885/1663868330-sysdig_logo_horz_color_100x400-1.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/cloudbees-logo-stacked-full-color-1.png": "https://www.datocms-assets.com/2885/1663868105-cloudbees-logo-stacked-full-color-1.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/luca.jpg": "https://www.datocms-assets.com/2885/1636386871-luca.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/roberto.jpg": "https://www.datocms-assets.com/2885/1663867939-roberto.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/giulio.jpg": "https://www.datocms-assets.com/2885/1663868648-giulio.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "921c5da04b83"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/zero-trust-security-for-banking-financial-services",
+  "path": "events/webinars/zero-trust-security-for-banking-financial-services",
+  "timestamp": "2026-11-22T21:12:28.816Z",
+  "title": "Zero Trust Security for Banking & Financial Services (AMER)",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services/ricardo.jpg": "https://www.datocms-assets.com/2885/1761229325-ricardo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services/franco-camba-headshot-1.jpg": "https://www.datocms-assets.com/2885/1669028741-franco-camba-headshot-1.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

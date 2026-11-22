@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault",
+  "path": "events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault",
+  "timestamp": "2026-11-22T21:25:29.551Z",
+  "title": "Securing AI / LLM frameworks with MongoDB and HCP Vault",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault/logo-rgb-forest-green.png": "https://www.datocms-assets.com/2885/1651102226-logo_rgb_forest-green.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault/polina.jpg": "https://www.datocms-assets.com/2885/1697817795-polina.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault/sam-pandey-headshot-edited.png": "https://www.datocms-assets.com/2885/1712861405-sam-pandey-headshot-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault/alex-bauer-headshot-picture.jpg": "https://www.datocms-assets.com/2885/1747930642-alex-bauer-headshot-picture.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "921c5da04b83"
+}

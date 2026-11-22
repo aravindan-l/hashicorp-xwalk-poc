@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/virtual_strategy_day_jp_vol3",
+  "path": "events/webinars/virtual-strategy-day-jp-vol3",
+  "timestamp": "2026-11-22T21:15:45.641Z",
+  "title": "HashiCorp Virtual Strategy Day Japan Vol.3 マルチクラウド時代における組織規模の戦略的クラウド活用",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-strategy-day-jp-vol3/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

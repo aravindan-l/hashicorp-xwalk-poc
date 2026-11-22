@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/enable-modern-privileged-access-management-with-hashicorp-boundary-europe",
+  "path": "events/webinars/enable-modern-privileged-access-management-with-hashicorp-boundary-europe",
+  "timestamp": "2026-11-22T21:12:19.386Z",
+  "title": "Enable modern privileged access management with HashiCorp Boundary (Europe)",
+  "template": "webinar-detail",
+  "blocks": [],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/enable-modern-privileged-access-management-with-hashicorp-boundary-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

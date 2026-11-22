@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/vaultru-men-sirizumatome-1",
+  "path": "events/webinars/vaultru-men-sirizumatome-1",
+  "timestamp": "2026-11-22T21:13:55.737Z",
+  "title": "Vault入門シリーズまとめ #1",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/vaultru-men-sirizumatome-1/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

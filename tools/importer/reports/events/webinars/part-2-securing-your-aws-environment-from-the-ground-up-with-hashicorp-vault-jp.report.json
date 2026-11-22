@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp",
+  "path": "events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp",
+  "timestamp": "2026-11-22T21:10:44.274Z",
+  "title": "AWS ウェビナー シリーズ #2: HashiCorp Vault を使用して AWS 環境を根本から保護する",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp/hashicorp-verticallogo-black.svg": "https://www.datocms-assets.com/2885/1515620065-hashicorp_verticallogo_black.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp/shogo-katsurad.jpg": "https://www.datocms-assets.com/2885/1631249151-shogo-katsurad.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp/hiroto-sakuraya.jpg": "https://www.datocms-assets.com/2885/1682486032-hiroto-sakuraya.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

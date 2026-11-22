@@ -1,0 +1,9 @@
+{
+  "status": "failed",
+  "url": "https://www.hashicorp.com/en/blog/enforce-private-module-registry-usage-in-terraform-with-sentinel",
+  "path": "en/blog/enforce-private-module-registry-usage-in-terraform-with-sentinel",
+  "timestamp": "2026-11-22T18:02:29.979Z",
+  "error": "page.evaluate: Target page, context or browser has been closed",
+  "errorStack": "page.evaluate: Target page, context or browser has been closed\n    at processUrl (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:939:16)\n    at async main (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:1316:22)",
+  "importScript": "fcf0db1179c1"
+}

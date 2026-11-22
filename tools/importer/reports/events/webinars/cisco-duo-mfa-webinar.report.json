@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cisco-duo-mfa-webinar",
+  "path": "events/webinars/cisco-duo-mfa-webinar",
+  "timestamp": "2026-11-22T21:14:44.559Z",
+  "title": "Vault Multi-Factor Authentication with Cisco Duo",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cisco-duo-mfa-webinar/color.svg": "https://www.datocms-assets.com/2885/1506609693-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cisco-duo-mfa-webinar/cropped0010talha.jpg": "https://www.datocms-assets.com/2885/1560891427-cropped0010talha.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cisco-duo-mfa-webinar/wolfgang-goerlich-duo-2020-1.jpg": "https://www.datocms-assets.com/2885/1652294018-wolfgang_goerlich_duo_2020-1.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cisco-duo-mfa-webinar/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

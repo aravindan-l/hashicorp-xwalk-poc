@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/vault-office-hours-americas-and-europe",
+  "path": "events/webinars/vault-office-hours-americas-and-europe",
+  "timestamp": "2026-11-22T21:20:35.937Z",
+  "title": "Vault Office Hours (Americas and Europe)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/sam-pandey-headshot-edited.png": "https://www.datocms-assets.com/2885/1712861405-sam-pandey-headshot-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/david-mills.jpg": "https://www.datocms-assets.com/2885/1752000607-david-mills.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/headshot-2.png": "https://www.datocms-assets.com/2885/1694009141-headshot_2.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-office-hours-americas-and-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

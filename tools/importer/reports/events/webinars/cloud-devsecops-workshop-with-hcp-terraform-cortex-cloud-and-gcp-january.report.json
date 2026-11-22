@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january",
+  "path": "events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january",
+  "timestamp": "2026-11-22T21:18:05.655Z",
+  "title": "Cloud DevSecOps Workshop with HCP Terraform, Cortex Cloud and GCP January",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january/lockup-googlecloud-fullcolor-rgb-139x24px.svg": "https://www.datocms-assets.com/2885/1667342692-lockup_googlecloud_fullcolor_rgb_139x24px.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january/pan-color.svg": "https://www.datocms-assets.com/2885/1585157602-pan-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january/headshot-lee.png": "https://www.datocms-assets.com/2885/1769012890-headshot-lee.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january/terry-hillis-headshot-panw.jpg": "https://www.datocms-assets.com/2885/1758042348-terry-hillis-headshot-panw.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

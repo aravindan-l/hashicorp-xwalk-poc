@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary",
+  "path": "events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary",
+  "timestamp": "2026-11-22T21:19:40.818Z",
+  "title": "Simplify secure access: An introduction to HashiCorp Boundary",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary/guy-baros-headshot.jpg": "https://www.datocms-assets.com/2885/1585127663-guy-baros-headshot.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary/danny-knights.jpg": "https://www.datocms-assets.com/2885/1728923280-danny-knights.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

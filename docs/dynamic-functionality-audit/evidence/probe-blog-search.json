@@ -1,0 +1,132 @@
+{
+  "steps": [
+    {
+      "name": "load blog",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 200,
+        "url": "https://www.hashicorp.com/en/blog",
+        "title": "HashiCorp Blog",
+        "controls": {
+          "inputs": [
+            "input[text] name=subnavSearch placeholder=Search label=Search"
+          ],
+          "buttons": [
+            "Explore topics",
+            "Search",
+            "Close localized page notification",
+            "Available languages",
+            "Expand",
+            "Strategy & insights",
+            "Technology & solutions",
+            "Customer stories & success",
+            "Previous page",
+            "Next page",
+            "Whiteboard overviews",
+            "Do cloud right, explained series",
+            "Demos",
+            "Customers & users",
+            "Play Video: Kubernetes Security: Solving"
+          ],
+          "resultLinks": 6
+        }
+      }
+    },
+    {
+      "name": "blog subnav search submit",
+      "ok": true,
+      "error": null,
+      "result": {
+        "url": "https://www.hashicorp.com/en/blog/all?q=vault%20radar",
+        "title": "The Stack by HashiCorp",
+        "controls": {
+          "inputs": [
+            "input[text] name=subnavSearch placeholder=Search label=Search"
+          ],
+          "buttons": [
+            "Explore topics",
+            "Search",
+            "Clear filters",
+            "Open filters",
+            "Expand",
+            "Load more"
+          ],
+          "resultLinks": 5
+        }
+      }
+    },
+    {
+      "name": "blog: Explore topics dropdown",
+      "ok": true,
+      "error": null,
+      "result": {
+        "items": [
+          "Vault -> /blog/products/vault",
+          "Terraform -> /blog/products/terraform",
+          "Vault Radar -> /blog/products/vault-radar",
+          "Waypoint -> /blog/products/waypoint",
+          "Vagrant -> /blog/products/vagrant",
+          "Packer -> /blog/products/packer",
+          "Nomad -> /blog/products/nomad",
+          "Consul -> /blog/products/consul",
+          "Boundary -> /blog/products/boundary",
+          "Speed & agility -> /blog/tags/speed-agility",
+          "Risk & compliance -> /blog/tags/risk-compliance",
+          "Optimize operations -> /blog/tags/optimize-operations",
+          "Infrastructure automation -> /blog/tags/infrastructure-automation",
+          "Secrets & identity management -> /blog/tags/secrets-identity-management",
+          "Platform engineering -> /blog/tags/platform",
+          "Culture & collaboration -> /blog/tags/culture-collaboration",
+          "AI -> /blog/tags/artificial-intelligence",
+          "English -> /en/blog",
+          "Français -> /fr/blog",
+          "Deutsch -> /de/blog",
+          "日本語 -> /ja/blog",
+          "한국어 -> /ko/blog",
+          "Português -> /pt/blog",
+          "Español -> /es/blog",
+          "Bahasa Indonesia -> /id/blog",
+          "中文 -> /zh/blog",
+          "Italiano -> /it/blog",
+          "العربية -> /ar/blog"
+        ]
+      }
+    },
+    {
+      "name": "blog category page",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 200,
+        "url": "https://www.hashicorp.com/en/blog/categories/customer-stories-success",
+        "title": "The Stack by HashiCorp",
+        "controls": {
+          "inputs": [
+            "input[text] name=subnavSearch placeholder=Search label=Search"
+          ],
+          "buttons": [
+            "Explore topics",
+            "Search",
+            "Close localized page notification",
+            "Available languages",
+            "Expand"
+          ],
+          "resultLinks": 6
+        }
+      }
+    },
+    {
+      "name": "blog tag page: count posts / load more",
+      "ok": true,
+      "error": null,
+      "result": {
+        "status": 200,
+        "url": "https://www.hashicorp.com/en/blog/tags/aws",
+        "title": "The Stack by HashiCorp",
+        "cards": 450,
+        "more": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/snapshot-demo-enhancing-security-with-vault-s-saml-authentication-feature-india",
+  "path": "events/webinars/snapshot-demo-enhancing-security-with-vault-s-saml-authentication-feature-india",
+  "timestamp": "2026-11-22T21:12:58.728Z",
+  "title": "Snapshot Demo: Enhancing Security with Vault’s SAML Authentication Feature (India)",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/snapshot-demo-enhancing-security-with-vault-s-saml-authentication-feature-india/mayur.jpg": "https://www.datocms-assets.com/2885/1669639265-mayur.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/snapshot-demo-enhancing-security-with-vault-s-saml-authentication-feature-india/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

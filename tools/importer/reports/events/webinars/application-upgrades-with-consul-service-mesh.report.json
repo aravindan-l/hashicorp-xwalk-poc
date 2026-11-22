@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/application-upgrades-with-consul-service-mesh",
+  "path": "events/webinars/application-upgrades-with-consul-service-mesh",
+  "timestamp": "2026-11-22T21:14:34.494Z",
+  "title": "Application Upgrades with Consul Service Mesh",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/application-upgrades-with-consul-service-mesh/dan3.png": "https://www.datocms-assets.com/2885/1597622847-dan3.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/application-upgrades-with-consul-service-mesh/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}
