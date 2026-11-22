@@ -6,12 +6,7 @@
       "previewOrg": "aravindan-l",
       "previewSite": "hashicorp-xwalk-poc",
       "contentHostUrl": "author-p147323-e1509959.adobeaemcloud.com",
-      "botProtected": true,
-      "aemSitePath": "/content/hashicorp-xwalk-poc",
-      "aemAssetsFolderPath": "/content/dam/hashicorp-xwalk-poc",
-      "aemSiteName": "hashicorp-xwalk-poc",
-      "aemSiteTitle": "hashicorp-xwalk-poc",
-      "baseUrl": "https://www.hashicorp.com/en"
+      "botProtected": true
     }
   }
 }

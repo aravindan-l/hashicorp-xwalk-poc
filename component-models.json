@@ -570,6 +570,32 @@
     ]
   },
   {
+    "id": "proof",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "label": "Title",
+        "value": "Discount calculator"
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "text",
+        "label": "Introduction"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "endpoint",
+        "label": "API path on AEM Publish",
+        "value": "/bin/hashicorp/discount",
+        "description": "Path of the discount servlet (HTML or JSON response). The host is chosen per environment (local SDK, aem.page/aem.live, production)."
+      }
+    ]
+  },
+  {
     "id": "quote",
     "fields": [
       {
