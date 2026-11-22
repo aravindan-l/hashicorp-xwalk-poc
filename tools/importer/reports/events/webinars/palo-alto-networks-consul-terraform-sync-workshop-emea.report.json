@@ -12,4 +12,8 @@
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/pan-color.svg": "https://www.datocms-assets.com/2885/1585157602-pan-color.svg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/jason-broadbent-headshot.jpg": "https://www.datocms-assets.com/2885/1621854597-jason-broadbent-headshot.jpeg",
-    "/content/dam/hashicorp
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/migara.jpg": "https://www.datocms-assets.com/2885/1616610644-migara.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

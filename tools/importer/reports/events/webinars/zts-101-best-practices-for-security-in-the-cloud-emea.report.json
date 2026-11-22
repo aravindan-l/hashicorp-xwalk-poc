@@ -11,4 +11,7 @@
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea/aubrey-johnson.jpg": "https://www.datocms-assets.com/2885/1622764674-aubrey-johnson.jpeg",
-    "/content/dam/hashicorp-xwalk-poc/events/we
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

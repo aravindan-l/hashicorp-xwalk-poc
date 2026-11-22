@@ -661,6 +661,11 @@ var CustomImportScript = (() => {
       img.setAttribute("src", url);
       noscript.remove();
     });
+    document.querySelectorAll('img[src*="/_next/image?url="]').forEach((img) => {
+      const wrapped = (img.getAttribute("src") || "").match(/\/_next\/image\?url=([^&]+)/);
+      if (wrapped) img.setAttribute("src", decodeURIComponent(wrapped[1]));
+      img.removeAttribute("srcset");
+    });
     document.querySelectorAll('img[aria-hidden="true"][src^="data:image/svg"]').forEach((n) => n.remove());
   }
   function transform7(hookName, element, payload) {

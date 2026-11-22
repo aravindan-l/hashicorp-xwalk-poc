@@ -101,6 +101,12 @@ function resolveLazyImages(document) {
     img.setAttribute('src', url);
     noscript.remove();
   });
+  // Rendered next/image URLs go through the bot-protected hashicorp.com proxy: use the source asset.
+  document.querySelectorAll('img[src*="/_next/image?url="]').forEach((img) => {
+    const wrapped = (img.getAttribute('src') || '').match(/\/_next\/image\?url=([^&]+)/);
+    if (wrapped) img.setAttribute('src', decodeURIComponent(wrapped[1]));
+    img.removeAttribute('srcset');
+  });
   // The 1x1 sizing placeholder <img> that next/image puts before the real one.
   document.querySelectorAll('img[aria-hidden="true"][src^="data:image/svg"]').forEach((n) => n.remove());
 }
