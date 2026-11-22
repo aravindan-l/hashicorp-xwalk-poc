@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april",
+  "path": "events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april",
+  "timestamp": "2026-11-22T21:16:38.803Z",
+  "title": "Self-service infrastructure with Terraform no-code provisioning and the ServiceNow catalog",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/servicenow-logo.svg": "https://www.datocms-assets.com/2885/1601066676-servicenow-logo.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/olivia-corley.jpg": "https://www.datocms-assets.com/2885/1721138814-olivia-corley.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/polina.jpg": "https://www.datocms-assets.com/2885/1697817795-polina.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/sheneska-williams.png": "https://www.datocms-assets.com/2885/1721853163-sheneska_williams.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/img-8856.jpg": "https://www.datocms-assets.com/2885/1759412364-img_8856.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation",
+  "path": "events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation",
+  "timestamp": "2026-11-22T21:10:32.277Z",
+  "title": "From Fragmented Workflows to Policy-Driven Hybrid Cloud Automation",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation/ting-li.jpg": "https://www.datocms-assets.com/2885/1733259215-ting-li.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation/chinonso.jpg": "https://www.datocms-assets.com/2885/1791990214-chinonso.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

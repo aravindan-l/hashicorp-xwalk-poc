@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/building-a-successful-zero-trust-security-strategy-apac",
+  "path": "events/webinars/building-a-successful-zero-trust-security-strategy-apac",
+  "timestamp": "2026-11-22T21:15:36.509Z",
+  "title": "Building a Successful Zero Trust Security Strategy (APAC)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-a-successful-zero-trust-security-strategy-apac/cam-photo.jpg": "https://www.datocms-assets.com/2885/1586407652-cam-photo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-a-successful-zero-trust-security-strategy-apac/tony-phan-2.jpg": "https://www.datocms-assets.com/2885/1632375023-tony-phan-2.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-a-successful-zero-trust-security-strategy-apac/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

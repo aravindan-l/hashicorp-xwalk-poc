@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/journey-to-the-cloud-with-microsoft",
+  "path": "events/webinars/journey-to-the-cloud-with-microsoft",
+  "timestamp": "2026-11-22T21:12:44.172Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft/iman.jpg": "https://www.datocms-assets.com/2885/1618943661-iman.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft/screen-shot-2023-03-27-at-12-55-26-pm.png": "https://www.datocms-assets.com/2885/1679946992-screen-shot-2023-03-27-at-12-55-26-pm.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/journey-to-the-cloud-with-microsoft/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

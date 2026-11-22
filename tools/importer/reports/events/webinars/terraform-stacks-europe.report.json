@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/terraform-stacks-europe",
+  "path": "events/webinars/terraform-stacks-europe",
+  "timestamp": "2026-11-22T21:17:18.314Z",
+  "title": "HashiConf Recap: Terraform Stacks (Europe)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/terraform-stacks-europe/ruddy-2021-sm.png": "https://www.datocms-assets.com/2885/1689618967-ruddy_2021_sm.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/terraform-stacks-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

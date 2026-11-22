@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer",
+  "path": "events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer",
+  "timestamp": "2026-11-22T21:13:17.261Z",
+  "title": "Snapshots India: Building Multi-Cloud Golden Image Pipelines with HCP Packer Description",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer/burkey3.png": "https://www.datocms-assets.com/2885/1597621090-burkey3.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer/tio-bagio.jpg": "https://www.datocms-assets.com/2885/1624843989-tio-bagio.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

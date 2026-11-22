@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-consul",
+  "path": "events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-consul",
+  "timestamp": "2026-11-22T21:10:48.517Z",
+  "title": "HashiCorp Webinar sugli aggiornamenti dei prodotti - Consul",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-consul/luca.jpg": "https://www.datocms-assets.com/2885/1636386871-luca.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-consul/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

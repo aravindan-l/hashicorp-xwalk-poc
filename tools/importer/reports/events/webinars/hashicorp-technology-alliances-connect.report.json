@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-technology-alliances-connect",
+  "path": "events/webinars/hashicorp-technology-alliances-connect",
+  "timestamp": "2026-11-22T21:12:25.577Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-technology-alliances-connect/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

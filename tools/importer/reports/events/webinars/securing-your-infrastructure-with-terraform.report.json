@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/securing-your-infrastructure-with-terraform",
+  "path": "events/webinars/securing-your-infrastructure-with-terraform",
+  "timestamp": "2026-11-22T21:05:31.079Z",
+  "title": "Securing your infrastructure with Terraform",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/securing-your-infrastructure-with-terraform/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "431509bcae4b"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-new-releases-emea-session",
+  "path": "events/webinars/hashicorp-new-releases-emea-session",
+  "timestamp": "2026-11-22T21:17:14.341Z",
+  "title": "HashiCorp New Releases (EMEA)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/screenshot-2023-06-20-at-2-10-59-pm.png": "https://www.datocms-assets.com/2885/1687295492-screenshot-2023-06-20-at-2-10-59-pm.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/ef1gckjnm-u01gy9pgbt9-8e5f0f73b17f-512.jpg": "https://www.datocms-assets.com/2885/1617814787-ef1gckjnm-u01gy9pgbt9-8e5f0f73b17f-512.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/pete.jpg": "https://www.datocms-assets.com/2885/1678761519-pete.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/paul-thrasher.jpg": "https://www.datocms-assets.com/2885/1708957232-paul-thrasher.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/van.jpg": "https://www.datocms-assets.com/2885/1678761504-van.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/mikenomitch1.jpg": "https://www.datocms-assets.com/2885/1569273909-mikenomitch1.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashiconf-roundup-slm-asia",
+  "path": "events/webinars/hashiconf-roundup-slm-asia",
+  "timestamp": "2026-11-22T21:05:49.399Z",
+  "title": "Strengthening cloud security and developer productivity with HashiCorp: A deep dive into Vault, Boundary, and Consul updates (Asia and Australia)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashiconf-roundup-slm-asia/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "431509bcae4b"
+}

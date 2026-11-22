@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing",
+  "path": "events/webinars/why-hcp-terraform-and-how-to-automate-module-testing",
+  "timestamp": "2026-11-22T21:10:41.855Z",
+  "title": "Why HCP Terraform and How to Automate Module Testing",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing/solidify-logo-dark.svg": "https://www.datocms-assets.com/2885/1724134743-solidify-logo-dark.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing/peter.jpg": "https://www.datocms-assets.com/2885/1724408936-peter.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing/mattias-copy.jpg": "https://www.datocms-assets.com/2885/1724134614-mattias-copy.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

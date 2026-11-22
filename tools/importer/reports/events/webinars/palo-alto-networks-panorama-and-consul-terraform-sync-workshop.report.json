@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/palo-alto-networks-panorama-and-consul-terraform-sync-workshop",
+  "path": "events/webinars/palo-alto-networks-panorama-and-consul-terraform-sync-workshop",
+  "timestamp": "2026-11-22T21:05:33.870Z",
+  "title": "Workshop: Palo Alto Networks Next-Generation Firewalls and Consul-Terraform-Sync",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-panorama-and-consul-terraform-sync-workshop/pan-color.svg": "https://www.datocms-assets.com/2885/1585157602-pan-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-panorama-and-consul-terraform-sync-workshop/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "431509bcae4b"
+}

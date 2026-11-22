@@ -1,0 +1,33 @@
+/* structural only: brand styling comes in the design pass */
+.marketo-form .marketo-form-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+  background-color: var(--light-color);
+}
+
+.marketo-form .marketo-form-title {
+  margin: 0;
+}
+
+.marketo-form .marketo-form-placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  min-height: 240px;
+  padding: 24px;
+  border: 1px dashed currentcolor;
+  text-align: center;
+}
+
+.marketo-form .marketo-form-placeholder p {
+  margin: 0;
+}
+
+@media (width >= 900px) {
+  .marketo-form .marketo-form-panel {
+    padding: 64px;
+  }
+}

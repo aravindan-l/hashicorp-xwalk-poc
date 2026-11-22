@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/strengthen-aws-infrastructure-security-with-sentinel-in-terraform",
+  "path": "events/webinars/strengthen-aws-infrastructure-security-with-sentinel-in-terraform",
+  "timestamp": "2026-11-22T21:12:35.004Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/strengthen-aws-infrastructure-security-with-sentinel-in-terraform/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

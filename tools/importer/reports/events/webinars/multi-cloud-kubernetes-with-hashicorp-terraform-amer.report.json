@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer",
+  "path": "events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer",
+  "timestamp": "2026-11-22T21:16:16.131Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer/img-8856.jpg": "https://www.datocms-assets.com/2885/1759412364-img_8856.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer/ef1gckjnm-ws7gfnr55-7134b75facfa-512.jpg": "https://www.datocms-assets.com/2885/1705422289-ef1gckjnm-ws7gfnr55-7134b75facfa-512.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer/alex-someson.jpg": "https://www.datocms-assets.com/2885/1705423402-alex-someson.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

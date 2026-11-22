@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet",
+  "path": "events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet",
+  "timestamp": "2026-11-22T21:16:43.834Z",
+  "title": "Security Series with HashiCorp and Microsoft Azure Part 3: Meeting Image Compliance on Your Azure Fleet with Packer (EMEA)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet/jaredholgate.jpg": "https://www.datocms-assets.com/2885/1676475479-jaredholgate.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

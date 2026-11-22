@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance-emea",
+  "path": "events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance-emea",
+  "timestamp": "2026-11-22T21:12:16.423Z",
+  "title": "Cloud Fundamentals: Maintaining continuous cloud compliance",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance-emea/ricardo.jpg": "https://www.datocms-assets.com/2885/1761229325-ricardo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

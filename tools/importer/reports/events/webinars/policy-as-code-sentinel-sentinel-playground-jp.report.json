@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/policy-as-code-sentinel-sentinel-playground-jp",
+  "path": "events/webinars/policy-as-code-sentinel-sentinel-playground-jp",
+  "timestamp": "2026-11-22T21:14:21.573Z",
+  "title": "Policy as Code - Sentinel とSentinel Playground のご紹介",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/policy-as-code-sentinel-sentinel-playground-jp/tadashi-ito.jpg": "https://www.datocms-assets.com/2885/1625658473-tadashi-ito.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/policy-as-code-sentinel-sentinel-playground-jp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

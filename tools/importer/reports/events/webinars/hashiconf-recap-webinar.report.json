@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashiconf-recap-webinar",
+  "path": "events/webinars/hashiconf-recap-webinar",
+  "timestamp": "2026-11-22T21:15:32.470Z",
+  "title": "HashiConf Recap Webinar",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashiconf-recap-webinar/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

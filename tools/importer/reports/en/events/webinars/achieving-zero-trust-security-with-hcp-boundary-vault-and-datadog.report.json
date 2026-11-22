@@ -1,0 +1,10 @@
+{
+  "status": "failed",
+  "url": "https://www.hashicorp.com/en/events/webinars/achieving-zero-trust-security-with-hcp-boundary-vault-and-datadog",
+  "path": "en/events/webinars/achieving-zero-trust-security-with-hcp-boundary-vault-and-datadog",
+  "timestamp": "2026-11-22T21:18:30.751Z",
+  "error": "page.evaluate: Error: Failed to import page: Checkpoint page instead of webinar content (\"Vercel Security Checkpoint\"); not importing\n    at eval (eval at evaluate (:370:30), <anonymous>:31:15)\n    at async <anonymous>:381:23",
+  "errorStack": "page.evaluate: Error: Failed to import page: Checkpoint page instead of webinar content (\"Vercel Security Checkpoint\"); not importing\n    at eval (eval at evaluate (:370:30), <anonymous>:31:15)\n    at async <anonymous>:381:23\n    at processUrl (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:991:40)\n    at async main (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:1316:22)",
+  "template": "webinar-detail",
+  "importScript": "eab72306cfc1"
+}

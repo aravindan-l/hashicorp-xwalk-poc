@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone",
+  "path": "events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone",
+  "timestamp": "2026-11-22T21:18:56.795Z",
+  "title": "Accelerate Transformation with Terraform on AWS Landing Zone",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone/welly-siaw.jpg": "https://www.datocms-assets.com/2885/1702571029-welly-siaw.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

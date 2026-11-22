@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar",
+  "path": "events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar",
+  "timestamp": "2026-11-22T21:14:30.713Z",
+  "title": "Dynamic certificate management on F5 BIG-IP using HashiCorp Vault",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar/f5-logo-rgb.svg": "https://www.datocms-assets.com/2885/1568851431-f5-logo-rgb.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar/alexc.png": "https://www.datocms-assets.com/2885/1620941365-alexc.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar/sanjayshitole.jpg": "https://www.datocms-assets.com/2885/1621465502-sanjayshitole.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/nomad-application-orchestration",
+  "path": "events/webinars/nomad-application-orchestration",
+  "timestamp": "2026-11-22T21:10:38.603Z",
+  "title": "Nomad: Application Orchestration",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/nomad-application-orchestration/andreyna-gonzalez.png": "https://www.datocms-assets.com/2885/1715981320-andreyna-gonzalez.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/nomad-application-orchestration/allaeddine-elareed-1-of-2.jpg": "https://www.datocms-assets.com/2885/1724155462-allaeddine-elareed-1-of-2.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/nomad-application-orchestration/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

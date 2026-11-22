@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia",
+  "path": "events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia",
+  "timestamp": "2026-11-22T21:11:16.505Z",
+  "title": "Managing infrastructure lifecycles - Drift detection and continuous validation (Asia and Australia)",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia/vijay-sharma.png": "https://www.datocms-assets.com/2885/1725394187-vijay-sharma.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia/rama-edited.png": "https://www.datocms-assets.com/2885/1753720607-rama-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

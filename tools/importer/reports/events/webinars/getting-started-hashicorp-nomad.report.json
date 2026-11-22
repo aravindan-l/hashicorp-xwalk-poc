@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/getting-started-hashicorp-nomad",
+  "path": "events/webinars/getting-started-hashicorp-nomad",
+  "timestamp": "2026-11-22T21:14:08.997Z",
+  "title": "HashiCorp Nomadで始めるマルチタイプワークロードオーケストレーション",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/getting-started-hashicorp-nomad/takayuki-kaburagi.jpg": "https://www.datocms-assets.com/2885/1586920197-takayuki-kaburagi.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/getting-started-hashicorp-nomad/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

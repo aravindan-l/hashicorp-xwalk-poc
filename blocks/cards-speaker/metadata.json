@@ -1,0 +1,11 @@
+{
+  "variantName": "cards-speaker",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Horizontal media-object speaker items: square headshot (about 100px) on the left, then bold name, small role and company line, and a row of monochrome LinkedIn, GitHub and X icons. Compact density, no card border, items stack vertically.",
+  "contentPattern": "One row per presenter, two cells: 1) headshot image (alt = speaker name), 2) text: heading with the name, paragraph with role and company, paragraph with social links (LinkedIn, GitHub, X). The number of rows varies per page.",
+  "options": [],
+  "memberVariantIds": ["cards-speaker"],
+  "usage": "Presenters or speakers list on webinar and event detail pages, usually beside a 'Presenters' heading in a 'split' section.",
+  "reuseGuidance": "Use for any list of people with a headshot, name, role and social links. Social links are recognised by host (linkedin.com, github.com, twitter.com or x.com) and shown as icons; other links stay as text links."
+}

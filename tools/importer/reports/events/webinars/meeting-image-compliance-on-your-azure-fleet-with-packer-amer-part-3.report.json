@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3",
+  "path": "events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3",
+  "timestamp": "2026-11-22T21:16:46.031Z",
+  "title": "Part 3: Meeting Image Compliance on Your Azure Fleet with Packer (AMER)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3/azure-stacked-color.svg": "https://www.datocms-assets.com/2885/1539799149-azure-stacked-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3/david-wright-hashicorp2-edited-edited.png": "https://www.datocms-assets.com/2885/1700146233-david-wright-hashicorp2-edited-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3/screen-shot-2022-11-01-at-1-30-12-pm.png": "https://www.datocms-assets.com/2885/1667339920-screen-shot-2022-11-01-at-1-30-12-pm.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

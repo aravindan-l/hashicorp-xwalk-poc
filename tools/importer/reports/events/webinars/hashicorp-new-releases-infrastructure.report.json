@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-new-releases-infrastructure",
+  "path": "events/webinars/hashicorp-new-releases-infrastructure",
+  "timestamp": "2026-11-22T21:17:56.220Z",
+  "title": "HashiCorp New Releases: Infrastructure",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-infrastructure/frame-1.png": "https://www.datocms-assets.com/2885/1728595899-frame-1.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-infrastructure/paul-thrasher.jpg": "https://www.datocms-assets.com/2885/1708957232-paul-thrasher.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-infrastructure/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

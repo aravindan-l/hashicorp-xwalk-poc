@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-how-to-adopt-a-proactive-risk-posture",
+  "path": "events/webinars/cloud-fundamentals-how-to-adopt-a-proactive-risk-posture",
+  "timestamp": "2026-11-22T21:12:03.608Z",
+  "title": "Cloud Fundamentals: How to Adopt a Proactive Risk Posture",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-how-to-adopt-a-proactive-risk-posture/ralph-hs.jpg": "https://www.datocms-assets.com/2885/1770137007-ralph-hs.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-how-to-adopt-a-proactive-risk-posture/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

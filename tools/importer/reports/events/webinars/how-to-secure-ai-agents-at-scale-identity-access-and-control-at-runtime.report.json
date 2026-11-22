@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime",
+  "path": "events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime",
+  "timestamp": "2026-11-22T21:15:52.805Z",
+  "title": "How to secure AI Agents at scale: Identity, Access, and Control at Runtime",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/color.svg": "https://www.datocms-assets.com/2885/1506527263-color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/hashicorp-verticallogo-black.svg": "https://www.datocms-assets.com/2885/1515620065-hashicorp_verticallogo_black.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/richard-bennett.jpg": "https://www.datocms-assets.com/2885/1781876252-richard-bennett.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/tim-arkless.jpg": "https://www.datocms-assets.com/2885/1781876498-tim-arkless.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/elliott-almeida.png": "https://www.datocms-assets.com/2885/1782310412-elliott-almeida.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

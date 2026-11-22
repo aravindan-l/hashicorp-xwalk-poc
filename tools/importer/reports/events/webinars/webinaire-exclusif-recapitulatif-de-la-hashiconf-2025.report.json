@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/webinaire-exclusif-recapitulatif-de-la-hashiconf-2025",
+  "path": "events/webinars/webinaire-exclusif-recapitulatif-de-la-hashiconf-2025",
+  "timestamp": "2026-11-22T21:11:31.787Z",
+  "title": "Webinaire : Récapitulatif de la HashiConf 2025",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/webinaire-exclusif-recapitulatif-de-la-hashiconf-2025/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a",
+  "path": "events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a",
+  "timestamp": "2026-11-22T21:13:52.312Z",
+  "title": "Comment automatiser le déploiement et la supervision de vos microservices grâce à Hashicorp et Lightstep",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/lightstep-color.svg": "https://www.datocms-assets.com/2885/1650897644-lightstep_color.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/image002.png": "https://www.datocms-assets.com/2885/1649253733-image002.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/image001.jpg": "https://www.datocms-assets.com/2885/1649254293-image001.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/jona-apelbaum.png": "https://www.datocms-assets.com/2885/1633552886-jona-apelbaum.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/screenshot-2021-12-15-at-17-13-42.png": "https://www.datocms-assets.com/2885/1649254600-screenshot-2021-12-15-at-17-13-42.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

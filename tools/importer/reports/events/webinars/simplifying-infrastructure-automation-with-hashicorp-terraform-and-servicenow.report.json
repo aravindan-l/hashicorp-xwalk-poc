@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow",
+  "path": "events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow",
+  "timestamp": "2026-11-22T21:20:03.300Z",
+  "title": "Simplifying infrastructure automation with HashiCorp Terraform and ServiceNow",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/servicenow-logo.svg": "https://www.datocms-assets.com/2885/1601066676-servicenow-logo.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/polina.jpg": "https://www.datocms-assets.com/2885/1697817795-polina.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifyi

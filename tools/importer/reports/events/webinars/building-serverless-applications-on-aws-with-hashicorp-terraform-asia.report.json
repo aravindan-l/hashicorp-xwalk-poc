@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia",
+  "path": "events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia",
+  "timestamp": "2026-11-22T21:16:12.962Z",
+  "title": "Building serverless applications on AWS with HashiCorp Terraform (Asia and Australia)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia/seb-sebakasp-1-1.png": "https://www.datocms-assets.com/2885/1726073859-seb-sebakasp-1-1.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia/amit-kumar-jha.png": "https://www.datocms-assets.com/2885/1725907050-amit-kumar-jha.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

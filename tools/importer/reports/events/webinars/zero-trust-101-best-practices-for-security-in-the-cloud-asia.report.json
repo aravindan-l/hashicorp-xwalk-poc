@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/zero-trust-101-best-practices-for-security-in-the-cloud-asia",
+  "path": "events/webinars/zero-trust-101-best-practices-for-security-in-the-cloud-asia",
+  "timestamp": "2026-11-22T21:12:38.450Z",
+  "title": "Zero Trust 101: Best Practices for Security in the Cloud (Asia & Australia)",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-101-best-practices-for-security-in-the-cloud-asia/aubrey-johnson.jpg": "https://www.datocms-assets.com/2885/1622764674-aubrey-johnson.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-101-best-practices-for-security-in-the-cloud-asia/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

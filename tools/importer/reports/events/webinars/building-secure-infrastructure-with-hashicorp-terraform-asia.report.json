@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/building-secure-infrastructure-with-hashicorp-terraform-asia",
+  "path": "events/webinars/building-secure-infrastructure-with-hashicorp-terraform-asia",
+  "timestamp": "2026-11-22T21:17:31.186Z",
+  "title": "Building secure infrastructure with HashiCorp Terraform and Packer (Asia and Australia)",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-secure-infrastructure-with-hashicorp-terraform-asia/tom-straub.png": "https://www.datocms-assets.com/2885/1719864563-tom-straub.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/building-secure-infrastructure-with-hashicorp-terraform-asia/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

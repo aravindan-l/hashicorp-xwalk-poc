@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/virtual-partner-day-2024-zero-trust-security-europe",
+  "path": "events/webinars/virtual-partner-day-2024-zero-trust-security-europe",
+  "timestamp": "2026-11-22T21:12:41.410Z",
+  "title": "Virtual Partner Day 2024: Zero trust security (Europe)",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/image.png": "https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1611308816-datadog-horizontal-rgb.png&w=3840&q=75",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/emel.jpg": "https://www.datocms-assets.com/2885/1680539587-emel.jpg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/cojan.jpg": "https://www.datocms-assets.com/2885/1676817608-cojan.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/simon-lynch.jpg": "https://www.datocms-assets.com/2885/1698778341-simon-lynch.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/rayploskicropped.jpg": "https://www.datocms-assets.com/2885/1667341514-rayploskicropped.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/andrew-krug.jpg": "https://www.datocms-assets.com/2885/1622761813-andrew-krug.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

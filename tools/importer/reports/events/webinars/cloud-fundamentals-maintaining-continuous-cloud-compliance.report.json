@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance",
+  "path": "events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance",
+  "timestamp": "2026-11-22T21:16:23.088Z",
+  "title": "Cloud Fundamentals: Maintaining continuous cloud compliance",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance/jackson-connell-headshot.jpg": "https://www.datocms-assets.com/2885/1757028180-jackson-connell-headshot.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance/rama-edited.png": "https://www.datocms-assets.com/2885/1753720607-rama-edited.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance/vijay-sharma.png": "https://www.datocms-assets.com/2885/1725394187-vijay-sharma.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

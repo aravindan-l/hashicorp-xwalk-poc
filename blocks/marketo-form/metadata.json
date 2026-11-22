@@ -1,0 +1,11 @@
+{
+  "variantName": "marketo-form",
+  "baseBlock": "marketo-form",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Light grey panel in the right half of a split section with a bold heading (e.g. 'Watch the recorded webinar') above a Marketo lead form. Rendered for now as a placeholder panel with no fields and no submit.",
+  "contentPattern": "One column, three rows: 1) title text, 2) Marketo form ID (numeric, e.g. 2334), 3) optional recording link (URL, empty when the gated recording is not exposed).",
+  "options": [],
+  "memberVariantIds": ["marketo-form"],
+  "usage": "Gated content and registration forms on webinar and event pages, placed beside the intro text in a 'split' section. Placeholder only: no Marketo script is loaded and nothing is submitted. The block exposes data-form-id and data-recording-url for a later Marketo forms2 embed.",
+  "reuseGuidance": "Use for any embedded Marketo form (webinar recording gate, event registration). Do not use the EDS form block for Marketo forms. Leave the recording row empty when there is no public recording URL."
+}

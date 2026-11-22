@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/zts-302-user-access-management-with-boundary",
+  "path": "events/webinars/zts-302-user-access-management-with-boundary",
+  "timestamp": "2026-11-22T21:17:48.866Z",
+  "title": "ZTS 302: User Access Management with Boundary",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-302-user-access-management-with-boundary/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

@@ -13,12 +13,12 @@
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-24/associate-exam-session-4",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-24/pro-exams-afternoon-session",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-24/pro-exams-morning-session",
-        "https://hashicorp.com/en/events/webinars/terraform-0-15-building-the-defacto-roadmap-to-stability-usability-and-scalability",
+        "https://hashicorp.com/en/events/webinars/securing-agentic-ai-vault-verify",
+        "https://hashicorp.com/en/events/webinars/vault-1-10-preview",
         "https://hashicorp.com/en/lp/aws-lifecyle-automation",
         "https://hashicorp.com/en/lp/cloud-maturity/results/adopting",
         "https://hashicorp.com/en/lp/deploy-faster-on-azure"
       ],
-      "coverageGaps": [],
       "description": "Landing page: intro text, share links and media or feature strips",
       "blocks": []
     },
@@ -377,6 +377,7 @@
         "https://hashicorp.com/en/events/webinars/das-hashicorp-cloud-betriebsmodell-und-infralovers",
         "https://hashicorp.com/en/events/webinars/das-hashicorp-cloud-betriebsmodell-webinar",
         "https://hashicorp.com/en/events/webinars/das-hashicorp-cloud-operating-model-auf-aws",
+        "https://hashicorp.com/en/events/webinars/das-schweizer-taschenmesser-fuer-it-sicherheit-bei-behoerden",
         "https://hashicorp.com/en/events/webinars/datadog-consul-benchmarking-panel-discussion",
         "https://hashicorp.com/en/events/webinars/datapower-meets-vault-zertifikatsmanagement-fuer-datapower-mit-hashicorp-vault",
         "https://hashicorp.com/en/events/webinars/dealing-with-cyber-securitys-industrial-revolution-apac",
@@ -395,6 +396,7 @@
         "https://hashicorp.com/en/events/webinars/do-cloud-right-foundations-zero-trust-security",
         "https://hashicorp.com/en/events/webinars/don-t-roll-your-own-cryptography-solution-use-vault",
         "https://hashicorp.com/en/events/webinars/dynamic-load-balancing-with-consul-and-nginx-plus",
+        "https://hashicorp.com/en/events/webinars/dynamic-networking-by-consul-terraform-sync",
         "https://hashicorp.com/en/events/webinars/dynamic-networking-with-consul-terraform-sync-for-terraform-enterprise-and-citrix",
         "https://hashicorp.com/en/events/webinars/dynamic-provider-credentials-for-terraform-cloud-emea",
         "https://hashicorp.com/en/events/webinars/dynamic-provider-credentials-with-hcp-terraform-and-vault-on-aws",
@@ -740,7 +742,6 @@
         "https://hashicorp.com/en/events/webinars/securely-modernize-application-development-with-consul-on-ecs",
         "https://hashicorp.com/en/events/webinars/securing-access-to-kubernetes-with-boundary",
         "https://hashicorp.com/en/events/webinars/securing-agentic-ai-emea",
-        "https://hashicorp.com/en/events/webinars/securing-agentic-ai-vault-verify",
         "https://hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault",
         "https://hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault-apj",
         "https://hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault-april",
@@ -837,6 +838,7 @@
         "https://hashicorp.com/en/events/webinars/taking-your-application-global-with-microsoft-and-hashicorp",
         "https://hashicorp.com/en/events/webinars/tech-partner-provider-search-and-actions",
         "https://hashicorp.com/en/events/webinars/teraform-associate-prep-europe",
+        "https://hashicorp.com/en/events/webinars/terraform-0-15-building-the-defacto-roadmap-to-stability-usability-and-scalability",
         "https://hashicorp.com/en/events/webinars/terraform-associate-exam-prep",
         "https://hashicorp.com/en/events/webinars/terraform-aws",
         "https://hashicorp.com/en/events/webinars/terraform-certification-preparation-webinar-emea",
@@ -888,7 +890,6 @@
         "https://hashicorp.com/en/events/webinars/using-vault-to-secure-your-terraform-workflows",
         "https://hashicorp.com/en/events/webinars/using-vault-to-secure-your-terraform-workflows-europe",
         "https://hashicorp.com/en/events/webinars/vault-1-10-overview",
-        "https://hashicorp.com/en/events/webinars/vault-1-10-preview",
         "https://hashicorp.com/en/events/webinars/vault-1-11-overview",
         "https://hashicorp.com/en/events/webinars/vault-1-12-overview",
         "https://hashicorp.com/en/events/webinars/vault-1-6-overview",
@@ -1096,15 +1097,13 @@
         "https://hashicorp.com/en/partners/cloud/alibaba",
         "https://hashicorp.com/en/partners/cloud/oracle",
         "https://hashicorp.com/en/partners/cloud/tencent-cloud",
-        "https://hashicorp.com/en/partners/systems-integrators/cancom",
-        "https://hashicorp.com/en/partners/systems-integrators/st-engineering-mission-software-services-pte-ltd",
-        "https://hashicorp.com/en/partners/tech/alauda",
-        "https://hashicorp.com/en/partners/tech/cast-ai",
-        "https://hashicorp.com/en/partners/tech/cloudsigma",
-        "https://hashicorp.com/en/partners/tech/confluent",
-        "https://hashicorp.com/en/partners/tech/opsmx",
-        "https://hashicorp.com/en/partners/tech/tenable",
-        "https://hashicorp.com/en/partners/tech/turbot",
+        "https://hashicorp.com/en/partners/systems-integrators/cloud-networks",
+        "https://hashicorp.com/en/partners/systems-integrators/stratusgrid",
+        "https://hashicorp.com/en/partners/tech/liquibase",
+        "https://hashicorp.com/en/partners/tech/nobl9-com",
+        "https://hashicorp.com/en/partners/tech/packetfabric",
+        "https://hashicorp.com/en/partners/tech/stackgen-inc",
+        "https://hashicorp.com/en/partners/tech/thales",
         "https://hashicorp.com/en/products/boundary",
         "https://hashicorp.com/en/products/boundary/features",
         "https://hashicorp.com/en/products/boundary/use-cases",
@@ -1158,11 +1157,269 @@
         "https://hashicorp.com/en/trust/security/shared-responsibility-model",
         "https://hashicorp.com/en/trust/security/tfc-data-security",
         "https://hashicorp.com/en/trust/security/tfc-security-model",
-        "https://hashicorp.com/en/trust/security/vulnerability-management"
+        "https://hashicorp.com/en/trust/security/vulnerability-management",
+        "https://www.hashicorp.com/en/events/webinars/securing-the-agentic-runtime-technical-deep-dive",
+        "https://www.hashicorp.com/en/events/webinars/from-fragmented-workflows-to-policy-driven-hybrid-cloud-automation",
+        "https://www.hashicorp.com/en/events/webinars/episode-3-how-to-use-policy-as-code-to-control-cloud-spending-asia-and-australia",
+        "https://www.hashicorp.com/en/events/webinars/nomad-application-orchestration",
+        "https://www.hashicorp.com/en/events/webinars/why-hcp-terraform-and-how-to-automate-module-testing",
+        "https://www.hashicorp.com/en/events/webinars/part-2-securing-your-aws-environment-from-the-ground-up-with-hashicorp-vault-jp",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-consul",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-seamless-hybrid-cloud-automation-emea",
+        "https://www.hashicorp.com/en/events/webinars/standardisez-et-accelerez-vos-deploiements-grace-a-hcp-waypoint",
+        "https://www.hashicorp.com/en/events/webinars/accelerate-your-ai-journey-with-azure-verified-modules-and-ai-landing-zones-using",
+        "https://www.hashicorp.com/en/events/webinars/snapshots-india-consul-and-chaos-engineering",
+        "https://www.hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault-april",
+        "https://www.hashicorp.com/en/events/webinars/hcp-vault-beyond-the-beta",
+        "https://www.hashicorp.com/en/events/webinars/secure-gitops-workflows-with-github-actions-and-hashicorp-vault-india",
+        "https://www.hashicorp.com/en/events/webinars/exploring-consul-1-9-live-webinar",
+        "https://www.hashicorp.com/en/events/webinars/managing-infrastructure-lifecycles-drift-detection-and-continuous-validation-asia",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023",
+        "https://www.hashicorp.com/en/events/webinars/snapshots-india-vault-and-the-kubernetes-secrets-engine",
+        "https://www.hashicorp.com/en/events/webinars/sicurezza-zero-trust-nel-ciclo-di-vita-dello-sviluppo-software",
+        "https://www.hashicorp.com/en/events/webinars/best-practices-using-honeycomb-and-terraform-provider-with-hashicorp",
+        "https://www.hashicorp.com/en/events/webinars/how-to-get-vault-secrets-into-kubernetes-in",
+        "https://www.hashicorp.com/en/events/webinars/webinaire-exclusif-recapitulatif-de-la-hashiconf-2025",
+        "https://www.hashicorp.com/en/events/webinars/vault-using-active-directory-to-broker-ssh-access-to-linux-machines",
+        "https://www.hashicorp.com/en/events/webinars/redefining-digital-transformation-apj",
+        "https://www.hashicorp.com/en/events/webinars/automate-and-scale-your-infrastructure-with-terraform-and-azure-well-architected",
+        "https://www.hashicorp.com/en/events/webinars/the-5-essential-principles-of-modern-privileged-access-management-emea",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-demo-hour-terraform-cost-control-with-tfe-c",
+        "https://www.hashicorp.com/en/events/webinars/riepilogo-di-hashiconf-2023-gli-annunci-principali-in-italiano",
+        "https://www.hashicorp.com/en/events/webinars/advanced-zero-trust-within-hybrid-cloud-infrastructures-to-the-next-level",
+        "https://www.hashicorp.com/en/events/webinars/seminario-web-actualizaciones-de-productos-consul",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-partner-alliances-connect-hpac-fy25",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-how-to-adopt-a-proactive-risk-posture",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-reducing-risk-and-cost-apr",
+        "https://www.hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault-apj",
+        "https://www.hashicorp.com/en/events/webinars/awssummitfollowup-vault-ted",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance-emea",
+        "https://www.hashicorp.com/en/events/webinars/enable-modern-privileged-access-management-with-hashicorp-boundary-europe",
+        "https://www.hashicorp.com/en/events/webinars/observability-as-code-italian-webinar",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-technology-alliances-connect",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-security-for-banking-financial-services",
+        "https://www.hashicorp.com/en/events/webinars/integrating-terraform-into-your-circleci-workflow",
+        "https://www.hashicorp.com/en/events/webinars/strengthen-aws-infrastructure-security-with-sentinel-in-terraform",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-101-best-practices-for-security-in-the-cloud-asia",
+        "https://www.hashicorp.com/en/events/webinars/virtual-partner-day-2024-zero-trust-security-europe",
+        "https://www.hashicorp.com/en/events/webinars/journey-to-the-cloud-with-microsoft",
+        "https://www.hashicorp.com/en/events/webinars/part-3-connecting-and-running-aws-ecs-at-scale-apj",
+        "https://www.hashicorp.com/en/events/webinars/engineering-velocity-with-gcp-and-terraform",
+        "https://www.hashicorp.com/en/events/webinars/azure-security-webinar-series-4-using-boundary-to-access-dynamically-created-azure-jp",
+        "https://www.hashicorp.com/en/events/webinars/controlling-cloud-costs-with-terraform",
+        "https://www.hashicorp.com/en/events/webinars/snapshot-demo-enhancing-security-with-vault-s-saml-authentication-feature-india",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-partner-alliances-connect-august-2023",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-hcp-packer-terraform-cloud",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-high-velocity-teams-emea",
+        "https://www.hashicorp.com/en/events/webinars/azure-maximizing-azure-security-with-terraform-emea",
+        "https://www.hashicorp.com/en/events/webinars/journey-to-the-cloud-with-microsoft-azure",
+        "https://www.hashicorp.com/en/events/webinars/snapshots-india-building-multi-cloud-golden-image-pipelines-with-hcp-packer",
+        "https://www.hashicorp.com/en/events/webinars/azure-security-webinar-series-3-meeting-image-compliance-on-your-azure-fleet-jp",
+        "https://www.hashicorp.com/en/events/webinars/japanese",
+        "https://www.hashicorp.com/en/events/webinars/field-notes-how-to-optimize-your-cloud-spend-americas-and-europe-cs",
+        "https://www.hashicorp.com/en/events/webinars/ms-azure-builtright-ep1",
+        "https://www.hashicorp.com/en/events/webinars/los-beneficios-de-la-automatizacion-de-redes-en-la-nube",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-approach-to-achieving-scalable-dynamic-security-across-multi-clouds-wi",
+        "https://www.hashicorp.com/en/events/webinars/vault-1-6-overview",
+        "https://www.hashicorp.com/en/events/webinars/emea-partner-masterclass-hashicorp-cloud-operating-model",
+        "https://www.hashicorp.com/en/events/webinars/como-controlar-el-costo-y-reducir-el-derroche-de-recursos-en-nube",
+        "https://www.hashicorp.com/en/events/webinars/korea_healthcare",
+        "https://www.hashicorp.com/en/events/webinars/comment-automatiser-le-deploiement-et-la-supervision-de-vos-microservices-grace-a",
+        "https://www.hashicorp.com/en/events/webinars/vaultru-men-sirizumatome-1",
+        "https://www.hashicorp.com/en/events/webinars/how-to-get-vault-secrets-into-kubernetes-kr",
+        "https://www.hashicorp.com/en/events/webinars/migrating-from-vault-oss-to-vault-enterprise-apj",
+        "https://www.hashicorp.com/en/events/webinars/passwordless-authentication-with-hcp-boundary-and-vault",
+        "https://www.hashicorp.com/en/events/webinars/getting-started-hashicorp-nomad",
+        "https://www.hashicorp.com/en/events/webinars/achieving-zone-isolation-with-terraform-cloud-jp",
+        "https://www.hashicorp.com/en/events/webinars/service-identity-the-key-to-zero-trust-with-consul-and-vault",
+        "https://www.hashicorp.com/en/events/webinars/what-s-new-in-terraform-0-14",
+        "https://www.hashicorp.com/en/events/webinars/netapp-ontap-encryption-with-hashicorp-vault",
+        "https://www.hashicorp.com/en/events/webinars/policy-as-code-sentinel-sentinel-playground-jp",
+        "https://www.hashicorp.com/en/events/webinars/vault-1-9-preview",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-security-webinar-south-africa",
+        "https://www.hashicorp.com/en/events/webinars/f5-certificate-lifecycle-automation-on-the-big-ip-webinar",
+        "https://www.hashicorp.com/en/events/webinars/application-upgrades-with-consul-service-mesh",
+        "https://www.hashicorp.com/en/events/webinars/integrating-nomad-with-vault",
+        "https://www.hashicorp.com/en/events/webinars/korean-nomad",
+        "https://www.hashicorp.com/en/events/webinars/cisco-duo-mfa-webinar",
+        "https://www.hashicorp.com/en/events/webinars/the-state-of-utah-s-terraform-journey-people-process-tools",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-vaultwoli-yong-sitakuraudoneiteibuhuan-jing-niokerusekiyuritei",
+        "https://www.hashicorp.com/en/events/webinars/korean-consul",
+        "https://www.hashicorp.com/en/events/webinars/nomadru-men-01-hasimetenonomad",
+        "https://www.hashicorp.com/en/events/webinars/jp_hcp_vault_radar_240515",
+        "https://www.hashicorp.com/en/events/webinars/implementando-infraestrutura-como-codigo-iac-estudo-de-caso-cielo",
+        "https://www.hashicorp.com/en/events/webinars/como-proteger-datos-confidenciales-a-traves-del-cifrado-como-servicio",
+        "https://www.hashicorp.com/en/events/webinars/korean-ci-pipeline-vault",
+        "https://www.hashicorp.com/en/events/webinars/accenture-s-approach-to-zero-trust-security",
+        "https://www.hashicorp.com/en/events/webinars/why-does-a-service-registry-like-consul-matter-kr",
+        "https://www.hashicorp.com/en/events/webinars/byok-bring-your-own-key-with-vault-kr",
+        "https://www.hashicorp.com/en/events/webinars/modernize-and-secure-your-network-with-hcp-consul-on-azure-and-aks-emea",
+        "https://www.hashicorp.com/en/events/webinars/migrating-from-oss-to-enterprise",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-with-tf-prisma-aws-webinar-series",
+        "https://www.hashicorp.com/en/events/webinars/dynamic-provider-credentials-with-hcp-terraform-and-vault-on-aws-aug19",
+        "https://www.hashicorp.com/en/events/webinars/hashiconf-recap-webinar",
+        "https://www.hashicorp.com/en/events/webinars/building-a-successful-zero-trust-security-strategy-apac",
+        "https://www.hashicorp.com/en/events/webinars/terraform-associate-exam-prep",
+        "https://www.hashicorp.com/en/events/webinars/mongodb-kr-datasecops",
+        "https://www.hashicorp.com/en/events/webinars/virtual_strategy_day_jp_vol3",
+        "https://www.hashicorp.com/en/events/webinars/dynamic-secrets-management-including-boundary",
+        "https://www.hashicorp.com/en/events/webinars/how-to-secure-ai-agents-at-scale-identity-access-and-control-at-runtime",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-security-with-boundary-2",
+        "https://www.hashicorp.com/en/events/webinars/scaling-infrastructure-as-code-proven-strategies-and-productive-workflows-america",
+        "https://www.hashicorp.com/en/events/webinars/secure-introduction-with-vault-emea",
+        "https://www.hashicorp.com/en/events/webinars/dynamic-secrets-management-january",
+        "https://www.hashicorp.com/en/events/webinars/cloud-wars-balancing-speed-and-security-for-seamless-development-americas",
+        "https://www.hashicorp.com/en/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-asia",
+        "https://www.hashicorp.com/en/events/webinars/multi-cloud-kubernetes-with-hashicorp-terraform-amer",
+        "https://www.hashicorp.com/en/events/webinars/episode-1-3-phases-of-optimizing-cloud-spend-with-hashicorp-terraform-asia-and-au",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-maintaining-continuous-cloud-compliance",
+        "https://www.hashicorp.com/en/events/webinars/secrets-scanning-unmanaged-secrets-discovery-emea",
+        "https://www.hashicorp.com/en/events/webinars/securing-your-infrastructure-with-terraform-episode3",
+        "https://www.hashicorp.com/en/events/webinars/hashiconf-roundup-boundary-transparent-sessions-america",
+        "https://www.hashicorp.com/en/events/webinars/activer-le-privileged-access-management-avec-hashicorp-boundary",
+        "https://www.hashicorp.com/en/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-august",
+        "https://www.hashicorp.com/en/events/webinars/security-webinar-series-part-3-meeting-image-compliance-on-your-azure-fleet",
+        "https://www.hashicorp.com/en/events/webinars/meeting-image-compliance-on-your-azure-fleet-with-packer-amer-part-3",
+        "https://www.hashicorp.com/en/events/webinars/getting-started-with-hcp-vault-pst-apac",
+        "https://www.hashicorp.com/en/events/webinars/secrets-scanning-unmanaged-secrets-discovery-amer",
+        "https://www.hashicorp.com/en/events/webinars/pki-best-practices-amer",
+        "https://www.hashicorp.com/en/events/webinars/pki-best-practices-asia-australia",
+        "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-rapid-application-delivery",
+        "https://www.hashicorp.com/en/events/webinars/a-guide-to-the-cloud-operating-maturity-model",
+        "https://www.hashicorp.com/en/events/webinars/secure-introduction-with-vault-26q1",
+        "https://www.hashicorp.com/en/events/webinars/slash-risks-and-boost-developer-productivity-with-wiz-s-new-integration",
+        "https://www.hashicorp.com/en/events/webinars/aws-terraform-solution-series-immersion-day-americas-jan",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-new-releases-emea-session",
+        "https://www.hashicorp.com/en/events/webinars/terraform-stacks-europe",
+        "https://www.hashicorp.com/en/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-americas-and-europe-infrastructure",
+        "https://www.hashicorp.com/en/events/webinars/provisioning-aws-well-architected-landing-zones",
+        "https://www.hashicorp.com/en/events/webinars/hcp-vault-radar-agent",
+        "https://www.hashicorp.com/en/events/webinars/securing-mongodb-atlas-with-hcp-vault-secrets",
+        "https://www.hashicorp.com/en/events/webinars/building-secure-infrastructure-with-hashicorp-terraform-asia",
+        "https://www.hashicorp.com/en/events/webinars/network-security-automation-using-cisco-secure-firewall",
+        "https://www.hashicorp.com/en/events/webinars/do-cloud-right-foundations-cloud-compliance",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-dec",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-may",
+        "https://www.hashicorp.com/en/events/webinars/do-cloud-right-driving-business-outcomes",
+        "https://www.hashicorp.com/en/events/webinars/zts-302-user-access-management-with-boundary",
+        "https://www.hashicorp.com/en/events/webinars/achieving-cloud-maturity-with-hashicorp",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-new-releases-infrastructure",
+        "https://www.hashicorp.com/en/events/webinars/secrets-management-with-vault-americas",
+        "https://www.hashicorp.com/en/events/webinars/optimizing-cloud-spend-part-4-addressing-the-provisioning-skills-gap-effect-on-cl",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-january",
+        "https://www.hashicorp.com/en/events/webinars/key-findings-from-the-2025-cloud-complexity-report",
+        "https://www.hashicorp.com/en/events/webinars/oss-vs-enterprise-puntos-claves-por-considerar-al-implementar-terraform-en-produc",
+        "https://www.hashicorp.com/en/events/webinars/mastering-service-account-management-across-os-with-vault-a-live-webinar-with-han",
+        "https://www.hashicorp.com/en/events/webinars/the-industry-leading-multi-cloud-secrets-management-solution-americas-and-europe",
+        "https://www.hashicorp.com/en/events/webinars/building-custom-secret-detection-policies-with-hcp-vault-radar",
+        "https://www.hashicorp.com/en/events/webinars/securing-mongodb-atlas-with-hcp-vault-secrets-emea",
+        "https://www.hashicorp.com/en/events/webinars/achieving-zero-trust-security-with-hcp-boundary-vault-and-datadog",
+        "https://www.hashicorp.com/en/events/webinars/secure-by-design-using-guardrails-and-automation-to-streamline-cloud-operations",
+        "https://www.hashicorp.com/en/events/webinars/build-deploy-and-manage-everything-as-code",
+        "https://www.hashicorp.com/en/events/webinars/supporting-ai-frameworks-by-enhancing-database-security-with-mongodb-and-hcp-vault",
+        "https://www.hashicorp.com/en/events/webinars/zts-101-best-practices",
+        "https://www.hashicorp.com/en/events/webinars/aws-credentials-with-terraform-and-vault",
+        "https://www.hashicorp.com/en/events/webinars/securing-kubernetes-secrets-with-vault-emea-q4",
+        "https://www.hashicorp.com/en/events/webinars/azure-builtright-ep3",
+        "https://www.hashicorp.com/en/events/webinars/accelerate-transformation-with-terraform-on-aws-landing-zone",
+        "https://www.hashicorp.com/en/events/webinars/on-demand-bitkub-journey-to-scalable-dynamic-security",
+        "https://www.hashicorp.com/en/events/webinars/hashicorp-boundary-vault-aws-immersion-day-solution-deep-dive-europe",
+        "https://www.hashicorp.com/en/events/webinars/dynamic-secrets-management-january-america",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-with-tf-prisma-aws-amer",
+        "https://www.hashicorp.com/en/events/webinars/an-introduction-to-secrets-management-with-hashicorp-vault-americas-and-europe",
+        "https://www.hashicorp.com/en/events/webinars/dynamic-secrets-management-europe",
+        "https://www.hashicorp.com/en/events/webinars/radar-functionality-americas",
+        "https://www.hashicorp.com/en/events/webinars/a-guide-to-the-cloud-operating-maturity-model-emea",
+        "https://www.hashicorp.com/en/events/webinars/proteggere-lagentic-ai-identita-accesso-e-controllo-a-runtime",
+        "https://www.hashicorp.com/en/events/webinars/part-1-scaling-your-adoption-of-aws-with-hashicorp-terraform-apj",
+        "https://www.hashicorp.com/en/events/webinars/24q4-apj-securing-your-infrastructure-with-terraform-ep1",
+        "https://www.hashicorp.com/en/events/webinars/do-cloud-right-foundations-zero-trust-security",
+        "https://www.hashicorp.com/en/events/webinars/azure-builtright-ep2",
+        "https://www.hashicorp.com/en/events/webinars/simplify-secure-access-an-introduction-to-hashicorp-boundary",
+        "https://www.hashicorp.com/en/events/webinars/make-your-terraform-projects-more-secure-with-sonar-clean-as-you-code",
+        "https://www.hashicorp.com/en/events/webinars/vault-radar-remediation",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-hcp-terraform-cortex-cloud-and-gcp-november",
+        "https://www.hashicorp.com/en/events/webinars/secrets-scanning-unmanaged-secrets-discovery-asia",
+        "https://www.hashicorp.com/en/events/webinars/jp_zts_for_bankingandfinance_ondemand",
+        "https://www.hashicorp.com/en/events/webinars/secure-introduction-with-vault-americas",
+        "https://www.hashicorp.com/en/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow",
+        "https://www.hashicorp.com/en/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-amer-security",
+        "https://www.hashicorp.com/en/events/webinars/zero-trust-security-for-banking-financial-services-emea",
+        "https://www.hashicorp.com/en/events/webinars/security-best-practices-with-aws-iam",
+        "https://www.hashicorp.com/en/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea",
+        "https://www.hashicorp.com/en/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea",
+        "https://www.hashicorp.com/en/events/webinars/boundary-0-12-ga-release-brings-multi-hop-sessions-and-more",
+        "https://www.hashicorp.com/en/events/webinars/securing-your-infrastructure-with-terraform",
+        "https://www.hashicorp.com/en/events/webinars/palo-alto-networks-panorama-and-consul-terraform-sync-workshop",
+        "https://www.hashicorp.com/en/events/webinars/the-5-essential-principles-of-modern-privileged-access-management",
+        "https://www.hashicorp.com/en/events/webinars/episode-2-deploying-policy-guarded-infrastructure-creating-and-enforcing-guardrai",
+        "https://www.hashicorp.com/en/events/webinars/vault-office-hours-americas-and-europe",
+        "https://www.hashicorp.com/en/events/webinars/pwc-s-approach-to-zero-trust-security-with-hcp-boundary",
+        "https://www.hashicorp.com/en/events/webinars/hashiconf-roundup-slm-asia",
+        "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-sep"
       ],
-      "coverageGaps": [],
       "description": "Event or webinar page: webinar hero with video or registration, event details and presenters",
-      "blocks": []
+      "blocks": [
+        {
+          "name": "marketo-form",
+          "instances": [
+            "[class*='style_webinarForm']",
+            "[class*='registration-form_container']:has(form.mktoForm)"
+          ]
+        },
+        {
+          "name": "embed",
+          "instances": [
+            "[class*='style_inlineVideo']"
+          ]
+        },
+        {
+          "name": "cards-speaker",
+          "instances": [
+            "[class*='style_speakerList']",
+            "[class*='live_details'] [class*='style_container']:has([class*='speaker_speaker'])"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "rc2",
+          "name": "Webinar intro with form, video or registration",
+          "selector": [
+            "[class*='style_contentLane']",
+            "[class*='live_container']"
+          ],
+          "style": "split",
+          "blocks": [
+            "marketo-form",
+            "embed",
+            "cards-speaker"
+          ],
+          "defaultContent": [
+            "[class*='event-title_eventTitle']",
+            "[class*='style_contentLane'] [class*='style_description__']",
+            "[class*='live_description']",
+            "[class*='topic-content_container']",
+            "[class*='registration-form_container']:not(:has(form.mktoForm)) h4",
+            "[class*='registration-form_container']:not(:has(form.mktoForm)) p"
+          ]
+        },
+        {
+          "id": "rc3",
+          "name": "Presenters",
+          "selector": [
+            "[class*='style_webinarDetails']"
+          ],
+          "style": "split",
+          "blocks": [
+            "cards-speaker"
+          ],
+          "defaultContent": [
+            "[class*='style_presentersHeading']"
+          ]
+        }
+      ]
     },
     {
       "name": "text-page",
@@ -1185,7 +1442,6 @@
         "https://hashicorp.com/en/trade-controls",
         "https://hashicorp.com/en/trademark-policy"
       ],
-      "coverageGaps": [],
       "description": "Long-form text page with an optional banner and data tables",
       "blocks": []
     },
@@ -1204,7 +1460,6 @@
         "https://hashicorp.com/en/suppliers",
         "https://hashicorp.com/en/technical-support-services-and-policies"
       ],
-      "coverageGaps": [],
       "description": "Mixed marketing page: banner, stats, tabbed sections and feature strips",
       "blocks": []
     },
@@ -1228,13 +1483,13 @@
         "https://hashicorp.com/en/blog/5-lessons-from-banking-finance-why-we-need-zero-trust-secrets-management",
         "https://hashicorp.com/en/blog/5-lessons-from-moneybox-s-terraform-journey",
         "https://hashicorp.com/en/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-org",
-        "https://hashicorp.com/en/blog/5-ways-to-improve-devex-and-security-for-infrastructure-provisioning",
         "https://hashicorp.com/en/blog/5-zero-trust-security-takeaways-from-hashiconf-europe",
         "https://hashicorp.com/en/blog/6-ways-terraform-can-help-secure-your-infrastructure",
-        "https://hashicorp.com/en/blog/7-ways-to-optimize-cloud-spend-with-terraform",
         "https://hashicorp.com/en/blog/8-terraform-continuous-validation-use-cases-for-aws-google-cloud-and-azure",
         "https://hashicorp.com/en/blog/a-blueprint-for-cloud-success-with-hashicorp-at-google-cloud-next",
+        "https://hashicorp.com/en/blog/a-cloud-engineering-lead-s-7-lessons-about-speed-vs-security",
         "https://hashicorp.com/en/blog/a-golden-path-to-secure-cloud-provisioning-with-the-infrastructure-cloud",
+        "https://hashicorp.com/en/blog/a-guide-to-cloud-cost-optimization-with-hashicorp-terraform",
         "https://hashicorp.com/en/blog/a-guide-to-hashicorp-at-kubecon-europe-virtual-2021",
         "https://hashicorp.com/en/blog/a-hashicorp-ambassador-at-hashidays-london",
         "https://hashicorp.com/en/blog/a-kubernetes-user-s-guide-to-hashicorp-nomad",
@@ -1242,18 +1497,17 @@
         "https://hashicorp.com/en/blog/a-new-vision-for-hcp-waypoint",
         "https://hashicorp.com/en/blog/a-re-introduction-to-the-terraform-vsphere-provider",
         "https://hashicorp.com/en/blog/a-research-backed-look-at-why-cloud-ops-is-breaking-at-ai-s-doorstep",
-        "https://hashicorp.com/en/blog/a-smoother-hcp-terraform-workspace-experience",
         "https://hashicorp.com/en/blog/accelerate-your-terraform-development-with-amazon-codewhisperer",
         "https://hashicorp.com/en/blog/accelerating-ai-adoption-on-azure-with-terraform",
         "https://hashicorp.com/en/blog/access-aws-from-hcp-terraform-with-oidc-federation",
         "https://hashicorp.com/en/blog/access-azure-from-hcp-terraform-with-oidc-federation",
         "https://hashicorp.com/en/blog/access-google-cloud-from-hcp-terraform-with-workload-identity",
+        "https://hashicorp.com/en/blog/ace-your-terraform-professional-exam-5-tips-from-certified-pros",
         "https://hashicorp.com/en/blog/achieving-multi-tenancy-with-consul-administrative-partitions",
         "https://hashicorp.com/en/blog/achieving-pci-compliance-leveraging-hashicorp-vault-to-protect-payment-data",
         "https://hashicorp.com/en/blog/adding-provider-source-to-hashicorp-terraform",
         "https://hashicorp.com/en/blog/addressing-top-security-threats-with-vault",
         "https://hashicorp.com/en/blog/adopting-hashicorp-vaults-transit-engine-high-performance-envelope-encryption-ariso-ai",
-        "https://hashicorp.com/en/blog/advanced-data-protection-adp-now-available-in-hcp-vault",
         "https://hashicorp.com/en/blog/advanced-node-draining-in-hashicorp-nomad",
         "https://hashicorp.com/en/blog/advancing-ai-agent-security-in-vault",
         "https://hashicorp.com/en/blog/advancing-secret-sync-with-workload-identity-federation",
@@ -1270,6 +1524,7 @@
         "https://hashicorp.com/en/blog/announcing-boundary-desktop-embedded-terminal-ldap-support-and-more",
         "https://hashicorp.com/en/blog/announcing-business-aware-policies-for-terraform-cloud-and-enterprise",
         "https://hashicorp.com/en/blog/announcing-cdk-for-terraform-0-1",
+        "https://hashicorp.com/en/blog/announcing-cdk-for-terraform-0-4",
         "https://hashicorp.com/en/blog/announcing-cdk-for-terraform-0-5",
         "https://hashicorp.com/en/blog/announcing-cdk-for-terraform-0-7",
         "https://hashicorp.com/en/blog/announcing-cloud-platform",
@@ -1317,12 +1572,14 @@
         "https://hashicorp.com/en/blog/announcing-hashicorp-terraform-azurerm-2-0",
         "https://hashicorp.com/en/blog/announcing-hashicorp-terraform-cloud-business",
         "https://hashicorp.com/en/blog/announcing-hashicorp-terraform-cloud-paid-offerings",
+        "https://hashicorp.com/en/blog/announcing-hashicorp-terraform-enterprise-module-registry",
         "https://hashicorp.com/en/blog/announcing-hashicorp-waypoint-0-2-0",
         "https://hashicorp.com/en/blog/announcing-hashicorp-waypoint-0-3-0",
         "https://hashicorp.com/en/blog/announcing-hashicorp-waypoint-0-5",
         "https://hashicorp.com/en/blog/announcing-hashicorp-waypoint-0-6",
         "https://hashicorp.com/en/blog/announcing-hcp-consul-general-availability",
         "https://hashicorp.com/en/blog/announcing-hcp-consul-plus",
+        "https://hashicorp.com/en/blog/announcing-hcp-packer",
         "https://hashicorp.com/en/blog/announcing-hcp-terraform-premium-infrastructure-lifecycle-management-at-scale",
         "https://hashicorp.com/en/blog/announcing-hcp-waypoint-public-beta",
         "https://hashicorp.com/en/blog/announcing-improved-user-management-for-terraform-cloud",
@@ -1373,7 +1630,6 @@
         "https://hashicorp.com/en/blog/announcing-the-public-preview-of-hashicorp-secure-hub-govern-vault-at-scale",
         "https://hashicorp.com/en/blog/announcing-the-public-preview-of-hashicorp-vault-arc-evolve-security-for-emerging",
         "https://hashicorp.com/en/blog/announcing-the-removal-of-bundled-plugins-in-hashicorp-packer",
-        "https://hashicorp.com/en/blog/announcing-the-sentinel-playground",
         "https://hashicorp.com/en/blog/announcing-the-snowflake-secrets-engine",
         "https://hashicorp.com/en/blog/announcing-the-terraform-0-13-beta",
         "https://hashicorp.com/en/blog/announcing-the-terraform-plugin-sdk",
@@ -1400,7 +1656,6 @@
         "https://hashicorp.com/en/blog/automate-networking-across-google-cloud-runtimes-with-consul-and-apigee",
         "https://hashicorp.com/en/blog/automate-terraform-cloud-workflows",
         "https://hashicorp.com/en/blog/automate-terraform-workflows-with-circleci-or-github",
-        "https://hashicorp.com/en/blog/automated-canary-deployment-with-hashicorp-consul-and-spinnaker",
         "https://hashicorp.com/en/blog/automatic-installation-of-third-party-providers-with-terraform-0-13",
         "https://hashicorp.com/en/blog/automating-workload-identity-for-vault-and-nomad-with-terraform",
         "https://hashicorp.com/en/blog/autonomous-infrastructure-managing-complexity-in-agentic-workflows",
@@ -1447,6 +1702,7 @@
         "https://hashicorp.com/en/blog/building-a-vault-secure-plugin",
         "https://hashicorp.com/en/blog/building-a-vault-token-helper",
         "https://hashicorp.com/en/blog/building-alerts-observability-4-golden-signals-with-terraform-cloud-new-relic",
+        "https://hashicorp.com/en/blog/building-an-event-based-ha-architecture-with-nomad-and-consul",
         "https://hashicorp.com/en/blog/building-azure-resources-with-typescript-using-the-cdk-for-terraform",
         "https://hashicorp.com/en/blog/building-day-2-ops-guardrails-with-terraform-and-packer",
         "https://hashicorp.com/en/blog/building-intelligent-infrastructure-automation-with-hashicorp",
@@ -1457,7 +1713,6 @@
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-10-adds-multi-stack-deployments-and-more",
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-13-significantly-improves-performance",
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-14-makes-it-easier-to-use-providers",
-        "https://hashicorp.com/en/blog/cdk-for-terraform-0-15-improves-integration-with-terraform-cloud",
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-16-improves-automatic-hcl-conversion",
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-18-reduces-synthesization-time",
         "https://hashicorp.com/en/blog/cdk-for-terraform-0-6-adds-unit-testing",
@@ -1467,11 +1722,11 @@
         "https://hashicorp.com/en/blog/cdk-for-terraform-now-generally-available",
         "https://hashicorp.com/en/blog/cdk-terraform-0-11-introduces-new-provider-command",
         "https://hashicorp.com/en/blog/cdktf-0-19-adds-support-for-config-driven-import-and-refactoring",
-        "https://hashicorp.com/en/blog/cdktf-0-20-improves-implementation-of-iterators-and-enables-hcl-output",
-        "https://hashicorp.com/en/blog/certificate-management-with-vault",
+        "https://hashicorp.com/en/blog/certification-stories-mario-rodriguez-hernandez",
         "https://hashicorp.com/en/blog/change-management-at-scale-how-terraform-helps-end-out-of-band-anti-patterns",
         "https://hashicorp.com/en/blog/cisco-citrix-fortinet-among-new-verified-terraform-providers",
         "https://hashicorp.com/en/blog/cisco-datadog-fortinet-vmware-others-add-consul-integrations",
+        "https://hashicorp.com/en/blog/cisco-dcnm-dynatrace-nutanix-kps-among-new-additions-hashicorp-verified-provider-ecosystem",
         "https://hashicorp.com/en/blog/cloud-bursting-with-nomad-and-consul",
         "https://hashicorp.com/en/blog/cloud-ca-develops-custom-devops-friendly-provider-for-terraform",
         "https://hashicorp.com/en/blog/cloud-foundry-vault-service-broker",
@@ -1493,7 +1748,6 @@
         "https://hashicorp.com/en/blog/connecting-vault-to-amazon-rds-using-amazon-vpc-lattice",
         "https://hashicorp.com/en/blog/consul-0-4",
         "https://hashicorp.com/en/blog/consul-0-5",
-        "https://hashicorp.com/en/blog/consul-0-6",
         "https://hashicorp.com/en/blog/consul-0-7",
         "https://hashicorp.com/en/blog/consul-0-7-1",
         "https://hashicorp.com/en/blog/consul-0-8",
@@ -1502,6 +1756,7 @@
         "https://hashicorp.com/en/blog/consul-1-13-introduces-cluster-peering",
         "https://hashicorp.com/en/blog/consul-1-13-tech-preview-cluster-peering",
         "https://hashicorp.com/en/blog/consul-1-14-beta-announcing-simplified-service-mesh-deployments",
+        "https://hashicorp.com/en/blog/consul-1-14-ga-announcing-simplified-service-mesh-deployments",
         "https://hashicorp.com/en/blog/consul-1-15-adds-envoy-extensions-and-enhances-access-logging",
         "https://hashicorp.com/en/blog/consul-1-16-enhances-service-mesh-reliability-user-experience-and-security",
         "https://hashicorp.com/en/blog/consul-1-17-ga-adds-locality-aware-routing-and-multi-port-support",
@@ -1514,6 +1769,7 @@
         "https://hashicorp.com/en/blog/consul-1-3-envoy",
         "https://hashicorp.com/en/blog/consul-1-4-multi-data-center-service-mesh",
         "https://hashicorp.com/en/blog/consul-20-improves-flexibility-control-and-scalability",
+        "https://hashicorp.com/en/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica",
         "https://hashicorp.com/en/blog/consul-and-chaos-engineering",
         "https://hashicorp.com/en/blog/consul-and-external-services",
         "https://hashicorp.com/en/blog/consul-and-kubernetes-service-catalog-sync",
@@ -1528,10 +1784,10 @@
         "https://hashicorp.com/en/blog/consul-cyberark-wim-external-ca-for-the-service-mesh",
         "https://hashicorp.com/en/blog/consul-enterprise-long-term-support-lts-improves-operational-efficiency",
         "https://hashicorp.com/en/blog/consul-learning-journey",
+        "https://hashicorp.com/en/blog/consul-on-amazon-ecs-0-3-adds-extended-configuration",
         "https://hashicorp.com/en/blog/consul-on-amazon-ecs-0-4-now-supports-multi-tenancy",
         "https://hashicorp.com/en/blog/consul-on-amazon-ecs-0-5-supports-aws-iam-and-mesh-gateways",
         "https://hashicorp.com/en/blog/consul-plus-kubernetes",
-        "https://hashicorp.com/en/blog/consul-scale-test-report-to-observe-gossip-stability",
         "https://hashicorp.com/en/blog/consul-service-mesh-on-amazon-ecs-now-generally-available",
         "https://hashicorp.com/en/blog/consul-service-mesh-support-for-aws-lambda-now-generally-available",
         "https://hashicorp.com/en/blog/consul-service-mesh-support-for-aws-lambda-now-in-public-beta",
@@ -1578,7 +1834,6 @@
         "https://hashicorp.com/en/blog/disaster-recovery-strategies-with-terraform",
         "https://hashicorp.com/en/blog/distil-networks-securely-stores-and-manages-all-their-secrets-with-vault-and-consul",
         "https://hashicorp.com/en/blog/do-cloud-right-what-successful-enterprises-are-getting-right-about-cloud-strategy",
-        "https://hashicorp.com/en/blog/do-cloud-wrong-7-red-flags-your-strategy-needs-a-reset",
         "https://hashicorp.com/en/blog/doing-hybrid-cloud-right-taking-the-complexity-out-of-infrastructure-management",
         "https://hashicorp.com/en/blog/dont-leave-cloud-security-to-chance-seven-mistakes",
         "https://hashicorp.com/en/blog/drift-detection-for-terraform-cloud-is-now-generally-available",
@@ -1600,6 +1855,7 @@
         "https://hashicorp.com/en/blog/enterprise-compliance-and-governance-with-hashicorp-consul-1-8",
         "https://hashicorp.com/en/blog/ephemeral-values-in-terraform",
         "https://hashicorp.com/en/blog/event-driven-access-controls-with-hashicorp-boundary-and-vault",
+        "https://hashicorp.com/en/blog/everything-as-code-for-your-security-lifecycle",
         "https://hashicorp.com/en/blog/expanding-service-mesh-with-terminating-gateways",
         "https://hashicorp.com/en/blog/expanding-tfrun-import-sentinel-terraform-enterprise-and-cloud",
         "https://hashicorp.com/en/blog/explore-hashicorp-consul-with-docker-compose",
@@ -1607,6 +1863,7 @@
         "https://hashicorp.com/en/blog/exploring-the-hashicorp-consul-ecosystem-for-kubernetes",
         "https://hashicorp.com/en/blog/f5-big-ip-terminating-gateway-egress-with-consul",
         "https://hashicorp.com/en/blog/f5-new-relic-and-sophos-among-new-consul-integrations",
+        "https://hashicorp.com/en/blog/false-positives-a-big-problem-for-secret-scanners",
         "https://hashicorp.com/en/blog/fannie-mae-process-for-developing-policy-as-code-with-terraform-enterprise-sentinel",
         "https://hashicorp.com/en/blog/faster-threat-detection-with-boundary-session-recording-auditbeat",
         "https://hashicorp.com/en/blog/feature-preview-docker-based-development-environments",
@@ -1620,6 +1877,7 @@
         "https://hashicorp.com/en/blog/flux7-helps-customers-securely-run-applications-in-the-cloud-with-vault",
         "https://hashicorp.com/en/blog/for-developers-and-operators-all-paths-lead-to-consul",
         "https://hashicorp.com/en/blog/from-80-days-to-5-how-banco-bradesco-accelerated-digital-product-delivery-with-hc",
+        "https://hashicorp.com/en/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
         "https://hashicorp.com/en/blog/from-key-sprawl-to-scalable-control-rethinking-ssh-access",
         "https://hashicorp.com/en/blog/from-zero-to-hero-hashicorp-boundary",
         "https://hashicorp.com/en/blog/from-zero-trust-to-continuous-trust-securing-autonomous-ai-systems",
@@ -1664,7 +1922,6 @@
         "https://hashicorp.com/en/blog/hashicorp-at-aws-re-invent-breakouts-experts-demos-and-more",
         "https://hashicorp.com/en/blog/hashicorp-at-aws-re-invent-examining-the-state-of-your-cloud-operating-model",
         "https://hashicorp.com/en/blog/hashicorp-at-aws-re-invent-your-blueprint-for-cloud-success",
-        "https://hashicorp.com/en/blog/hashicorp-at-aws-re-invent-your-blueprint-to-cloud-success",
         "https://hashicorp.com/en/blog/hashicorp-at-google-cloud-next-seamless-infrastructure-deployment-and-management",
         "https://hashicorp.com/en/blog/hashicorp-at-re-inforce-advancing-security-lifecycle-management-with-aws",
         "https://hashicorp.com/en/blog/hashicorp-at-re-inforce-security-lifecycle-management-with-aws",
@@ -1672,7 +1929,6 @@
         "https://hashicorp.com/en/blog/hashicorp-at-re-invent-2024-infrastructure-lifecycle-management-with-aws",
         "https://hashicorp.com/en/blog/hashicorp-at-re-invent-2024-security-lifecycle-management-with-aws",
         "https://hashicorp.com/en/blog/hashicorp-boundary",
-        "https://hashicorp.com/en/blog/hashicorp-boundary-0-7",
         "https://hashicorp.com/en/blog/hashicorp-boundary-0-8-expands-health-and-events-observability",
         "https://hashicorp.com/en/blog/hashicorp-cloud-platform-adds-new-asia-regions-mfa-and-more",
         "https://hashicorp.com/en/blog/hashicorp-cloud-platform-adds-transit-gateway-okta-new-skus",
@@ -1684,7 +1940,6 @@
         "https://hashicorp.com/en/blog/hashicorp-consul-envoy-gloo-connect",
         "https://hashicorp.com/en/blog/hashicorp-consul-global-scale-benchmark",
         "https://hashicorp.com/en/blog/hashicorp-consul-ingress-gateways-and-l7-traffic-management-in-kubernetes",
-        "https://hashicorp.com/en/blog/hashicorp-consul-service-hcs-on-azure-end-of-life",
         "https://hashicorp.com/en/blog/hashicorp-consul-supports-microsoft-s-new-service-mesh-framework",
         "https://hashicorp.com/en/blog/hashicorp-enters-gartner-pam-mq",
         "https://hashicorp.com/en/blog/hashicorp-extends-security-use-cases-with-new-vault-integrations-including-oracle",
@@ -1694,7 +1949,6 @@
         "https://hashicorp.com/en/blog/hashicorp-inducted-into-jpmorgan-chase-hall-of-innovation",
         "https://hashicorp.com/en/blog/hashicorp-is-a-kiro-powers-launch-partner",
         "https://hashicorp.com/en/blog/hashicorp-learn-platform-with-vault",
-        "https://hashicorp.com/en/blog/hashicorp-learning-resources-reference-guide",
         "https://hashicorp.com/en/blog/hashicorp-microsoft-build-2025-automate-secure-scale-on-azure",
         "https://hashicorp.com/en/blog/hashicorp-named-a-finalist-for-2020-crn-tech-innovator-award",
         "https://hashicorp.com/en/blog/hashicorp-nomad-0-10-beta",
@@ -1715,6 +1969,7 @@
         "https://hashicorp.com/en/blog/hashicorp-packer-1-1-0",
         "https://hashicorp.com/en/blog/hashicorp-packer-1-2-0",
         "https://hashicorp.com/en/blog/hashicorp-product-announcements-at-hashiconf-2018",
+        "https://hashicorp.com/en/blog/hashicorp-re-invent-19-terraform-supports-newly-announced-aws-services",
         "https://hashicorp.com/en/blog/hashicorp-releases-new-ci-cd-pipeline-integration-tool-templates-for-terraform",
         "https://hashicorp.com/en/blog/hashicorp-s-new-vault-operations-pro-certification-is-lab-based",
         "https://hashicorp.com/en/blog/hashicorp-s-security-and-compliance-program-takes-another-step-forward",
@@ -1755,6 +2010,7 @@
         "https://hashicorp.com/en/blog/hashicorp-wins-microsoft-azure-oss-us-partner-of-the-year-for-2022",
         "https://hashicorp.com/en/blog/hashicorp-year-in-review-2025-lessons-in-simplifying-the-cloud",
         "https://hashicorp.com/en/blog/hashitalks-2021-highlights-boundary-packer-vagrant-and-waypoint",
+        "https://hashicorp.com/en/blog/hashitalks-2021-highlights-nomad-and-consul",
         "https://hashicorp.com/en/blog/hashitalks-2021-highlights-terraform",
         "https://hashicorp.com/en/blog/hashitalks-2021-highlights-vault",
         "https://hashicorp.com/en/blog/hcp-boundary-now-ga-bolsters-hashicorp-s-zero-trust-security-solution",
@@ -1773,7 +2029,6 @@
         "https://hashicorp.com/en/blog/hcp-packer-now-tracks-ci-cd-pipeline-metadata",
         "https://hashicorp.com/en/blog/hcp-packer-provides-further-artifact-visibility-with-sbom-storage",
         "https://hashicorp.com/en/blog/hcp-packer-webhooks-now-generally-available",
-        "https://hashicorp.com/en/blog/hcp-terraform-adds-granular-api-access-for-audit-trails",
         "https://hashicorp.com/en/blog/hcp-terraform-adds-ip-allow-lists",
         "https://hashicorp.com/en/blog/hcp-terraform-adds-project-level-run-tasks",
         "https://hashicorp.com/en/blog/hcp-terraform-adds-public-terraform-module-provider-management-via-organizations",
@@ -1788,7 +2043,6 @@
         "https://hashicorp.com/en/blog/hcp-vault-adds-3-new-observability-integrations",
         "https://hashicorp.com/en/blog/hcp-vault-adds-3-new-observability-integrations-and-http-streaming",
         "https://hashicorp.com/en/blog/hcp-vault-and-hcp-consul-add-new-canada-japan-and-us-aws-regions",
-        "https://hashicorp.com/en/blog/hcp-vault-dedicated-adds-secrets-sync-wif-cross-region-dr-est-pki-and-more",
         "https://hashicorp.com/en/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel",
         "https://hashicorp.com/en/blog/hcp-vault-dedicated-introduces-cluster-disaster-recovery-public-preview",
         "https://hashicorp.com/en/blog/hcp-vault-dedicated-now-available-in-additional-aws-and-azure-regions",
@@ -1801,13 +2055,11 @@
         "https://hashicorp.com/en/blog/hcp-vault-radar-for-secret-discovery-enters-limited-availability",
         "https://hashicorp.com/en/blog/hcp-vault-radar-goes-ga-with-vault-import",
         "https://hashicorp.com/en/blog/hcp-waypoint-actions-is-now-in-public-beta",
-        "https://hashicorp.com/en/blog/hcp-waypoint-actions-now-ga",
         "https://hashicorp.com/en/blog/hcp-waypoint-adds-actions-enhancements-to-golden-pattern-capabilities-and-more",
         "https://hashicorp.com/en/blog/hcp-waypoint-now-ga-with-enhancements-to-golden-workflow-capabilities",
         "https://hashicorp.com/en/blog/hcs-on-azure-private-beta-preview",
         "https://hashicorp.com/en/blog/helvetia-s-journey-building-an-enterprise-serverless-product-with-terraform",
         "https://hashicorp.com/en/blog/herding-apache-camels-with-hashicorp-consul",
-        "https://hashicorp.com/en/blog/highlights-from-hashiconf-global-2021-for-enterprises",
         "https://hashicorp.com/en/blog/history-secure-workflow-job-deployments-nomad",
         "https://hashicorp.com/en/blog/how-agl-uses-hashicorp-terraform-enterprise-sentinel-enable-cloud-native-capabilities",
         "https://hashicorp.com/en/blog/how-airfrance-klm-built-secure-automation-platform-global-scale-terraform-vault-ansible",
@@ -1816,6 +2068,7 @@
         "https://hashicorp.com/en/blog/how-benchling-saved-8000-hours-by-changing-how-it-used-terraform",
         "https://hashicorp.com/en/blog/how-build-network-infrastructure-automation-nia-hashicorp-terraform-consul-a10-adc",
         "https://hashicorp.com/en/blog/how-cisos-can-enable-secure-innovation-without-sacrificing-compliance",
+        "https://hashicorp.com/en/blog/how-do-you-overcome-cloud-complexity-find-out-in-our-2025-cloud-complexity-report",
         "https://hashicorp.com/en/blog/how-drift-detection-helps-maintain-a-secure-infrastructure",
         "https://hashicorp.com/en/blog/how-duke-energy-enforces-cloud-security-at-scale-with-terraform-vault-6-lessons",
         "https://hashicorp.com/en/blog/how-geico-lowered-its-300m-cloud-spend-and-decoupled-security-from-the-network",
@@ -1857,7 +2110,6 @@
         "https://hashicorp.com/en/blog/improving-terraforms-community-process",
         "https://hashicorp.com/en/blog/industrialized-workflows-using-microsoft-caf-patterns-and-terraform",
         "https://hashicorp.com/en/blog/infrastructure-as-code-in-a-private-or-public-cloud",
-        "https://hashicorp.com/en/blog/infrastructure-as-demos-a-terraform-selling-platform-built-on-terraform",
         "https://hashicorp.com/en/blog/infrastructure-security-lifecycle-releases-open-hashiconf-2023",
         "https://hashicorp.com/en/blog/ingress-gateways-in-hashicorp-consul-1-8",
         "https://hashicorp.com/en/blog/injecting-vault-secrets-into-kubernetes-pods-via-a-sidecar",
@@ -1884,38 +2136,37 @@
         "https://hashicorp.com/en/blog/introducing-sentinel-policies-to-the-terraform-registry",
         "https://hashicorp.com/en/blog/introducing-terraform-cloud-remote-state-management",
         "https://hashicorp.com/en/blog/introducing-terraform-developer-portal",
-        "https://hashicorp.com/en/blog/introducing-tfctl-the-cli-for-hcp-terraform-and-tfe",
         "https://hashicorp.com/en/blog/introducing-tfpolicy-a-declarative-policy-workflow-built-for-terraform",
         "https://hashicorp.com/en/blog/introducing-the-azure-terraform-resource-provider",
         "https://hashicorp.com/en/blog/introducing-the-hashicorp-professional-service-prog",
         "https://hashicorp.com/en/blog/introducing-the-infrastructure-cloud",
         "https://hashicorp.com/en/blog/introducing-the-vagrant-vmware-desktop-plugin",
         "https://hashicorp.com/en/blog/just-in-time-approval-workflow-with-boundary-and-azure",
-        "https://hashicorp.com/en/blog/kickstart-terraform-on-gcp-with-google-cloud-shell",
         "https://hashicorp.com/en/blog/kubecon-2020-hashicorp-consul-further-expands-kubernetes-support",
         "https://hashicorp.com/en/blog/kubernetes-auto-join-for-consul",
         "https://hashicorp.com/en/blog/kubernetes-cluster-with-aks-and-terraform",
         "https://hashicorp.com/en/blog/kubernetes-vault-integration-via-sidecar-agent-injector-vs-csi-provider",
         "https://hashicorp.com/en/blog/kubernetes-video-highlights-from-hashitalks-2022",
         "https://hashicorp.com/en/blog/lab3-accelerates-cloud-modernization-with-hashicorp-powered-unified-workflows",
-        "https://hashicorp.com/en/blog/latest-terraform-enterprise-features-reduce-operational-burdens-save-money",
         "https://hashicorp.com/en/blog/layer-7-observability-with-consul-service-mesh",
         "https://hashicorp.com/en/blog/learn-ci-cd-automation-with-terraform-and-circleci",
         "https://hashicorp.com/en/blog/learn-how-to-run-vault-on-kubernetes",
         "https://hashicorp.com/en/blog/learn-secure-access-management-boundary",
         "https://hashicorp.com/en/blog/learn-vault-1-5",
+        "https://hashicorp.com/en/blog/learn-vault-1-6",
         "https://hashicorp.com/en/blog/learn-vault-1-7",
         "https://hashicorp.com/en/blog/learn-vault-client-dotnet",
         "https://hashicorp.com/en/blog/levant-is-now-a-hashicorp-supported-project",
         "https://hashicorp.com/en/blog/leveling-up-service-mesh-with-observability-distributed-tracing-for-consul",
         "https://hashicorp.com/en/blog/leveling-up-the-terraform-provider-for-nomad",
         "https://hashicorp.com/en/blog/load-balancing-strategies-for-consul",
+        "https://hashicorp.com/en/blog/load-shedding-in-the-nomad-eval-broker",
         "https://hashicorp.com/en/blog/logic-monitor-uses-terraform-packer-and-consul-for",
-        "https://hashicorp.com/en/blog/login-mfa-support-added-to-vault-open-source-and-hcp-vault",
         "https://hashicorp.com/en/blog/major-release-for-all-hashicorp-terraform-utility-providers",
         "https://hashicorp.com/en/blog/making-a-mesh-multi-cloud-consul",
         "https://hashicorp.com/en/blog/making-terraform-provider-development-more-accessible",
         "https://hashicorp.com/en/blog/manage-active-directory-objects-new-windows-ad-provider-hashicorp-terraform",
+        "https://hashicorp.com/en/blog/manage-kubernetes-secrets-for-flux-with-hashicorp-vault",
         "https://hashicorp.com/en/blog/manage-post-deployment-microsoft-azure-policy-operations-with-terraform",
         "https://hashicorp.com/en/blog/manage-your-infrastructure-lifecycle-with-new-terraform-packer-waypoint-and-nomad",
         "https://hashicorp.com/en/blog/managing-ansible-automation-platform-aap-credentials-at-scale-with-vault",
@@ -1933,6 +2184,7 @@
         "https://hashicorp.com/en/blog/maturing-your-terraform-workflow",
         "https://hashicorp.com/en/blog/meet-the-hashicorp-partner-hackstravaganza-winners",
         "https://hashicorp.com/en/blog/microsoft-azure-hashicorp-journey-to-1-billion-terraform-provider-downloads",
+        "https://hashicorp.com/en/blog/migrate-sentinel-and-opa-policies-to-terraform-policy-faster",
         "https://hashicorp.com/en/blog/migrate-state-to-terraform-cloud-with-updated-learn-guide",
         "https://hashicorp.com/en/blog/migrating-application-workloads-hcs-azure",
         "https://hashicorp.com/en/blog/mitigate-cloud-risk-with-security-lifecycle-management",
@@ -1963,7 +2215,6 @@
         "https://hashicorp.com/en/blog/new-hcp-consul-ui-feature-speeds-setup-with-terraform",
         "https://hashicorp.com/en/blog/new-hcp-vault-secrets-radar-and-other-features-fight-secrets-sprawl",
         "https://hashicorp.com/en/blog/new-in-hcp-terraform-linked-stacks-enhanced-tags-and-module-lifecycle-management",
-        "https://hashicorp.com/en/blog/new-in-terraform-115-dynamic-sources-variable-deprecation-and-more",
         "https://hashicorp.com/en/blog/new-infra-integrations-github-illumio-palo-alto-networks-tessell-more",
         "https://hashicorp.com/en/blog/new-learn-k8s-acl-troubleshooting",
         "https://hashicorp.com/en/blog/new-learn-tutorials-migrating-to-microservices-with-consul-on-kubernetes",
@@ -1977,6 +2228,7 @@
         "https://hashicorp.com/en/blog/new-terraform-integrations-with-cisco-dell-red-hat-servicenow-and-more",
         "https://hashicorp.com/en/blog/new-terraform-integrations-with-crowdstrike-datadog-jfrog-red-hat-and-more",
         "https://hashicorp.com/en/blog/new-terraform-integrations-with-dell-dnsimple-fortinet-palo-alto-networks-juniper",
+        "https://hashicorp.com/en/blog/new-terraform-integrations-with-servicenow-github-confluent-vmware-cisco-and-more",
         "https://hashicorp.com/en/blog/new-terraform-integrations-with-wiz-cisco-palo-alto-networks-couchbase-vmware",
         "https://hashicorp.com/en/blog/new-terraform-planning-options-refresh-false-refresh-only-replace",
         "https://hashicorp.com/en/blog/new-terraform-provider-for-oracle-cloud-platform",
@@ -1996,6 +2248,7 @@
         "https://hashicorp.com/en/blog/new-vault-boundary-offerings-advance-security-lifecycle-management-hashidays-2024",
         "https://hashicorp.com/en/blog/new-vault-tutorials-vault-1-8-release-highlights",
         "https://hashicorp.com/en/blog/new-version-of-servicenow-terraform-catalog-enables-resource-updates",
+        "https://hashicorp.com/en/blog/new-version-of-servicenow-terraform-catalog-enhances-workflows",
         "https://hashicorp.com/en/blog/new-version-servicenow-terraform-catalog-custom-workspace-naming-tags",
         "https://hashicorp.com/en/blog/new-workspace-overview-for-terraform-cloud",
         "https://hashicorp.com/en/blog/new-workspace-tags-for-terraform-cloud",
@@ -2025,6 +2278,7 @@
         "https://hashicorp.com/en/blog/nomad-service-discovery",
         "https://hashicorp.com/en/blog/nomad-v0-5-5-released",
         "https://hashicorp.com/en/blog/observability-cts-nomad-video-highlights-from-hashitalks-2022",
+        "https://hashicorp.com/en/blog/on-demand-container-storage-with-hashicorp-nomad",
         "https://hashicorp.com/en/blog/onboarding-applications-to-vault-using-terraform-a-practical-guide",
         "https://hashicorp.com/en/blog/one-service-many-doors-multi-port-services-in-consul",
         "https://hashicorp.com/en/blog/openshift-support-via-vault-helm-chart",
@@ -2034,6 +2288,8 @@
         "https://hashicorp.com/en/blog/packer-v1160-brings-verifiable-provenance-to-machine-images",
         "https://hashicorp.com/en/blog/pagerduty-palo-alto-networks-and-splunk-among-new-verified-terraform-providers",
         "https://hashicorp.com/en/blog/palo-alto-networks-pagerduty-servicenow-vmware-highlight-vault-eco-growth",
+        "https://hashicorp.com/en/blog/patterns-for-connecting-vault-to-amazon-rds-using-amazon-vpc-lattice",
+        "https://hashicorp.com/en/blog/patterns-to-refactor-infrastructure-as-code-for-compliance",
         "https://hashicorp.com/en/blog/pci-dss-4-compliance-with-hashicorp-vault-and-vault-radar",
         "https://hashicorp.com/en/blog/pki-and-internet-of-things-use-cases",
         "https://hashicorp.com/en/blog/pki-certificate-issuance-flexibility-with-vault-cieps",
@@ -2041,7 +2297,6 @@
         "https://hashicorp.com/en/blog/pki-hosting-cloud-based-pki-vs-self-managed",
         "https://hashicorp.com/en/blog/plans-to-archive-unmaintained-packer-provisioner-plugins",
         "https://hashicorp.com/en/blog/plugin-development-improvements-in-vagrant-1-5",
-        "https://hashicorp.com/en/blog/policy-as-code-explained",
         "https://hashicorp.com/en/blog/pre-plan-apply-run-tasks-now-available-in-terraform-cloud",
         "https://hashicorp.com/en/blog/predictable-plugin-loading-in-packer-1-11",
         "https://hashicorp.com/en/blog/preparing-for-gdpr-compliance-with-hashicorp-vault",
@@ -2057,9 +2312,9 @@
         "https://hashicorp.com/en/blog/provision-terraform-infrastructure-using-packer-and-cloud-init",
         "https://hashicorp.com/en/blog/proxy-ingress-to-consul-service-mesh",
         "https://hashicorp.com/en/blog/public-beta-of-rdp-credential-injection-now-available-in-boundary-0-20",
-        "https://hashicorp.com/en/blog/quantum-security-and-cryptography-in-hashicorp-vault",
         "https://hashicorp.com/en/blog/re-invent-2025-how-hashicorp-and-aws-are-simplifying-cloud-operations",
         "https://hashicorp.com/en/blog/re-invent-recap-hashicorp-terraform-and-consul",
+        "https://hashicorp.com/en/blog/re-invent-roundup-hashicorp-zero-trust-security-and-more-with-aws",
         "https://hashicorp.com/en/blog/red-hat-datadog-and-more-partners-add-vault-ecosystem-integrations",
         "https://hashicorp.com/en/blog/red-hat-podman-and-hashicorp-nomad-integration-matures",
         "https://hashicorp.com/en/blog/redesigning-hashicorp-consul-ui",
@@ -2085,9 +2340,9 @@
         "https://hashicorp.com/en/blog/running-dynamic-ephemeral-multi-hop-workers-for-hcp-boundary-part-2",
         "https://hashicorp.com/en/blog/running-vault-on-hashicorp-nomad-part-1",
         "https://hashicorp.com/en/blog/running-vault-on-nomad-part-2",
-        "https://hashicorp.com/en/blog/running-vault-on-nomad-part-3",
         "https://hashicorp.com/en/blog/salesforce-provider-for-hashicorp-terraform-now-in-tech-preview",
         "https://hashicorp.com/en/blog/saving-banks-from-technical-debt-how-atruvia-built-secure-self-service-infrastructure",
+        "https://hashicorp.com/en/blog/scalable-secure-infrastructure-code-the-right-way-use-a-private-module-registry",
         "https://hashicorp.com/en/blog/scale-infrastructure-with-new-terraform-and-packer-features-at-hashiconf-2025",
         "https://hashicorp.com/en/blog/scep-a-bridge-from-legacy-pki-to-modern-certificate-management",
         "https://hashicorp.com/en/blog/scim-in-vault-standardizes-provisioning-in-platforms",
@@ -2097,11 +2352,11 @@
         "https://hashicorp.com/en/blog/secrets-management-disaster-recovery-without-the-operational-burden",
         "https://hashicorp.com/en/blog/secrets-sync-now-available-on-vault-enterprise-to-manage-secrets-sprawl",
         "https://hashicorp.com/en/blog/secure-ai-agents-with-hashicorp-boundary",
+        "https://hashicorp.com/en/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
         "https://hashicorp.com/en/blog/secure-ai-identity-with-hashicorp-vault",
         "https://hashicorp.com/en/blog/secure-ai-workloads-on-google-cloud-with-hashicorp-vault",
         "https://hashicorp.com/en/blog/secure-consul-and-registered-services-on-kubernetes",
         "https://hashicorp.com/en/blog/secure-consul-with-vault-secret-engines",
-        "https://hashicorp.com/en/blog/secure-kubernetes-deployments-vault-banzai-cloud",
         "https://hashicorp.com/en/blog/secure-kubernetes-ingress-with-hashicorp-boundary",
         "https://hashicorp.com/en/blog/secure-mainframe-access-with-hashicorp-boundary",
         "https://hashicorp.com/en/blog/secure-remote-access-to-private-https-targets-with-hashicorp-boundary",
@@ -2111,7 +2366,6 @@
         "https://hashicorp.com/en/blog/securing-the-last-mile-with-local-account-password-rotation",
         "https://hashicorp.com/en/blog/securing-vmware-and-netapp-data-with-hashicorp-vault",
         "https://hashicorp.com/en/blog/see-your-entire-cluster-at-once-with-nomad-s-topology-visualization",
-        "https://hashicorp.com/en/blog/sentinel-and-control-groups-now-available-in-hcp-vault",
         "https://hashicorp.com/en/blog/sentinel-and-terraform-enterprise-policy-as-code",
         "https://hashicorp.com/en/blog/sentinel-announcement-policy-as-code-framework",
         "https://hashicorp.com/en/blog/service-mesh-visualization-in-hashicorp-consul-1-9",
@@ -2152,6 +2406,7 @@
         "https://hashicorp.com/en/blog/strengthen-security-with-vault-boundary-and-radar-features-at-hashiconf-2025",
         "https://hashicorp.com/en/blog/structuring-hashicorp-terraform-configuration-for-production",
         "https://hashicorp.com/en/blog/sumo-logic-and-databricks-among-9-newly-verified-terraform-providers",
+        "https://hashicorp.com/en/blog/supporting-the-hashicorp-terraform-extension-for-visual-studio-code",
         "https://hashicorp.com/en/blog/survey-results-how-do-you-connect-with-consul",
         "https://hashicorp.com/en/blog/tactical-v-transformative-why-cloud-complexity-is-a-threat-to-competitiveness",
         "https://hashicorp.com/en/blog/target-cli-the-context-switcher-for-hashicorp-tools",
@@ -2187,8 +2442,6 @@
         "https://hashicorp.com/en/blog/terraform-1-8-improves-extensibility-with-provider-defined-functions",
         "https://hashicorp.com/en/blog/terraform-1-9-enhances-input-variable-validations",
         "https://hashicorp.com/en/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
-        "https://hashicorp.com/en/blog/terraform-adds-a-new-setting-to-manage-team-tokens",
-        "https://hashicorp.com/en/blog/terraform-adds-cost-visibility-project-level-notifications-and-more",
         "https://hashicorp.com/en/blog/terraform-adds-granular-permissions-to-manage-agent-pools",
         "https://hashicorp.com/en/blog/terraform-adds-native-monorepo-support-stack-component-configurations-and-more",
         "https://hashicorp.com/en/blog/terraform-adds-new-pre-written-sentinel-policies-aws-foundational-security-best-practices",
@@ -2213,7 +2466,7 @@
         "https://hashicorp.com/en/blog/terraform-azurerm-provider-50-now-generally-available",
         "https://hashicorp.com/en/blog/terraform-cloud-adds-aggregated-vcs-reviews",
         "https://hashicorp.com/en/blog/terraform-cloud-adds-drift-detection-for-infrastructure-management",
-        "https://hashicorp.com/en/blog/terraform-cloud-adds-dynamic-provider-credentials-vault-official-cloud-providers",
+        "https://hashicorp.com/en/blog/terraform-cloud-adds-new-sentinel-policy-review-ui",
         "https://hashicorp.com/en/blog/terraform-cloud-adds-on-demand-policy-evaluation",
         "https://hashicorp.com/en/blog/terraform-cloud-adds-projects-to-organize-workspaces-at-scale",
         "https://hashicorp.com/en/blog/terraform-cloud-adds-streamlined-run-task-reviews",
@@ -2227,13 +2480,16 @@
         "https://hashicorp.com/en/blog/terraform-cloud-now-supports-multiple-configurations-for-dynamic-provider-credent",
         "https://hashicorp.com/en/blog/terraform-cloud-now-supports-policy-runtime-version-management",
         "https://hashicorp.com/en/blog/terraform-cloud-operator-2-3-adds-workspace-run-operations",
+        "https://hashicorp.com/en/blog/terraform-cloud-operator-adds-project-support",
         "https://hashicorp.com/en/blog/terraform-cloud-operator-v2-for-kubernetes-is-now-ga",
+        "https://hashicorp.com/en/blog/terraform-cloud-run-tasks-are-now-generally-available",
         "https://hashicorp.com/en/blog/terraform-cloud-run-tasks-beta-now-available",
         "https://hashicorp.com/en/blog/terraform-cloud-run-tasks-with-styra-das-provides-opa-validation",
         "https://hashicorp.com/en/blog/terraform-cloud-simplifies-reusable-variable-management",
         "https://hashicorp.com/en/blog/terraform-cloud-unveils-new-run-task-workflow-enhancements",
         "https://hashicorp.com/en/blog/terraform-cloud-updates-plans-with-an-enhanced-free-tier-and-more-flexibility",
         "https://hashicorp.com/en/blog/terraform-cloud-variable-sets-beta-now-available",
+        "https://hashicorp.com/en/blog/terraform-collaboration-for-everyone",
         "https://hashicorp.com/en/blog/terraform-community-contributions",
         "https://hashicorp.com/en/blog/terraform-delivers-launch-day-support-for-amazon-s3-express",
         "https://hashicorp.com/en/blog/terraform-embraces-arm-more-choice-greater-flexibility",
@@ -2256,7 +2512,6 @@
         "https://hashicorp.com/en/blog/terraform-gains-visibility-self-service-and-compliance-upgrades",
         "https://hashicorp.com/en/blog/terraform-google-provider-adds-updates-to-default-labels",
         "https://hashicorp.com/en/blog/terraform-improves-permissions-management-for-teams",
-        "https://hashicorp.com/en/blog/terraform-introduces-organizational-control-for-user-token-generation",
         "https://hashicorp.com/en/blog/terraform-introduces-workspaces-and-stacks-restore-and-more",
         "https://hashicorp.com/en/blog/terraform-launch-day-support-amazon-s3-tables-eks-hybrid-nodes-and-more",
         "https://hashicorp.com/en/blog/terraform-learn-getting-started-with-sentinel-in-terraform-cloud",
@@ -2268,7 +2523,6 @@
         "https://hashicorp.com/en/blog/terraform-mono-repo-vs-multi-repo-the-great-debate",
         "https://hashicorp.com/en/blog/terraform-now-supports-assigning-agent-pools-at-the-project-level",
         "https://hashicorp.com/en/blog/terraform-now-supports-multiple-team-tokens",
-        "https://hashicorp.com/en/blog/terraform-packer-and-ci-cd-videos-from-hashitalks-2022",
         "https://hashicorp.com/en/blog/terraform-packer-nomad-and-waypoint-updates-help-scale-ilm-at-hashiconf-2024",
         "https://hashicorp.com/en/blog/terraform-partner-integration-program-changes",
         "https://hashicorp.com/en/blog/terraform-plugin-framework-is-now-generally-available",
@@ -2280,11 +2534,11 @@
         "https://hashicorp.com/en/blog/terraform-remote-operations",
         "https://hashicorp.com/en/blog/terraform-run-tasks-ecosystem-continues-to-grow",
         "https://hashicorp.com/en/blog/terraform-search-and-import-find-resources-and-bring-them-into-terraform",
+        "https://hashicorp.com/en/blog/terraform-security-5-foundational-practices",
         "https://hashicorp.com/en/blog/terraform-sensitive-input-variables",
         "https://hashicorp.com/en/blog/terraform-sentinel-v2-imports-are-now-ga",
         "https://hashicorp.com/en/blog/terraform-sentinel-v2-imports-now-in-technology-preview",
         "https://hashicorp.com/en/blog/terraform-stacks-explained",
-        "https://hashicorp.com/en/blog/terraform-tutorial-application-load-balancers-for-blue-green-and-canary-d",
         "https://hashicorp.com/en/blog/terraform-tutorial-lock-and-upgrade-provider-versions",
         "https://hashicorp.com/en/blog/terraform-tutorial-module-creation-recommended-pattern",
         "https://hashicorp.com/en/blog/terraform-tutorial-terraform-cloud-operator-for-kubernetes",
@@ -2298,6 +2552,7 @@
         "https://hashicorp.com/en/blog/the-common-security-controls-behind-indias-regulatory-wave",
         "https://hashicorp.com/en/blog/the-evolution-of-service-networking",
         "https://hashicorp.com/en/blog/the-future-of-secrets-and-identity-management",
+        "https://hashicorp.com/en/blog/the-great-ai-divide-why-early-leaders-embrace-an-ai-operating-model",
         "https://hashicorp.com/en/blog/the-hashiconf-europe-highlights-you-don-t-want-to-miss",
         "https://hashicorp.com/en/blog/the-hashicorp-compliance-program-updates",
         "https://hashicorp.com/en/blog/the-kubernetes-to-nomad-cheat-sheet",
@@ -2322,6 +2577,7 @@
         "https://hashicorp.com/en/blog/understanding-the-performance-overhead-of-encryption",
         "https://hashicorp.com/en/blog/understanding-vault-performance-benchmarks-from-real-world-workloads",
         "https://hashicorp.com/en/blog/unlocking-the-potential-of-microsoft-fabric-with-terraform",
+        "https://hashicorp.com/en/blog/upcoming-provider-changes-in-terraform-0-10",
         "https://hashicorp.com/en/blog/updates-learn-vault-on-kubernetes-collection",
         "https://hashicorp.com/en/blog/use-vault-to-manage-api-tokens-for-the-terraform-cloud-operator",
         "https://hashicorp.com/en/blog/user-story-videos-from-hashitalks-2022",
@@ -2357,7 +2613,6 @@
         "https://hashicorp.com/en/blog/vagrant-cloud-is-moving-to-hcp",
         "https://hashicorp.com/en/blog/vagrant-cloud-migration-announcement",
         "https://hashicorp.com/en/blog/vagrant-push-one-command-to-deploy-any-application",
-        "https://hashicorp.com/en/blog/vagrant-stability-and-upgrades",
         "https://hashicorp.com/en/blog/variable-management-in-terraform-cloud",
         "https://hashicorp.com/en/blog/vault-0-10",
         "https://hashicorp.com/en/blog/vault-0-11",
@@ -2391,6 +2646,7 @@
         "https://hashicorp.com/en/blog/vault-1-5",
         "https://hashicorp.com/en/blog/vault-1-6",
         "https://hashicorp.com/en/blog/vault-1-7",
+        "https://hashicorp.com/en/blog/vault-1-8",
         "https://hashicorp.com/en/blog/vault-1-9",
         "https://hashicorp.com/en/blog/vault-aide-a-chatops-bot-for-hashicorp-vault",
         "https://hashicorp.com/en/blog/vault-and-aws-partner-to-enhance-kubernetes-security",
@@ -2407,7 +2663,6 @@
         "https://hashicorp.com/en/blog/vault-enterprise-advances-identity-security-pki-and-crypto-agility",
         "https://hashicorp.com/en/blog/vault-enterprise-long-term-support-lts-improves-operational-efficiency",
         "https://hashicorp.com/en/blog/vault-github-action",
-        "https://hashicorp.com/en/blog/vault-helm-chart-020",
         "https://hashicorp.com/en/blog/vault-integrated-storage-ga",
         "https://hashicorp.com/en/blog/vault-integrations-coder-cohesity-confluent-veritas-strengthen-security",
         "https://hashicorp.com/en/blog/vault-integrations-with-dell-github-rubrik-veza-and-more-strengthen-customer-secu",
@@ -2468,7 +2723,6 @@
         "https://hashicorp.com/en/blog/zero-trust-for-agentic-systems-managing-non-human-identities-at-scale",
         "https://hashicorp.com/en/blog/zero-trust-security-for-kubernetes-with-a-service-mesh"
       ],
-      "coverageGaps": [],
       "description": "HashiCorp blog article: breadcrumbs, title, intro, authors, tags and hero image in an Article Header block, followed by the article body as default content; videos become Video or Embed blocks and data tables Table blocks (blog-media-tables transformer)",
       "blocks": [
         {
@@ -2510,7 +2764,8 @@
             "pre"
           ]
         }
-      ]
+      ],
+      "coverageGaps": []
     },
     {
       "name": "blog-article-untagged",
@@ -2523,10 +2778,10 @@
         "https://hashicorp.com/en/blog/5-reasons-to-visit-hashicorp-at-afrotech-24",
         "https://hashicorp.com/en/blog/a-guide-to-hashicorp-at-kubecon-north-america-2021",
         "https://hashicorp.com/en/blog/a-new-chapter-for-hashicorp",
+        "https://hashicorp.com/en/blog/agentic-runtime-security-solving-agentic-ai-identity-and-access-gaps",
         "https://hashicorp.com/en/blog/align-your-cybersecurity-strategy-with-your-organization-s-risk-appetite",
         "https://hashicorp.com/en/blog/announcing-hashiconf-2017",
         "https://hashicorp.com/en/blog/announcing-hashiconf-eu-2016",
-        "https://hashicorp.com/en/blog/announcing-hashicorp",
         "https://hashicorp.com/en/blog/announcing-hashitalks-2021-call-for-proposals",
         "https://hashicorp.com/en/blog/announcing-new-collections-on-hashicorp-learn",
         "https://hashicorp.com/en/blog/announcing-the-2022-hashicorp-si-reseller-partner-network-award-winners",
@@ -2540,7 +2795,6 @@
         "https://hashicorp.com/en/blog/building-richer-interactions-in-the-hashicorp-community",
         "https://hashicorp.com/en/blog/celebrating-mixed-identities-with-the-hashi-blend-erg",
         "https://hashicorp.com/en/blog/claiming-her-seat-at-the-tech-table",
-        "https://hashicorp.com/en/blog/closing-the-skills-and-talent-divide",
         "https://hashicorp.com/en/blog/cloud-budgets-busted-almost-40-overspent-last-year",
         "https://hashicorp.com/en/blog/cloud-platform-teams-are-everywhere-heres-why",
         "https://hashicorp.com/en/blog/cloud-strategy-in-the-ai-era-are-your-cloud-practices-mature-enough",
@@ -2551,6 +2805,7 @@
         "https://hashicorp.com/en/blog/devops-barcelona-2019",
         "https://hashicorp.com/en/blog/dungeons-dragons-for-team-building",
         "https://hashicorp.com/en/blog/enabling-cloud-based-auto-unseal-in-vault-open-source",
+        "https://hashicorp.com/en/blog/first-hashicorp-book-in-japanese",
         "https://hashicorp.com/en/blog/from-devops-engineer-to-solutions-engineer-bridging-gap-between-technology-business",
         "https://hashicorp.com/en/blog/global-accessibility-awareness-day-a-chance-to-broaden-our-perspectives",
         "https://hashicorp.com/en/blog/hashiconf",
@@ -2577,9 +2832,9 @@
         "https://hashicorp.com/en/blog/hashicorp-celebrates-10-years",
         "https://hashicorp.com/en/blog/hashicorp-certified-a-great-place-to-work",
         "https://hashicorp.com/en/blog/hashicorp-community-conferences-are-going-global",
+        "https://hashicorp.com/en/blog/hashicorp-developer-your-new-experience-for-docs-and-tutorials",
         "https://hashicorp.com/en/blog/hashicorp-early-careers-preparing-interns-for-the-real-world",
         "https://hashicorp.com/en/blog/hashicorp-earns-comparably-awards-for-company-and-teams",
-        "https://hashicorp.com/en/blog/hashicorp-fastly",
         "https://hashicorp.com/en/blog/hashicorp-hosts-very-first-hashidays-in-new-york-city",
         "https://hashicorp.com/en/blog/hashicorp-joins-ibm",
         "https://hashicorp.com/en/blog/hashicorp-joins-the-cncf",
@@ -2596,9 +2851,9 @@
         "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-2023-the-financial-services-perspective",
         "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-2023-the-tech-sector-perspective",
         "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-2024-cloud-maturity",
+        "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-2024-forrester-s-key-recommendations",
         "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-offensive-defensive-drivers-multi-cloud",
         "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-welcome-to-the-multi-cloud-era",
-        "https://hashicorp.com/en/blog/hashicorp-store-expansion",
         "https://hashicorp.com/en/blog/hashicorp-updates-licensing-faq-based-on-community-questions",
         "https://hashicorp.com/en/blog/hashicorp-voices-how-the-blacksmiths-erg-supports-the-community",
         "https://hashicorp.com/en/blog/hashicorp-wins-datadog-partner-network-integration-developer-partner-year",
@@ -2628,6 +2883,7 @@
         "https://hashicorp.com/en/blog/how-to-become-a-developer-advocate-part-2-building-empathy",
         "https://hashicorp.com/en/blog/how-to-become-a-developer-advocate-part-3-finding-your-audience",
         "https://hashicorp.com/en/blog/how-to-become-a-developer-advocate-part-4-submitting-to-a-call-for-papers",
+        "https://hashicorp.com/en/blog/how-to-make-interns-a-dynamic-part-of-your-team",
         "https://hashicorp.com/en/blog/how-to-streamline-reporting-material-cyber-risk-to-sec-with-better-it-practices",
         "https://hashicorp.com/en/blog/how-tooling-consolidation-can-help-dev-and-sec-work-together",
         "https://hashicorp.com/en/blog/how-two-hashicorp-employees-marked-latinx-hispanic-heritage-month",
@@ -2665,10 +2921,10 @@
         "https://hashicorp.com/en/blog/recruiting-for-early-careers-at-hashicorp",
         "https://hashicorp.com/en/blog/reflections-on-juneteenth",
         "https://hashicorp.com/en/blog/security-in-the-cloud-it-s-complicated",
+        "https://hashicorp.com/en/blog/serf-0-7",
         "https://hashicorp.com/en/blog/serf-0-8",
         "https://hashicorp.com/en/blog/serving-static-sites-with-fastly-s3-and-middleman",
         "https://hashicorp.com/en/blog/sharing-how-hashicorp-works",
-        "https://hashicorp.com/en/blog/successful-multi-cloud-adoption-requires-automated-security",
         "https://hashicorp.com/en/blog/the-2024-hashicorp-principle-awards",
         "https://hashicorp.com/en/blog/the-2025-hashicorp-principle-awards",
         "https://hashicorp.com/en/blog/the-innovation-vs-security-paradox",
@@ -2683,6 +2939,7 @@
         "https://hashicorp.com/en/blog/videos-from-hashitalks-africa-now-live",
         "https://hashicorp.com/en/blog/welcome-preeti-somal-vp-engineering-hashicorp",
         "https://hashicorp.com/en/blog/what-hashicorp-interns-learned-this-summer",
+        "https://hashicorp.com/en/blog/what-it-s-like-to-work-at-hashicorp-in-bengaluru",
         "https://hashicorp.com/en/blog/what-to-expect-at-hashiconf-eu-training-day",
         "https://hashicorp.com/en/blog/what-transition-to-ibm-means-hashicorp-customers-greater-value-same-commitment",
         "https://hashicorp.com/en/blog/when-free-isn-t-good-enough-why-companies-buy-infrastructure-tools",
@@ -2690,7 +2947,6 @@
         "https://hashicorp.com/en/blog/women-in-tech-podcast-transforming-tech-education",
         "https://hashicorp.com/en/blog/women-s-history-month-stories-of-making-a-difference"
       ],
-      "coverageGaps": [],
       "description": "Blog post: breadcrumb, author byline and article body, without a tag list",
       "blocks": []
     },
@@ -2700,6 +2956,7 @@
         "https://hashicorp.com/en/blog/2019-diversity-scholarship-applications-now-open",
         "https://hashicorp.com/en/blog/a-new-look-for-vagrant",
         "https://hashicorp.com/en/blog/announcing-bitbucket-cloud-integration-for-terraform-enterprise",
+        "https://hashicorp.com/en/blog/announcing-hashicorp-diversity-scholarship-program",
         "https://hashicorp.com/en/blog/announcing-hashicorp-partner-network",
         "https://hashicorp.com/en/blog/announcing-terraform-0-1-2-beta1",
         "https://hashicorp.com/en/blog/announcing-the-full-schedule-for-hashiconf-in-seattle",
@@ -2719,7 +2976,7 @@
         "https://hashicorp.com/en/blog/consul-v0-7-4",
         "https://hashicorp.com/en/blog/get-hands-on-experience-with-hashicorp-products-in-your-browser",
         "https://hashicorp.com/en/blog/get-started-with-consul-service-mesh-on-kubernetes",
-        "https://hashicorp.com/en/blog/google-video-mini-series-featuring-hashicorp-products",
+        "https://hashicorp.com/en/blog/hashiconf-2015-wrap-up",
         "https://hashicorp.com/en/blog/hashiconf-2017-and-texas-sb6-bathroom-bill",
         "https://hashicorp.com/en/blog/hashiconf-2024-scholarship-program-now-open-for-applications",
         "https://hashicorp.com/en/blog/hashiconf-global-scholarship-program-open-for-applications",
@@ -2734,7 +2991,6 @@
         "https://hashicorp.com/en/blog/hashicorp-devops-and-the-application-delivery-process",
         "https://hashicorp.com/en/blog/hashicorp-nomad-0-11-general-availability",
         "https://hashicorp.com/en/blog/hashicorp-terraform-provider-for-azure-stack",
-        "https://hashicorp.com/en/blog/hashicorp-terraform-supports-amazon-linux-2",
         "https://hashicorp.com/en/blog/hashicorp-vagrant-2-0",
         "https://hashicorp.com/en/blog/hashicorp-wins-datadog-s-integration-developer-partner-of-the-year-award",
         "https://hashicorp.com/en/blog/hashidays-amsterdam-2018-recap",
@@ -2749,6 +3005,7 @@
         "https://hashicorp.com/en/blog/new-service-discovery-and-service-mesh-guides-for-consul",
         "https://hashicorp.com/en/blog/new-terraform-providers-f5-nutanix-tencent-helm",
         "https://hashicorp.com/en/blog/new-tutorial-inject-secrets-into-terraform-configuration-using-vault",
+        "https://hashicorp.com/en/blog/nomad-learning-resources-2018-12",
         "https://hashicorp.com/en/blog/nomad-on-aws-quick-start-guide",
         "https://hashicorp.com/en/blog/nomad-under-the-hood",
         "https://hashicorp.com/en/blog/nomad-v0-5-3",
@@ -2760,10 +3017,12 @@
         "https://hashicorp.com/en/blog/terraform-0-9-4",
         "https://hashicorp.com/en/blog/terraform-0-9-5",
         "https://hashicorp.com/en/blog/terraform-0-9-6",
+        "https://hashicorp.com/en/blog/terraform-0-9-8",
         "https://hashicorp.com/en/blog/terraform-enterprise-saas-has-a-new-address",
         "https://hashicorp.com/en/blog/terraform-v0-7-7-released",
         "https://hashicorp.com/en/blog/terraform-v0-8-5",
         "https://hashicorp.com/en/blog/the-life-of-a-packet-through-consul-service-mesh",
+        "https://hashicorp.com/en/blog/third-party-load-balancers-with-nomad-nginx-haproxy-traefik",
         "https://hashicorp.com/en/blog/updating-vagrant-vmware-plugin",
         "https://hashicorp.com/en/blog/use-terraform-to-extend-consul-service-discovery",
         "https://hashicorp.com/en/blog/using-the-terraform-foundational-policies-library-with-azure",
@@ -2775,6 +3034,8 @@
         "https://hashicorp.com/en/blog/vagrant-1-9-4",
         "https://hashicorp.com/en/blog/vagrant-1-9-5",
         "https://hashicorp.com/en/blog/vagrant-1-9-6",
+        "https://hashicorp.com/en/blog/vagrant-cloud-migration-completed",
+        "https://hashicorp.com/en/blog/vagrant-stability-and-upgrades",
         "https://hashicorp.com/en/blog/vagrant-up-and-running-with-vmware-s-project-photon",
         "https://hashicorp.com/en/blog/vault-0-7-1",
         "https://hashicorp.com/en/blog/vault-0-7-3",
@@ -2785,52 +3046,46 @@
         "https://hashicorp.com/en/blog/welcome-talha-tariq-cso-hashicorp",
         "https://hashicorp.com/en/blog/xebia-instruqt-provides-a-learning-platform-for-hashicorp-tools"
       ],
-      "coverageGaps": [],
       "description": "Blog post body followed by related-post cards, without breadcrumb or byline",
       "blocks": []
     },
     {
       "name": "blog-article-alt-01",
       "urls": [
-        "https://hashicorp.com/en/blog/a-cloud-engineering-lead-s-7-lessons-about-speed-vs-security"
+        "https://hashicorp.com/en/blog/5-ways-to-improve-devex-and-security-for-infrastructure-provisioning"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-02",
       "urls": [
-        "https://hashicorp.com/en/blog/a-guide-to-cloud-cost-optimization-with-hashicorp-terraform"
+        "https://hashicorp.com/en/blog/7-ways-to-optimize-cloud-spend-with-terraform"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-03",
       "urls": [
-        "https://hashicorp.com/en/blog/ace-your-terraform-professional-exam-5-tips-from-certified-pros"
+        "https://hashicorp.com/en/blog/a-smoother-hcp-terraform-workspace-experience"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-04",
       "urls": [
-        "https://hashicorp.com/en/blog/agentic-ai-changes-the-shape-of-trust"
+        "https://hashicorp.com/en/blog/advanced-data-protection-adp-now-available-in-hcp-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-05",
       "urls": [
-        "https://hashicorp.com/en/blog/announcing-cdk-for-terraform-0-4"
+        "https://hashicorp.com/en/blog/agentic-ai-changes-the-shape-of-trust"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
@@ -2839,52 +3094,38 @@
       "urls": [
         "https://hashicorp.com/en/blog/announcing-general-availability-of-hashicorp-nomad-1-0"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-07",
       "urls": [
-        "https://hashicorp.com/en/blog/announcing-hashicorp-diversity-scholarship-program"
+        "https://hashicorp.com/en/blog/announcing-hashicorp"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-08",
       "urls": [
-        "https://hashicorp.com/en/blog/announcing-hashicorp-terraform-enterprise-module-registry"
+        "https://hashicorp.com/en/blog/announcing-the-sentinel-playground"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-09",
       "urls": [
-        "https://hashicorp.com/en/blog/announcing-hcp-packer"
+        "https://hashicorp.com/en/blog/automated-canary-deployment-with-hashicorp-consul-and-spinnaker"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-10",
       "urls": [
-        "https://hashicorp.com/en/blog/building-an-event-based-ha-architecture-with-nomad-and-consul"
-      ],
-      "coverageGaps": [],
-      "description": "Blog post with the standard article blocks and a different opening layout",
-      "blocks": []
-    },
-    {
-      "name": "blog-article-alt-11",
-      "urls": [
         "https://hashicorp.com/en/blog/building-resiliency-into-boundary-session-recording"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
@@ -2914,376 +3155,358 @@
         "https://hashicorp.com/en/blog/tags/solution-engineering",
         "https://hashicorp.com/en/blog/tags/speed-agility"
       ],
-      "coverageGaps": [],
       "description": "Blog category or tag listing: short intro and a grid of post cards",
+      "blocks": []
+    },
+    {
+      "name": "blog-article-alt-11",
+      "urls": [
+        "https://hashicorp.com/en/blog/cdk-for-terraform-0-15-improves-integration-with-terraform-cloud"
+      ],
+      "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-12",
       "urls": [
-        "https://hashicorp.com/en/blog/certification-stories-mario-rodriguez-hernandez"
+        "https://hashicorp.com/en/blog/cdktf-0-20-improves-implementation-of-iterators-and-enables-hcl-output"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-13",
       "urls": [
-        "https://hashicorp.com/en/blog/cisco-dcnm-dynatrace-nutanix-kps-among-new-additions-hashicorp-verified-provider-ecosystem"
+        "https://hashicorp.com/en/blog/certificate-management-with-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-14",
       "urls": [
-        "https://hashicorp.com/en/blog/consul-1-14-ga-announcing-simplified-service-mesh-deployments"
+        "https://hashicorp.com/en/blog/closing-the-skills-and-talent-divide"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-15",
       "urls": [
-        "https://hashicorp.com/en/blog/consul-on-amazon-ecs-0-3-adds-extended-configuration"
+        "https://hashicorp.com/en/blog/consul-0-6"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-16",
       "urls": [
-        "https://hashicorp.com/en/blog/discover-govern-and-scale-azure-infrastructure-in-the-ai-era"
+        "https://hashicorp.com/en/blog/consul-scale-test-report-to-observe-gossip-stability"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-17",
       "urls": [
-        "https://hashicorp.com/en/blog/everything-as-code-for-your-security-lifecycle"
+        "https://hashicorp.com/en/blog/discover-govern-and-scale-azure-infrastructure-in-the-ai-era"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-18",
       "urls": [
-        "https://hashicorp.com/en/blog/false-positives-a-big-problem-for-secret-scanners"
+        "https://hashicorp.com/en/blog/do-cloud-wrong-7-red-flags-your-strategy-needs-a-reset"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-19",
       "urls": [
-        "https://hashicorp.com/en/blog/first-hashicorp-book-in-japanese"
+        "https://hashicorp.com/en/blog/google-video-mini-series-featuring-hashicorp-products"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-20",
       "urls": [
-        "https://hashicorp.com/en/blog/hashiconf-2015-wrap-up"
+        "https://hashicorp.com/en/blog/hashicorp-at-aws-re-invent-your-blueprint-to-cloud-success"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-21",
       "urls": [
-        "https://hashicorp.com/en/blog/hashicorp-developer-your-new-experience-for-docs-and-tutorials"
+        "https://hashicorp.com/en/blog/hashicorp-boundary-0-7"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-22",
       "urls": [
-        "https://hashicorp.com/en/blog/hashicorp-re-invent-19-terraform-supports-newly-announced-aws-services"
+        "https://hashicorp.com/en/blog/hashicorp-consul-service-hcs-on-azure-end-of-life"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-23",
       "urls": [
-        "https://hashicorp.com/en/blog/hashicorp-state-of-cloud-strategy-survey-2024-forrester-s-key-recommendations"
+        "https://hashicorp.com/en/blog/hashicorp-fastly"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-24",
       "urls": [
-        "https://hashicorp.com/en/blog/hashitalks-2021-highlights-nomad-and-consul"
+        "https://hashicorp.com/en/blog/hashicorp-learning-resources-reference-guide"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-25",
       "urls": [
-        "https://hashicorp.com/en/blog/how-do-you-overcome-cloud-complexity-find-out-in-our-2025-cloud-complexity-report"
+        "https://hashicorp.com/en/blog/hashicorp-store-expansion"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-26",
       "urls": [
-        "https://hashicorp.com/en/blog/how-to-make-interns-a-dynamic-part-of-your-team"
+        "https://hashicorp.com/en/blog/hashicorp-terraform-supports-amazon-linux-2"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-27",
       "urls": [
-        "https://hashicorp.com/en/blog/how-vault-secrets-operator-vso-automates-secret-management-for-enterprises-on-kub"
+        "https://hashicorp.com/en/blog/hcp-terraform-adds-granular-api-access-for-audit-trails"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-28",
       "urls": [
-        "https://hashicorp.com/en/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"
+        "https://hashicorp.com/en/blog/hcp-vault-dedicated-adds-secrets-sync-wif-cross-region-dr-est-pki-and-more"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-29",
       "urls": [
-        "https://hashicorp.com/en/blog/ldap-secrets-management-now-available-in-ibm-vault-enterprise-20"
+        "https://hashicorp.com/en/blog/hcp-waypoint-actions-now-ga"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-30",
       "urls": [
-        "https://hashicorp.com/en/blog/learn-vault-1-6"
+        "https://hashicorp.com/en/blog/highlights-from-hashiconf-global-2021-for-enterprises"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-31",
       "urls": [
-        "https://hashicorp.com/en/blog/load-shedding-in-the-nomad-eval-broker"
+        "https://hashicorp.com/en/blog/how-vault-secrets-operator-vso-automates-secret-management-for-enterprises-on-kub"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-32",
       "urls": [
-        "https://hashicorp.com/en/blog/manage-kubernetes-secrets-for-flux-with-hashicorp-vault"
+        "https://hashicorp.com/en/blog/infrastructure-as-demos-a-terraform-selling-platform-built-on-terraform"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-33",
       "urls": [
-        "https://hashicorp.com/en/blog/mitigate-credential-exposure-in-windows-environments-with-boundary-and-vault"
+        "https://hashicorp.com/en/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-34",
       "urls": [
-        "https://hashicorp.com/en/blog/new-terraform-integrations-with-servicenow-github-confluent-vmware-cisco-and-more"
+        "https://hashicorp.com/en/blog/introducing-tfctl-the-cli-for-hcp-terraform-and-tfe"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-35",
       "urls": [
-        "https://hashicorp.com/en/blog/new-version-of-servicenow-terraform-catalog-enhances-workflows"
+        "https://hashicorp.com/en/blog/kickstart-terraform-on-gcp-with-google-cloud-shell"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-36",
       "urls": [
-        "https://hashicorp.com/en/blog/nomad-learning-resources-2018-12"
+        "https://hashicorp.com/en/blog/latest-terraform-enterprise-features-reduce-operational-burdens-save-money"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-37",
       "urls": [
-        "https://hashicorp.com/en/blog/on-demand-container-storage-with-hashicorp-nomad"
+        "https://hashicorp.com/en/blog/ldap-secrets-management-now-available-in-ibm-vault-enterprise-20"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-38",
       "urls": [
-        "https://hashicorp.com/en/blog/patterns-for-connecting-vault-to-amazon-rds-using-amazon-vpc-lattice"
+        "https://hashicorp.com/en/blog/login-mfa-support-added-to-vault-open-source-and-hcp-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-39",
       "urls": [
-        "https://hashicorp.com/en/blog/patterns-to-refactor-infrastructure-as-code-for-compliance"
+        "https://hashicorp.com/en/blog/mitigate-credential-exposure-in-windows-environments-with-boundary-and-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-40",
       "urls": [
-        "https://hashicorp.com/en/blog/re-invent-roundup-hashicorp-zero-trust-security-and-more-with-aws"
+        "https://hashicorp.com/en/blog/new-in-terraform-115-dynamic-sources-variable-deprecation-and-more"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-41",
       "urls": [
-        "https://hashicorp.com/en/blog/relaunching-hashicorp-validated-designs-with-improved-usability"
+        "https://hashicorp.com/en/blog/policy-as-code-explained"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-42",
       "urls": [
-        "https://hashicorp.com/en/blog/scalable-secure-infrastructure-code-the-right-way-use-a-private-module-registry"
+        "https://hashicorp.com/en/blog/quantum-security-and-cryptography-in-hashicorp-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-43",
       "urls": [
-        "https://hashicorp.com/en/blog/scaling-without-friction-aliases-at-project-scope-in-boundary"
+        "https://hashicorp.com/en/blog/relaunching-hashicorp-validated-designs-with-improved-usability"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-44",
       "urls": [
-        "https://hashicorp.com/en/blog/serf-0-7"
+        "https://hashicorp.com/en/blog/running-vault-on-nomad-part-3"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-45",
       "urls": [
-        "https://hashicorp.com/en/blog/supporting-the-hashicorp-terraform-extension-for-visual-studio-code"
+        "https://hashicorp.com/en/blog/scaling-without-friction-aliases-at-project-scope-in-boundary"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-46",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-0-9-8"
+        "https://hashicorp.com/en/blog/secure-kubernetes-deployments-vault-banzai-cloud"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-47",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-cloud-adds-new-sentinel-policy-review-ui"
+        "https://hashicorp.com/en/blog/sentinel-and-control-groups-now-available-in-hcp-vault"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-48",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-cloud-operator-adds-project-support"
+        "https://hashicorp.com/en/blog/successful-multi-cloud-adoption-requires-automated-security"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-49",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-cloud-run-tasks-are-now-generally-available"
+        "https://hashicorp.com/en/blog/terraform-adds-a-new-setting-to-manage-team-tokens"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-50",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-collaboration-for-everyone"
+        "https://hashicorp.com/en/blog/terraform-adds-cost-visibility-project-level-notifications-and-more"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-51",
       "urls": [
-        "https://hashicorp.com/en/blog/terraform-security-5-foundational-practices"
+        "https://hashicorp.com/en/blog/terraform-cloud-adds-dynamic-provider-credentials-vault-official-cloud-providers"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-52",
       "urls": [
-        "https://hashicorp.com/en/blog/the-great-ai-divide-why-early-leaders-embrace-an-ai-operating-model"
+        "https://hashicorp.com/en/blog/terraform-introduces-organizational-control-for-user-token-generation"
       ],
-      "coverageGaps": [],
+      "description": "Blog post with the standard article blocks and a different opening layout",
+      "blocks": []
+    },
+    {
+      "name": "blog-article-alt-53",
+      "urls": [
+        "https://hashicorp.com/en/blog/terraform-packer-and-ci-cd-videos-from-hashitalks-2022"
+      ],
+      "description": "Blog post with the standard article blocks and a different opening layout",
+      "blocks": []
+    },
+    {
+      "name": "blog-article-alt-54",
+      "urls": [
+        "https://hashicorp.com/en/blog/terraform-tutorial-application-load-balancers-for-blue-green-and-canary-d"
+      ],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
@@ -3293,70 +3516,30 @@
         "https://hashicorp.com/en/blog/the-tao-of-hashicorp",
         "https://hashicorp.com/en/tao-of-hashicorp"
       ],
-      "coverageGaps": [],
       "description": "Long-form editorial page under a full-width banner",
-      "blocks": []
-    },
-    {
-      "name": "blog-article-alt-53",
-      "urls": [
-        "https://hashicorp.com/en/blog/third-party-load-balancers-with-nomad-nginx-haproxy-traefik"
-      ],
-      "coverageGaps": [],
-      "description": "Blog post with the standard article blocks and a different opening layout",
-      "blocks": []
-    },
-    {
-      "name": "blog-article-alt-54",
-      "urls": [
-        "https://hashicorp.com/en/blog/turning-secret-detection-into-measurable-risk-reduction"
-      ],
-      "coverageGaps": [],
-      "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-55",
       "urls": [
-        "https://hashicorp.com/en/blog/upcoming-provider-changes-in-terraform-0-10"
+        "https://hashicorp.com/en/blog/turning-secret-detection-into-measurable-risk-reduction"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-56",
       "urls": [
-        "https://hashicorp.com/en/blog/vagrant-cloud-migration-completed"
+        "https://hashicorp.com/en/blog/vault-helm-chart-020"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
     {
       "name": "blog-article-alt-57",
       "urls": [
-        "https://hashicorp.com/en/blog/vault-1-8"
-      ],
-      "coverageGaps": [],
-      "description": "Blog post with the standard article blocks and a different opening layout",
-      "blocks": []
-    },
-    {
-      "name": "blog-article-alt-58",
-      "urls": [
-        "https://hashicorp.com/en/blog/what-it-s-like-to-work-at-hashicorp-in-bengaluru"
-      ],
-      "coverageGaps": [],
-      "description": "Blog post with the standard article blocks and a different opening layout",
-      "blocks": []
-    },
-    {
-      "name": "blog-article-alt-59",
-      "urls": [
         "https://hashicorp.com/en/blog/when-levee-breaks-protecting-vault-against-advanced-adversaries-internal-threats"
       ],
-      "coverageGaps": [],
       "description": "Blog post with the standard article blocks and a different opening layout",
       "blocks": []
     },
@@ -3364,10 +3547,8 @@
       "name": "event-signup",
       "urls": [
         "https://hashicorp.com/en/build-scalable-infrastructure-and-security-for-ai",
-        "https://hashicorp.com/en/events/webinars/das-schweizer-taschenmesser-fuer-it-sicherheit-bei-behoerden",
         "https://hashicorp.com/en/vault-certificate-automation-manager-signup"
       ],
-      "coverageGaps": [],
       "description": "Event signup page: event hero with a registration form",
       "blocks": []
     },
@@ -3376,7 +3557,6 @@
       "urls": [
         "https://hashicorp.com/en/certification"
       ],
-      "coverageGaps": [],
       "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
@@ -3393,6 +3573,7 @@
         "https://hashicorp.com/en/industries/retail",
         "https://hashicorp.com/en/industries/technology",
         "https://hashicorp.com/en/industries/telecom",
+        "https://hashicorp.com/en/lp/cloud-maturity/results/standardizing",
         "https://hashicorp.com/en/lp/inspect-and-protect-video",
         "https://hashicorp.com/en/lp/remediation-maturity",
         "https://hashicorp.com/en/lp/remediation-maturity/results/correlation",
@@ -3417,13 +3598,13 @@
         "https://hashicorp.com/en/partners/systems-integrators/avio-consulting",
         "https://hashicorp.com/en/partners/systems-integrators/badal",
         "https://hashicorp.com/en/partners/systems-integrators/blazeclan-tehnologies",
+        "https://hashicorp.com/en/partners/systems-integrators/cancom",
         "https://hashicorp.com/en/partners/systems-integrators/capgemini",
         "https://hashicorp.com/en/partners/systems-integrators/carahsoft",
         "https://hashicorp.com/en/partners/systems-integrators/cdw",
         "https://hashicorp.com/en/partners/systems-integrators/classmethod",
         "https://hashicorp.com/en/partners/systems-integrators/cloud-comrade",
         "https://hashicorp.com/en/partners/systems-integrators/cloud-kinetics",
-        "https://hashicorp.com/en/partners/systems-integrators/cloud-networks",
         "https://hashicorp.com/en/partners/systems-integrators/cloudops",
         "https://hashicorp.com/en/partners/systems-integrators/cloudreach",
         "https://hashicorp.com/en/partners/systems-integrators/cloudxchange-io",
@@ -3507,8 +3688,8 @@
         "https://hashicorp.com/en/partners/systems-integrators/soluciones-orion",
         "https://hashicorp.com/en/partners/systems-integrators/somerford-associates",
         "https://hashicorp.com/en/partners/systems-integrators/sourcesense",
+        "https://hashicorp.com/en/partners/systems-integrators/st-engineering-mission-software-services-pte-ltd",
         "https://hashicorp.com/en/partners/systems-integrators/strata-consulting",
-        "https://hashicorp.com/en/partners/systems-integrators/stratusgrid",
         "https://hashicorp.com/en/partners/systems-integrators/sva-system-vertrieb-alexander-gmbh",
         "https://hashicorp.com/en/partners/systems-integrators/tachtech",
         "https://hashicorp.com/en/partners/systems-integrators/tata-consultancy-services",
@@ -3537,6 +3718,7 @@
         "https://hashicorp.com/en/partners/tech/aisera",
         "https://hashicorp.com/en/partners/tech/aiven",
         "https://hashicorp.com/en/partners/tech/akamai",
+        "https://hashicorp.com/en/partners/tech/alauda",
         "https://hashicorp.com/en/partners/tech/alkira-inc",
         "https://hashicorp.com/en/partners/tech/alteryx",
         "https://hashicorp.com/en/partners/tech/ambassador-labs",
@@ -3568,6 +3750,7 @@
         "https://hashicorp.com/en/partners/tech/bsos",
         "https://hashicorp.com/en/partners/tech/buddy",
         "https://hashicorp.com/en/partners/tech/buildkite",
+        "https://hashicorp.com/en/partners/tech/cast-ai",
         "https://hashicorp.com/en/partners/tech/catchpoint",
         "https://hashicorp.com/en/partners/tech/check-point-software-technologies",
         "https://hashicorp.com/en/partners/tech/checkly",
@@ -3585,6 +3768,7 @@
         "https://hashicorp.com/en/partners/tech/cloudian",
         "https://hashicorp.com/en/partners/tech/cloudraw",
         "https://hashicorp.com/en/partners/tech/cloudscalech",
+        "https://hashicorp.com/en/partners/tech/cloudsigma",
         "https://hashicorp.com/en/partners/tech/cloudsmith",
         "https://hashicorp.com/en/partners/tech/clumio",
         "https://hashicorp.com/en/partners/tech/cockroach-labs",
@@ -3596,6 +3780,7 @@
         "https://hashicorp.com/en/partners/tech/concourse-labs",
         "https://hashicorp.com/en/partners/tech/conduktor",
         "https://hashicorp.com/en/partners/tech/configcat",
+        "https://hashicorp.com/en/partners/tech/confluent",
         "https://hashicorp.com/en/partners/tech/consensys",
         "https://hashicorp.com/en/partners/tech/constellix",
         "https://hashicorp.com/en/partners/tech/control-plane",
@@ -3702,7 +3887,6 @@
         "https://hashicorp.com/en/partners/tech/limelight-networks-inc",
         "https://hashicorp.com/en/partners/tech/linbit",
         "https://hashicorp.com/en/partners/tech/linode",
-        "https://hashicorp.com/en/partners/tech/liquibase",
         "https://hashicorp.com/en/partners/tech/logicmonitor",
         "https://hashicorp.com/en/partners/tech/logzio",
         "https://hashicorp.com/en/partners/tech/lumen",
@@ -3728,7 +3912,6 @@
         "https://hashicorp.com/en/partners/tech/ngrok",
         "https://hashicorp.com/en/partners/tech/nhn-cloud",
         "https://hashicorp.com/en/partners/tech/nirmata",
-        "https://hashicorp.com/en/partners/tech/nobl9-com",
         "https://hashicorp.com/en/partners/tech/nr",
         "https://hashicorp.com/en/partners/tech/ns1",
         "https://hashicorp.com/en/partners/tech/ntt-communications",
@@ -3744,10 +3927,10 @@
         "https://hashicorp.com/en/partners/tech/opennebula",
         "https://hashicorp.com/en/partners/tech/opsera",
         "https://hashicorp.com/en/partners/tech/opslevel",
+        "https://hashicorp.com/en/partners/tech/opsmx",
         "https://hashicorp.com/en/partners/tech/orca-security",
         "https://hashicorp.com/en/partners/tech/overmind",
         "https://hashicorp.com/en/partners/tech/ovhcloud",
-        "https://hashicorp.com/en/partners/tech/packetfabric",
         "https://hashicorp.com/en/partners/tech/pagerduty",
         "https://hashicorp.com/en/partners/tech/palo-alto-networks",
         "https://hashicorp.com/en/partners/tech/panther-labs",
@@ -3811,7 +3994,6 @@
         "https://hashicorp.com/en/partners/tech/splunk",
         "https://hashicorp.com/en/partners/tech/squaredup",
         "https://hashicorp.com/en/partners/tech/stack-overflow",
-        "https://hashicorp.com/en/partners/tech/stackgen-inc",
         "https://hashicorp.com/en/partners/tech/statuscake",
         "https://hashicorp.com/en/partners/tech/streamkap",
         "https://hashicorp.com/en/partners/tech/styra",
@@ -3821,8 +4003,8 @@
         "https://hashicorp.com/en/partners/tech/syntropy",
         "https://hashicorp.com/en/partners/tech/sysdig",
         "https://hashicorp.com/en/partners/tech/temporal",
+        "https://hashicorp.com/en/partners/tech/tenable",
         "https://hashicorp.com/en/partners/tech/terracotta-ai",
-        "https://hashicorp.com/en/partners/tech/thales",
         "https://hashicorp.com/en/partners/tech/thought-machine",
         "https://hashicorp.com/en/partners/tech/threatmodeler-software-inc",
         "https://hashicorp.com/en/partners/tech/timeplus",
@@ -3833,6 +4015,7 @@
         "https://hashicorp.com/en/partners/tech/traceable",
         "https://hashicorp.com/en/partners/tech/traefik-labs",
         "https://hashicorp.com/en/partners/tech/transloadit",
+        "https://hashicorp.com/en/partners/tech/turbot",
         "https://hashicorp.com/en/partners/tech/uipath-inc",
         "https://hashicorp.com/en/partners/tech/unikraft-gmbh",
         "https://hashicorp.com/en/partners/tech/upcloud",
@@ -3869,7 +4052,6 @@
         "https://hashicorp.com/en/training",
         "https://hashicorp.com/en/vault-pki"
       ],
-      "coverageGaps": [],
       "description": "Partner profile: partner hero with logo and a tabbed overview",
       "blocks": []
     },
@@ -3892,7 +4074,6 @@
         "https://hashicorp.com/en/mg-cache-test",
         "https://hashicorp.com/en/self-managed-support"
       ],
-      "coverageGaps": [],
       "description": "Landing page with resource cards, a CTA banner and a contact form",
       "blocks": []
     },
@@ -3901,7 +4082,6 @@
       "urls": [
         "https://hashicorp.com/en/cloud"
       ],
-      "coverageGaps": [],
       "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
@@ -3910,7 +4090,6 @@
       "urls": [
         "https://hashicorp.com/en/cloud-complexity-report"
       ],
-      "coverageGaps": [],
       "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
@@ -3920,8 +4099,6 @@
         "https://hashicorp.com/en/cloud-complexity-report-2025-download",
         "https://hashicorp.com/en/cloud-complexity-report-apj-2025-download",
         "https://hashicorp.com/en/cloud-complexity-report-japan-2025-download",
-        "https://hashicorp.com/en/conferences/hashidays/registration-london",
-        "https://hashicorp.com/en/conferences/hashidays/registration-singapore",
         "https://hashicorp.com/en/lp/accelerate-seamless-hybrid-cloud-discovery-session",
         "https://hashicorp.com/en/lp/act-now-implement-comprehensive-ai-agent-identity-measures-to-navigate-automation",
         "https://hashicorp.com/en/lp/automate-secure-and-govern-aws-at-scale-with-agentic-lifecyclemanagement",
@@ -3949,7 +4126,6 @@
         "https://hashicorp.com/en/lp/vault-radar-discovery-session",
         "https://hashicorp.com/en/project-infragraph-updates"
       ],
-      "coverageGaps": [],
       "description": "Gated content page: intro text beside a lead-capture form",
       "blocks": []
     },
@@ -3959,7 +4135,6 @@
         "https://hashicorp.com/en/cloud-maturity/quiz",
         "https://hashicorp.com/en/remediation-maturity/quiz"
       ],
-      "coverageGaps": [],
       "description": "Interactive assessment page built around a quiz",
       "blocks": []
     },
@@ -3972,9 +4147,7 @@
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/breaking-free-from-clickops-to-deliver-landing-zones-and-automated-infrastructure",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/build-teams-fast-to-drive-core-business-value-challenge-of-tokyo-gas",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/business-track-opening-keynote",
-        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/designing-for-efficiency-and-scale-building-a-secure-automation-platform-with-ter",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/developing-the-citrix-terraform-provider",
-        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/enhancing-developer-experience-with-vagrant",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/enterprise-ai-on-azure-reference-architectures-and-production-deployments",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/evolve-from-ci-cd-to-idp-the-real-evolution-of-devops-into-platform-engineering",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/explore-hashicorp-boundary",
@@ -4002,7 +4175,6 @@
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/what-s-new-in-terraform",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/your-terraform-setup-is-the-foundation-for-an-idp-extend-it-to-empower-developers",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/a-new-approach-for-delivering-optimized-governance-control-and-accelerated-infras",
-        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/ai-speed-to-value-google-cloud-terraform-for-the-enterprise",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/build-and-scale-ai-apps-with-azure-openai-ai-search-and-hcp-terraform",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/cloud-credential-brokering",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/day-2-keynote",
@@ -4030,8 +4202,31 @@
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/the-intelligent-infrastructure-cloud-a-fireside-chat-on-automation-security-and-a",
         "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/unlocking-high-velocity-engineering-through-automation-self-service-and-terraform"
       ],
-      "coverageGaps": [],
       "description": "Conference session page: breadcrumb, session details, speakers, share links and tags",
+      "blocks": []
+    },
+    {
+      "name": "conference-session-alt-01",
+      "urls": [
+        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/designing-for-efficiency-and-scale-building-a-secure-automation-platform-with-ter"
+      ],
+      "description": "Conference session page with a layout of its own: session details, speakers and share links",
+      "blocks": []
+    },
+    {
+      "name": "conference-session-alt-02",
+      "urls": [
+        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-25/enhancing-developer-experience-with-vagrant"
+      ],
+      "description": "Conference session page with a layout of its own: session details, speakers and share links",
+      "blocks": []
+    },
+    {
+      "name": "conference-session-alt-03",
+      "urls": [
+        "https://hashicorp.com/en/conferences/hashiconf/agenda/9-26/ai-speed-to-value-google-cloud-terraform-for-the-enterprise"
+      ],
+      "description": "Conference session page with a layout of its own: session details, speakers and share links",
       "blocks": []
     },
     {
@@ -4039,11 +4234,9 @@
       "urls": [
         "https://hashicorp.com/en/conferences/hashiconf/frequently-asked-questions",
         "https://hashicorp.com/en/lp/cloud-maturity/results/scaling",
-        "https://hashicorp.com/en/lp/cloud-maturity/results/standardizing",
         "https://hashicorp.com/en/lp/infrastructure-cloud-101-a-blueprint-for-cloud-success",
         "https://hashicorp.com/en/lp/secure-lifecycle-management-with-hc"
       ],
-      "coverageGaps": [],
       "description": "Marketing landing page: banner, feature points and resource cards",
       "blocks": []
     },
@@ -4053,7 +4246,6 @@
         "https://hashicorp.com/en/conferences/hashidays",
         "https://hashicorp.com/en/conferences/hashidays/london"
       ],
-      "coverageGaps": [],
       "description": "Conference home page: hero, tabbed sections, video and CTA banner",
       "blocks": []
     },
@@ -4063,26 +4255,24 @@
         "https://hashicorp.com/en/conferences/hashidays/london/e0dda06ea31f3beba948bad2dea30ae1fc74768b",
         "https://hashicorp.com/en/conferences/hashidays/singapore/2fb4a3cc761af42e1d035509a730de2dfb22cf06"
       ],
-      "coverageGaps": [],
       "description": "Regional conference page: hero, media columns, resource cards and a card carousel",
       "blocks": []
     },
     {
-      "name": "marketing-landing-04",
+      "name": "conference-registration",
       "urls": [
-        "https://hashicorp.com/en/do-cloud-right-global-events"
+        "https://hashicorp.com/en/conferences/hashidays/registration-london",
+        "https://hashicorp.com/en/conferences/hashidays/registration-singapore"
       ],
-      "coverageGaps": [],
-      "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
+      "description": "Conference registration page: heading above an embedded third-party registration form",
       "blocks": []
     },
     {
-      "name": "webinar-detail-alt-01",
+      "name": "marketing-landing-05",
       "urls": [
-        "https://hashicorp.com/en/events/webinars/dynamic-networking-by-consul-terraform-sync"
+        "https://hashicorp.com/en/do-cloud-right-global-events"
       ],
-      "coverageGaps": [],
-      "description": "Webinar page with a layout of its own",
+      "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
     {
@@ -4563,7 +4753,6 @@
         "https://hashicorp.com/en/solutions/zero-trust-security",
         "https://hashicorp.com/en/solutions/zero-trust-security-with-hashicorp-and-microsoft-azure"
       ],
-      "coverageGaps": [],
       "description": "Resource page: embedded video with description and related-resource cards",
       "blocks": []
     },
@@ -4584,9 +4773,9 @@
         "https://hashicorp.com/en/lp/secure-webinar-series",
         "https://hashicorp.com/en/lp/securing-infrastructure-automation-virtual-day-emea",
         "https://hashicorp.com/en/lp/security-webinar-series-with-hashicorp-and-microsoft-azure-emea",
-        "https://hashicorp.com/en/lp/security-webinar-series-with-hashicorp-and-microsoft-azure-jp"
+        "https://hashicorp.com/en/lp/security-webinar-series-with-hashicorp-and-microsoft-azure-jp",
+        "https://hashicorp.com/en/lp/security-webinar-series-with-hashicorp-and-microsoft-azure-north-america"
       ],
-      "coverageGaps": [],
       "description": "Campaign landing page: intro, resource cards and a CTA banner",
       "blocks": []
     },
@@ -4595,16 +4784,22 @@
       "urls": [
         "https://hashicorp.com/en/lp/aws-agentic-lifecycle-management"
       ],
-      "coverageGaps": [],
       "description": "One-off campaign landing page: banner, feature sections and CTA",
       "blocks": []
     },
     {
       "name": "campaign-landing-02",
       "urls": [
+        "https://hashicorp.com/en/lp/aws-re-invent-2026"
+      ],
+      "description": "One-off campaign landing page: banner, feature sections and CTA",
+      "blocks": []
+    },
+    {
+      "name": "campaign-landing-03",
+      "urls": [
         "https://hashicorp.com/en/lp/deliver-ai-faster-on-azure"
       ],
-      "coverageGaps": [],
       "description": "One-off campaign landing page: banner, feature sections and CTA",
       "blocks": []
     },
@@ -4614,17 +4809,7 @@
         "https://hashicorp.com/en/lp/gartner-act-now-implement-comprehensive-ai-agent-identity-measures-to-navigate-automation",
         "https://hashicorp.com/en/lp/gartner-market-guide-for-ai-assistants-for-infrastructure-as-code"
       ],
-      "coverageGaps": [],
       "description": "Report landing page: text with an embedded form",
-      "blocks": []
-    },
-    {
-      "name": "campaign-landing-03",
-      "urls": [
-        "https://hashicorp.com/en/lp/security-webinar-series-with-hashicorp-and-microsoft-azure-north-america"
-      ],
-      "coverageGaps": [],
-      "description": "One-off campaign landing page: banner, feature sections and CTA",
       "blocks": []
     },
     {
@@ -4633,7 +4818,6 @@
         "https://hashicorp.com/en/lp/tfc-infrastructure-as-code",
         "https://hashicorp.com/en/lp/tfc-infrastructure-as-code-japan"
       ],
-      "coverageGaps": [],
       "description": "Campaign page: coloured hero, media columns and a CTA banner",
       "blocks": []
     },
@@ -4642,7 +4826,6 @@
       "urls": [
         "https://hashicorp.com/en/partners/cloud/aws"
       ],
-      "coverageGaps": [],
       "description": "Cloud partner landing page: banner, feature cards, resources and CTA",
       "blocks": []
     },
@@ -4651,25 +4834,22 @@
       "urls": [
         "https://hashicorp.com/en/partners/cloud/google-cloud"
       ],
-      "coverageGaps": [],
       "description": "Cloud partner landing page: banner, feature cards, resources and CTA",
-      "blocks": []
-    },
-    {
-      "name": "marketing-landing-05",
-      "urls": [
-        "https://hashicorp.com/en/professional-services"
-      ],
-      "coverageGaps": [],
-      "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
     {
       "name": "marketing-landing-06",
       "urls": [
+        "https://hashicorp.com/en/professional-services"
+      ],
+      "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
+      "blocks": []
+    },
+    {
+      "name": "marketing-landing-07",
+      "urls": [
         "https://hashicorp.com/en/sentinel"
       ],
-      "coverageGaps": [],
       "description": "One-off marketing landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
@@ -4679,7 +4859,6 @@
         "https://hashicorp.com/en/solutions/accelerate-innovation",
         "https://hashicorp.com/en/solutions/strengthen-security"
       ],
-      "coverageGaps": [],
       "description": "Solution page: page label, feature cards, resource cards and share links",
       "blocks": []
     },
@@ -4688,7 +4867,6 @@
       "urls": [
         "https://hashicorp.com/en/solutions/credential-rotation"
       ],
-      "coverageGaps": [],
       "description": "Solution landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     },
@@ -4697,7 +4875,6 @@
       "urls": [
         "https://hashicorp.com/en/solutions/optimize-operations"
       ],
-      "coverageGaps": [],
       "description": "Solution landing page: banner, feature sections, resource cards and CTA",
       "blocks": []
     }

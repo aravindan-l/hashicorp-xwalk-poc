@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023",
+  "path": "events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023",
+  "timestamp": "2026-11-22T21:11:18.756Z",
+  "title": "HashiCorp | An IBM Company",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023/robert-gustafsson-headshot.png": "https://www.datocms-assets.com/2885/1589905122-robert-gustafsson-headshot.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023/erkan-djafer-headshot.jpg": "https://www.datocms-assets.com/2885/1602528137-erkan-djafer-headshot.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023/peter.jpg": "https://www.datocms-assets.com/2885/1724408936-peter.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-enterprise-office-hours-nordics-october-2023/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
+  },
+  "importScript": "eab72306cfc1"
+}

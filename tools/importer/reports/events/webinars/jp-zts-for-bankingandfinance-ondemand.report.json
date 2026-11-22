@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/jp_zts_for_bankingandfinance_ondemand",
+  "path": "events/webinars/jp-zts-for-bankingandfinance-ondemand",
+  "timestamp": "2026-11-22T21:19:56.387Z",
+  "title": "【日本語字幕】銀行や金融機関のためのゼロトラストセキュリティ",
+  "template": "webinar-detail",
+  "blocks": [
+    "marketo-form",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/jp-zts-for-bankingandfinance-ondemand/ricardo.jpg": "https://www.datocms-assets.com/2885/1761229325-ricardo.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/jp-zts-for-bankingandfinance-ondemand/franco-camba-headshot-1.jpg": "https://www.datocms-assets.com/2885/1669028741-franco-camba-headshot-1.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/jp-zts-for-bankingandfinance-ondemand/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

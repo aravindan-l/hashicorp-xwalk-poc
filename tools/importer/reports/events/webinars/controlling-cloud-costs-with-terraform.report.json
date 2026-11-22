@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/controlling-cloud-costs-with-terraform",
+  "path": "events/webinars/controlling-cloud-costs-with-terraform",
+  "timestamp": "2026-11-22T21:12:56.422Z",
+  "title": "Controlling Cloud Costs with Terraform Webinar",
+  "template": "webinar-detail",
+  "blocks": [
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/controlling-cloud-costs-with-terraform/mohamed.jpg": "https://www.datocms-assets.com/2885/1675696847-mohamed.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/controlling-cloud-costs-with-terraform/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}

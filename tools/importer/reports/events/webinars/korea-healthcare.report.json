@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.hashicorp.com/en/events/webinars/korea_healthcare",
+  "path": "events/webinars/korea-healthcare",
+  "timestamp": "2026-11-22T21:13:48.926Z",
+  "title": "의료데이터를 안전하게 클라우드에서 활용하는 방법",
+  "template": "webinar-detail",
+  "blocks": [
+    "embed",
+    "cards-speaker"
+  ],
+  "assets": {
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korea-healthcare/aws-logo-rgb-fullcolor.svg": "https://www.datocms-assets.com/2885/1510033601-aws_logo_rgb_fullcolor.svg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korea-healthcare/gyuseok-lee.jpg": "https://www.datocms-assets.com/2885/1591835026-gyuseok-lee.jpeg",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korea-healthcare/screen-shot-2022-09-02-at-9-10-12-am.png": "https://www.datocms-assets.com/2885/1662077427-screen-shot-2022-09-02-at-9-10-12-am.png",
+    "/content/dam/hashicorp-xwalk-poc/events/webinars/korea-healthcare/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
+  },
+  "importScript": "eab72306cfc1"
+}
