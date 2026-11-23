@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/what-s-new-in-terraform-0-14",
   "path": "events/webinars/what-s-new-in-terraform-0-14",
-  "timestamp": "2026-11-22T21:14:16.461Z",
+  "timestamp": "2026-11-22T22:24:13.054Z",
   "title": "Announcing Terraform 0.14 with Increased Workflow Reliability and Upgrades for Sensitive Variables",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/what-s-new-in-terraform-0-14/petros-k.png": "https://www.datocms-assets.com/2885/1585235407-petros-k.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/what-s-new-in-terraform-0-14/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

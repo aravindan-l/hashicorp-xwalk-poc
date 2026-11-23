@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/vault-1-6-overview",
   "path": "events/webinars/vault-1-6-overview",
-  "timestamp": "2026-11-22T21:13:40.052Z",
+  "timestamp": "2026-11-22T22:23:34.380Z",
   "title": "Vault 1.6 Overview",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-1-6-overview/hashihex-2887.jpg": "https://www.datocms-assets.com/2885/1644345627-hashihex_2887.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-1-6-overview/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

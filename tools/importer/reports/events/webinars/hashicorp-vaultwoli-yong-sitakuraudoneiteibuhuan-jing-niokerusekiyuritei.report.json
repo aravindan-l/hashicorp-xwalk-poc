@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-vaultwoli-yong-sitakuraudoneiteibuhuan-jing-niokerusekiyuritei",
   "path": "events/webinars/hashicorp-vaultwoli-yong-sitakuraudoneiteibuhuan-jing-niokerusekiyuritei",
-  "timestamp": "2026-11-22T21:14:49.865Z",
+  "timestamp": "2026-11-22T22:24:44.172Z",
   "title": "HashiCorp Vaultを利用したクラウドネイティブ環境におけるセキュリティ",
   "template": "webinar-detail",
   "blocks": [
@@ -11,5 +11,5 @@
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-vaultwoli-yong-sitakuraudoneiteibuhuan-jing-niokerusekiyuritei/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

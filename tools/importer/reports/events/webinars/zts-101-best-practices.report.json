@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/zts-101-best-practices",
   "path": "events/webinars/zts-101-best-practices",
-  "timestamp": "2026-11-22T21:18:44.341Z",
+  "timestamp": "2026-11-22T22:28:36.449Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices/rich-dubose-edited.png": "https://www.datocms-assets.com/2885/1746464601-rich-dubose-edited.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

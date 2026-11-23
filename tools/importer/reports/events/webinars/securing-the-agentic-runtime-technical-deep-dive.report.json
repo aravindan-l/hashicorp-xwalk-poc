@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/securing-the-agentic-runtime-technical-deep-dive",
   "path": "events/webinars/securing-the-agentic-runtime-technical-deep-dive",
-  "timestamp": "2026-11-22T21:10:29.225Z",
+  "timestamp": "2026-11-22T22:20:10.338Z",
   "title": "Securing the Agentic Runtime: Technical Deep Dive",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -13,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/securing-the-agentic-runtime-technical-deep-dive/screenshot-2026-10-23-130755.png": "https://www.datocms-assets.com/2885/1792741100-screenshot-2026-10-23-130755.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/securing-the-agentic-runtime-technical-deep-dive/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

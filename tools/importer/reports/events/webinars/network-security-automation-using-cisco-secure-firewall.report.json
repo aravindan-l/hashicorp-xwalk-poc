@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/network-security-automation-using-cisco-secure-firewall",
   "path": "events/webinars/network-security-automation-using-cisco-secure-firewall",
-  "timestamp": "2026-11-22T21:17:33.543Z",
+  "timestamp": "2026-11-22T22:27:31.677Z",
   "title": "Network Security Automation using Cisco Secure Firewall",
   "template": "webinar-detail",
   "blocks": [
@@ -16,5 +16,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/network-security-automation-using-cisco-secure-firewall/adam-rowan.jpg": "https://www.datocms-assets.com/2885/1646341706-adam-rowan.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/network-security-automation-using-cisco-secure-firewall/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

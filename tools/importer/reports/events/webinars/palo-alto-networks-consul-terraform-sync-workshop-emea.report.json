@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea",
   "path": "events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea",
-  "timestamp": "2026-11-22T21:20:14.992Z",
+  "timestamp": "2026-11-22T22:30:10.310Z",
   "title": "Palo Alto Networks Next Generation Firewalls and Consul-Terraform-Sync Workshop (EMEA)",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/migara.jpg": "https://www.datocms-assets.com/2885/1616610644-migara.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/palo-alto-networks-consul-terraform-sync-workshop-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

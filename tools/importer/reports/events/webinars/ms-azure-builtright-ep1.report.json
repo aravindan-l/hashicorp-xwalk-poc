@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/ms-azure-builtright-ep1",
   "path": "events/webinars/ms-azure-builtright-ep1",
-  "timestamp": "2026-11-22T21:13:29.764Z",
+  "timestamp": "2026-11-22T22:23:24.802Z",
   "title": "Azure BuiltRight: MS Azure Verified Modules, landing zones, and subscription vending with Terraform",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/ms-azure-builtright-ep1/jaredholgate.jpg": "https://www.datocms-assets.com/2885/1676475479-jaredholgate.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/ms-azure-builtright-ep1/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

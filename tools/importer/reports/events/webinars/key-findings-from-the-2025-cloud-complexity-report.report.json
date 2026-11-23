@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/key-findings-from-the-2025-cloud-complexity-report",
   "path": "events/webinars/key-findings-from-the-2025-cloud-complexity-report",
-  "timestamp": "2026-11-22T21:18:09.777Z",
+  "timestamp": "2026-11-22T22:28:04.743Z",
   "title": "Navigating AI, security, and cloud at scale: Key findings from the 2025 Cloud Complexity Report",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/key-findings-from-the-2025-cloud-complexity-report/maria-b.jpg": "https://www.datocms-assets.com/2885/1763134035-maria_b.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/key-findings-from-the-2025-cloud-complexity-report/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

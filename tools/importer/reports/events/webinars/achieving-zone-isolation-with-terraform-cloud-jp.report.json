@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/achieving-zone-isolation-with-terraform-cloud-jp",
   "path": "events/webinars/achieving-zone-isolation-with-terraform-cloud-jp",
-  "timestamp": "2026-11-22T21:14:11.785Z",
+  "timestamp": "2026-11-22T22:24:06.070Z",
   "title": "Terraform Cloudを使って分離された環境にプロビジョニングする",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/achieving-zone-isolation-with-terraform-cloud-jp/masa.jpg": "https://www.datocms-assets.com/2885/1586921069-masa.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/achieving-zone-isolation-with-terraform-cloud-jp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

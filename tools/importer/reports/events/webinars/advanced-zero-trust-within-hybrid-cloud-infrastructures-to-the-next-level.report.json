@@ -2,15 +2,16 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/advanced-zero-trust-within-hybrid-cloud-infrastructures-to-the-next-level",
   "path": "events/webinars/advanced-zero-trust-within-hybrid-cloud-infrastructures-to-the-next-level",
-  "timestamp": "2026-11-22T21:11:53.929Z",
+  "timestamp": "2026-11-22T22:21:44.738Z",
   "title": "Advanced Zero Trust within Hybrid Cloud infrastructures to the next level",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/advanced-zero-trust-within-hybrid-cloud-infrastructures-to-the-next-level/280423-6-245.jpg": "https://www.datocms-assets.com/2885/1765802798-280423-6-245.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/advanced-zero-trust-within-hybrid-cloud-infrastructures-to-the-next-level/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

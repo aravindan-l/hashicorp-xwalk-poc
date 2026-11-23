@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/build-deploy-and-manage-everything-as-code",
   "path": "events/webinars/build-deploy-and-manage-everything-as-code",
-  "timestamp": "2026-11-22T21:18:37.662Z",
+  "timestamp": "2026-11-22T22:28:30.147Z",
   "title": "Build, deploy, and manage everything as code",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/build-deploy-and-manage-everything-as-code/jacob-plicque-bw.png": "https://www.datocms-assets.com/2885/1751466013-jacob-plicque_bw.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/build-deploy-and-manage-everything-as-code/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

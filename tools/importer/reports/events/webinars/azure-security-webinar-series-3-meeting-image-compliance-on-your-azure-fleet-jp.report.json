@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/azure-security-webinar-series-3-meeting-image-compliance-on-your-azure-fleet-jp",
   "path": "events/webinars/azure-security-webinar-series-3-meeting-image-compliance-on-your-azure-fleet-jp",
-  "timestamp": "2026-11-22T21:13:20.703Z",
+  "timestamp": "2026-11-22T22:23:15.488Z",
   "title": "第３回：PackerでAzureにおけるイメージコンプライアンスを実現する",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -14,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-security-webinar-series-3-meeting-image-compliance-on-your-azure-fleet-jp/microsoft-sakabe.jpg": "https://www.datocms-assets.com/2885/1698193156-microsoft-sakabe.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-security-webinar-series-3-meeting-image-compliance-on-your-azure-fleet-jp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

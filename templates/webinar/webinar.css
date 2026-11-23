@@ -1,0 +1,292 @@
+/*
+ * Webinar template: light event page. "split" sections put the default content on the left and
+ * the section's block (Marketo form panel, video or speaker list) on the right, as on
+ * hashicorp.com/en/events/webinars/*. Values measured from the source at 1440px.
+ */
+body.webinar {
+  --background-color: #fff;
+  --text-color: #343536;
+  --heading-color: #1d1e1f;
+  --strong-text-color: #343536;
+  --light-color: #f2f2f3;
+  --link-color: #1060ff;
+  --link-hover-color: #0c56e9;
+  --webinar-rule-color: #dedfe3;
+
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+body.webinar main {
+  color: var(--text-color);
+}
+
+body.webinar main h1,
+body.webinar main h2,
+body.webinar main h3,
+body.webinar main h4,
+body.webinar main h5 {
+  color: var(--heading-color);
+}
+
+body.webinar main > .section {
+  margin: 0;
+  padding: 40px 0;
+}
+
+body.webinar main > .section:first-of-type {
+  padding-top: 48px;
+}
+
+body.webinar main > .section > div {
+  padding: 0;
+}
+
+body.webinar main > .section.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 40px;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+body.webinar main > .section.split > div {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+
+/* speakers */
+body.webinar .cards-speaker .cards-speaker-body h5 {
+  margin: 0 0 4px;
+  color: #000;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 23px;
+}
+
+body.webinar .cards-speaker .cards-speaker-body p {
+  color: var(--text-color);
+  font-size: 14px;
+  line-height: 24px;
+}
+
+body.webinar .cards-speaker .cards-speaker-body a:any-link {
+  color: var(--text-color);
+}
+
+body.webinar .marketo-form .marketo-form-message p {
+  margin: 0 0 16px;
+  color: #0c0c0e;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+/* intro text */
+body.webinar main > .section.split .default-content-wrapper {
+  font-size: 16px;
+  line-height: 27px;
+}
+
+body.webinar main > .section.split .default-content-wrapper p {
+  margin: 0 0 19px;
+}
+
+body.webinar main > .section.split .default-content-wrapper ul {
+  margin: 0 0 19px;
+  padding-left: 40px;
+}
+
+body.webinar main > .section.split .default-content-wrapper strong {
+  font-weight: 700;
+}
+
+/* "Recorded Webinar" eyebrow: the paragraph right before the title */
+body.webinar main > .section.split .default-content-wrapper > p:has(+ h1) {
+  margin: 0 0 16px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+body.webinar main > .section.split .default-content-wrapper h1 {
+  margin: 0 0 16px;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+/* live-layout "Details" heading */
+body.webinar main > .section.split .default-content-wrapper h2 {
+  margin: 32px 0 12px;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+}
+
+/* "Back to all recorded webinars": the eyebrow is a plain text link with a leading arrow */
+body.webinar main > .section.split .default-content-wrapper > p:has(+ h1):has(a) {
+  letter-spacing: normal;
+  text-transform: none;
+  font-size: 14px;
+}
+
+body.webinar main > .section.split .default-content-wrapper > p:has(+ h1) a:any-link {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--heading-color);
+  font: inherit;
+  text-decoration: none;
+  white-space: normal;
+}
+
+body.webinar main > .section.split .default-content-wrapper > p:has(+ h1) a:any-link::before {
+  content: '\2190';
+  margin-right: 6px;
+}
+
+body.webinar main > .section.split .default-content-wrapper > p:has(+ h1) a:hover {
+  text-decoration: underline;
+}
+
+/* partner logo(s) above the eyebrow */
+body.webinar main > .section.split .default-content-wrapper > p:first-child:has(> picture) {
+  margin: 0 0 24px;
+  line-height: 0;
+}
+
+body.webinar main > .section.split .default-content-wrapper > p:first-child:has(> picture) img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 48px;
+}
+
+/* presenters band: thin rule above, big heading left, speakers right */
+body.webinar main > .section.split.cards-speaker-container {
+  position: relative;
+}
+
+body.webinar main > .section + .section.split.cards-speaker-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 24px;
+  right: 24px;
+  border-top: 1px solid var(--webinar-rule-color);
+}
+
+body.webinar main > .section.split.cards-speaker-container .default-content-wrapper h2 {
+  margin: 0;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+/* form panel */
+body.webinar .marketo-form .marketo-form-panel {
+  gap: 0;
+  background-color: var(--light-color);
+}
+
+body.webinar .marketo-form .marketo-form-title {
+  padding-bottom: 16px;
+  color: #000;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+}
+
+body.webinar .marketo-form.marketo-form-message-only .marketo-form-panel {
+  min-height: 400px;
+}
+
+body.webinar .marketo-form .marketo-form-placeholder {
+  border-color: #8c909c;
+  color: #656a76;
+  font-size: 14px;
+}
+
+@media (width >= 900px) {
+  body.webinar main > .section {
+    padding: 88px 0;
+  }
+
+  body.webinar main > .section.split {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 48px;
+    align-items: start;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+
+  /* The form/notice panel or the video takes the right column; everything else stacks on the
+     left (live layout: intro, speakers and details all sit left of the panel). */
+  body.webinar main > .section.split:has(> .marketo-form-wrapper, > .embed-wrapper) > div:not(.marketo-form-wrapper, .embed-wrapper) {
+    grid-column: 1;
+  }
+
+  /* The panel spans several rows, so rows get no gap (empty rows would add space); the stacked
+     left-column groups are spaced with margins instead. */
+  body.webinar main > .section.split:has(> .marketo-form-wrapper, > .embed-wrapper) {
+    row-gap: 0;
+  }
+
+  body.webinar main > .section.split > .marketo-form-wrapper,
+  body.webinar main > .section.split > .embed-wrapper {
+    grid-column: 2;
+    grid-row: 1 / span 4;
+  }
+
+  body.webinar main > .section + .section.split.cards-speaker-container::before {
+    left: 48px;
+    right: 48px;
+  }
+
+  body.webinar main > .section.split .default-content-wrapper {
+    padding-bottom: 88px;
+  }
+
+  body.webinar main > .section.split.cards-speaker-container .default-content-wrapper {
+    padding-bottom: 0;
+  }
+
+  body.webinar main > .section.split.cards-speaker-container .default-content-wrapper h2 {
+    font-size: 42px;
+    line-height: 50px;
+  }
+
+  body.webinar .cards-speaker > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (width >= 1312px) {
+  body.webinar main > .section.split {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  body.webinar main > .section + .section.split.cards-speaker-container::before {
+    left: 0;
+    right: 0;
+  }
+}
+
+/* intro section: the text column's own 88px bottom space is the gap to the presenters rule */
+@media (width >= 900px) {
+  body.webinar main > .section.split:first-of-type {
+    padding-bottom: 0;
+  }
+
+  body.webinar main > .section.split:has(> .marketo-form-wrapper, > .embed-wrapper) > .cards-speaker-wrapper,
+  body.webinar main > .section.split:has(> .marketo-form-wrapper, > .embed-wrapper) > .default-content-wrapper ~ .default-content-wrapper {
+    margin-top: 48px;
+  }
+}

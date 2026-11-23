@@ -25,7 +25,7 @@ const PAGE_TEMPLATE = {
       "name": "marketo-form",
       "instances": [
         "[class*='style_webinarForm']",
-        "[class*='registration-form_container']:has(form.mktoForm)"
+        "[class*='registration-form_container']"
       ]
     },
     {
@@ -60,9 +60,7 @@ const PAGE_TEMPLATE = {
         "[class*='event-title_eventTitle']",
         "[class*='style_contentLane'] [class*='style_description__']",
         "[class*='live_description']",
-        "[class*='topic-content_container']",
-        "[class*='registration-form_container']:not(:has(form.mktoForm)) h4",
-        "[class*='registration-form_container']:not(:has(form.mktoForm)) p"
+        "[class*='topic-content_container']"
       ]
     },
     {

@@ -39,6 +39,10 @@
             {
               "name": "Blog Listing",
               "value": "blog-listing"
+            },
+            {
+              "name": "Webinar",
+              "value": "webinar"
             }
           ]
         },

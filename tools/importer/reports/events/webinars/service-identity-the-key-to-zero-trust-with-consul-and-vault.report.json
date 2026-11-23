@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/service-identity-the-key-to-zero-trust-with-consul-and-vault",
   "path": "events/webinars/service-identity-the-key-to-zero-trust-with-consul-and-vault",
-  "timestamp": "2026-11-22T21:14:14.446Z",
+  "timestamp": "2026-11-22T22:24:09.776Z",
   "title": "Service Identity: The Key to Zero Trust with HashiCorp Consul and Vault",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/service-identity-the-key-to-zero-trust-with-consul-and-vault/blakeccircle.png": "https://www.datocms-assets.com/2885/1598051398-blakeccircle.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/service-identity-the-key-to-zero-trust-with-consul-and-vault/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

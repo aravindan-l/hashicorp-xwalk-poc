@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/field-notes-how-to-optimize-your-cloud-spend-americas-and-europe-cs",
   "path": "events/webinars/field-notes-how-to-optimize-your-cloud-spend-americas-and-europe-cs",
-  "timestamp": "2026-11-22T21:13:27.309Z",
+  "timestamp": "2026-11-22T22:23:21.579Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/field-notes-how-to-optimize-your-cloud-spend-americas-and-europe-cs/michaelwood.png": "https://www.datocms-assets.com/2885/1746123001-michaelwood.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/field-notes-how-to-optimize-your-cloud-spend-americas-and-europe-cs/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

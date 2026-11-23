@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/virtual-partner-day-2024-zero-trust-security-europe",
   "path": "events/webinars/virtual-partner-day-2024-zero-trust-security-europe",
-  "timestamp": "2026-11-22T21:25:33.600Z",
+  "timestamp": "2026-11-22T22:22:32.931Z",
   "title": "Virtual Partner Day 2024: Zero trust security (Europe)",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -18,5 +19,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/andrew-krug.jpg": "https://www.datocms-assets.com/2885/1622761813-andrew-krug.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/virtual-partner-day-2024-zero-trust-security-europe/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "921c5da04b83"
+  "importScript": "a59e33a00077"
 }

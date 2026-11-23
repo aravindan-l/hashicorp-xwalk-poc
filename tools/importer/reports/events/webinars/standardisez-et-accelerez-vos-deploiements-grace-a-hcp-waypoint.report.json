@@ -2,15 +2,16 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/standardisez-et-accelerez-vos-deploiements-grace-a-hcp-waypoint",
   "path": "events/webinars/standardisez-et-accelerez-vos-deploiements-grace-a-hcp-waypoint",
-  "timestamp": "2026-11-22T21:10:55.878Z",
+  "timestamp": "2026-11-22T22:20:36.831Z",
   "title": "Standardisez et accélérez vos déploiements grâce à HCP Waypoint",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/standardisez-et-accelerez-vos-deploiements-grace-a-hcp-waypoint/screenshot-2021-12-15-at-17-13-42.png": "https://www.datocms-assets.com/2885/1649254600-screenshot-2021-12-15-at-17-13-42.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/standardisez-et-accelerez-vos-deploiements-grace-a-hcp-waypoint/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

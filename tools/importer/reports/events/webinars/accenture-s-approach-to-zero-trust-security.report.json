@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/accenture-s-approach-to-zero-trust-security",
   "path": "events/webinars/accenture-s-approach-to-zero-trust-security",
-  "timestamp": "2026-11-22T21:15:09.274Z",
+  "timestamp": "2026-11-22T22:25:06.284Z",
   "title": "Accenture's Approach To Zero Trust Security",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/accenture-s-approach-to-zero-trust-security/krishna-dasari.jpg": "https://www.datocms-assets.com/2885/1651101757-krishna_dasari.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/accenture-s-approach-to-zero-trust-security/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

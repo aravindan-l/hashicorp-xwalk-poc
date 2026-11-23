@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/do-cloud-right-foundations-zero-trust-security",
   "path": "events/webinars/do-cloud-right-foundations-zero-trust-security",
-  "timestamp": "2026-11-22T21:19:34.089Z",
+  "timestamp": "2026-11-22T22:29:26.564Z",
   "title": "Cloud Fundamentals: How to achieve zero trust security",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/do-cloud-right-foundations-zero-trust-security/van.jpg": "https://www.datocms-assets.com/2885/1678761504-van.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/do-cloud-right-foundations-zero-trust-security/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

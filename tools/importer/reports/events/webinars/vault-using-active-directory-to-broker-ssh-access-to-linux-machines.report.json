@@ -2,15 +2,16 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/vault-using-active-directory-to-broker-ssh-access-to-linux-machines",
   "path": "events/webinars/vault-using-active-directory-to-broker-ssh-access-to-linux-machines",
-  "timestamp": "2026-11-22T21:11:34.499Z",
+  "timestamp": "2026-11-22T22:21:24.741Z",
   "title": "SE Hangout: Vault: Using Active Directory to Broker SSH Access to Linux Machines",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-using-active-directory-to-broker-ssh-access-to-linux-machines/ef1gckjnm-wg7m1mht7-80bc210136cb-512.jpg": "https://www.datocms-assets.com/2885/1603136462-ef1gckjnm-wg7m1mht7-80bc210136cb-512.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-using-active-directory-to-broker-ssh-access-to-linux-machines/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/azure-maximizing-azure-security-with-terraform-emea",
   "path": "events/webinars/azure-maximizing-azure-security-with-terraform-emea",
-  "timestamp": "2026-11-22T21:13:10.836Z",
+  "timestamp": "2026-11-22T22:23:05.302Z",
   "title": "Securing Infrastructure Automation Partner Virtual Day: Microsoft Azure (EMEA)",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -14,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-maximizing-azure-security-with-terraform-emea/headshot.jpg": "https://www.datocms-assets.com/2885/1678732951-headshot.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-maximizing-azure-security-with-terraform-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

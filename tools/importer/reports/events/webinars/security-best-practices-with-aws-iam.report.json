@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/security-best-practices-with-aws-iam",
   "path": "events/webinars/security-best-practices-with-aws-iam",
-  "timestamp": "2026-11-22T21:25:22.289Z",
+  "timestamp": "2026-11-22T22:30:07.277Z",
   "title": "Security Best Practices with AWS IAM",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/security-best-practices-with-aws-iam/welly-siaw.jpg": "https://www.datocms-assets.com/2885/1702571029-welly-siaw.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/security-best-practices-with-aws-iam/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "921c5da04b83"
+  "importScript": "a59e33a00077"
 }

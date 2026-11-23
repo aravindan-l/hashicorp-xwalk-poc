@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/the-state-of-utah-s-terraform-journey-people-process-tools",
   "path": "events/webinars/the-state-of-utah-s-terraform-journey-people-process-tools",
-  "timestamp": "2026-11-22T21:14:47.114Z",
+  "timestamp": "2026-11-22T22:24:41.335Z",
   "title": "The State of Utah's Terraform Journey: People, Process, Tools",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/the-state-of-utah-s-terraform-journey-people-process-tools/unnamed-1.jpg": "https://www.datocms-assets.com/2885/1596637132-unnamed-1.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/the-state-of-utah-s-terraform-journey-people-process-tools/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

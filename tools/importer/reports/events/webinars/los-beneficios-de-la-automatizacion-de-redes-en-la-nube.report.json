@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/los-beneficios-de-la-automatizacion-de-redes-en-la-nube",
   "path": "events/webinars/los-beneficios-de-la-automatizacion-de-redes-en-la-nube",
-  "timestamp": "2026-11-22T21:13:33.908Z",
+  "timestamp": "2026-11-22T22:23:27.876Z",
   "title": "Los beneficios de la Automatización de Redes en la Nube",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/los-beneficios-de-la-automatizacion-de-redes-en-la-nube/edgardo-villalobos.jpg": "https://www.datocms-assets.com/2885/1643995109-edgardo-villalobos.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/los-beneficios-de-la-automatizacion-de-redes-en-la-nube/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

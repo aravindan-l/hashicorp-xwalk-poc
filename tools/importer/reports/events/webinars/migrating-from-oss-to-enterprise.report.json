@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/migrating-from-oss-to-enterprise",
   "path": "events/webinars/migrating-from-oss-to-enterprise",
-  "timestamp": "2026-11-22T21:15:22.670Z",
+  "timestamp": "2026-11-22T22:25:21.551Z",
   "title": "Migrating from OSS to Enterprise",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/migrating-from-oss-to-enterprise/michaelwood.png": "https://www.datocms-assets.com/2885/1746123001-michaelwood.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/migrating-from-oss-to-enterprise/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

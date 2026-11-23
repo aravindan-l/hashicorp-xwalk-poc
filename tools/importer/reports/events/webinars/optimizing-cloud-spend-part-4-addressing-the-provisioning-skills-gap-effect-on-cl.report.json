@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/optimizing-cloud-spend-part-4-addressing-the-provisioning-skills-gap-effect-on-cl",
   "path": "events/webinars/optimizing-cloud-spend-part-4-addressing-the-provisioning-skills-gap-effect-on-cl",
-  "timestamp": "2026-11-22T21:18:02.321Z",
+  "timestamp": "2026-11-22T22:27:58.591Z",
   "title": "Part 4: Addressing the provisioning skills gap effect on cloud waste",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/optimizing-cloud-spend-part-4-addressing-the-provisioning-skills-gap-effect-on-cl/sandra-liu.png": "https://www.datocms-assets.com/2885/1729258912-sandra-liu.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/optimizing-cloud-spend-part-4-addressing-the-provisioning-skills-gap-effect-on-cl/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/proteggere-lagentic-ai-identita-accesso-e-controllo-a-runtime",
   "path": "events/webinars/proteggere-lagentic-ai-identita-accesso-e-controllo-a-runtime",
-  "timestamp": "2026-11-22T21:19:25.170Z",
+  "timestamp": "2026-11-22T22:29:17.058Z",
   "title": "Proteggere l’Agentic AI: identità, accesso e controllo a runtime",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/proteggere-lagentic-ai-identita-accesso-e-controllo-a-runtime/franco-camba-headshot-1.jpg": "https://www.datocms-assets.com/2885/1669028741-franco-camba-headshot-1.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/proteggere-lagentic-ai-identita-accesso-e-controllo-a-runtime/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

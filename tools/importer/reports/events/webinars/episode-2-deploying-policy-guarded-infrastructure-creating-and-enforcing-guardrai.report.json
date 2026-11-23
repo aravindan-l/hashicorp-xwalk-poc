@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/episode-2-deploying-policy-guarded-infrastructure-creating-and-enforcing-guardrai",
   "path": "events/webinars/episode-2-deploying-policy-guarded-infrastructure-creating-and-enforcing-guardrai",
-  "timestamp": "2026-11-22T21:20:32.671Z",
+  "timestamp": "2026-11-22T22:30:30.393Z",
   "title": "Deploying policy-guarded infrastructure - Creating and enforcing guardrails",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/episode-2-deploying-policy-guarded-infrastructure-creating-and-enforcing-guardrai/vijay-sharma.png": "https://www.datocms-assets.com/2885/1725394187-vijay-sharma.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/episode-2-deploying-policy-guarded-infrastructure-creating-and-enforcing-guardrai/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

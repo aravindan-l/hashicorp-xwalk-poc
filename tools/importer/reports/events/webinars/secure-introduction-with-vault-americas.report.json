@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/secure-introduction-with-vault-americas",
   "path": "events/webinars/secure-introduction-with-vault-americas",
-  "timestamp": "2026-11-22T21:19:59.604Z",
+  "timestamp": "2026-11-22T22:29:54.579Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/secure-introduction-with-vault-americas/chris-moody.jpg": "https://www.datocms-assets.com/2885/1699628632-chris-moody.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/secure-introduction-with-vault-americas/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

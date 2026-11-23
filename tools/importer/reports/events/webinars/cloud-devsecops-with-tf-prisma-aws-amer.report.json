@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-with-tf-prisma-aws-amer",
   "path": "events/webinars/cloud-devsecops-with-tf-prisma-aws-amer",
-  "timestamp": "2026-11-22T21:19:08.610Z",
+  "timestamp": "2026-11-22T22:29:01.179Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-with-tf-prisma-aws-amer/alex-harness-image.png": "https://www.datocms-assets.com/2885/1699631188-alex-harness-image.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-with-tf-prisma-aws-amer/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

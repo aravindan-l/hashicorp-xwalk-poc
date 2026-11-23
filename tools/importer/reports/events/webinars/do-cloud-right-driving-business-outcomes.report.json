@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/do-cloud-right-driving-business-outcomes",
   "path": "events/webinars/do-cloud-right-driving-business-outcomes",
-  "timestamp": "2026-11-22T21:17:46.216Z",
+  "timestamp": "2026-11-22T22:27:43.240Z",
   "title": "Do cloud right: Driving business outcomes",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/do-cloud-right-driving-business-outcomes/john.jpg": "https://www.datocms-assets.com/2885/1755028636-john.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/do-cloud-right-driving-business-outcomes/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

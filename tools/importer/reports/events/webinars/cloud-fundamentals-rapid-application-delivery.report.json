@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/cloud-fundamentals-rapid-application-delivery",
   "path": "events/webinars/cloud-fundamentals-rapid-application-delivery",
-  "timestamp": "2026-11-22T21:17:00.278Z",
+  "timestamp": "2026-11-22T22:26:54.237Z",
   "title": "Cloud Fundamentals: Rapid application delivery",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-rapid-application-delivery/kashaf-salaheen.png": "https://www.datocms-assets.com/2885/1757028471-kashaf-salaheen.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-fundamentals-rapid-application-delivery/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

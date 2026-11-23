@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/make-your-terraform-projects-more-secure-with-sonar-clean-as-you-code",
   "path": "events/webinars/make-your-terraform-projects-more-secure-with-sonar-clean-as-you-code",
-  "timestamp": "2026-11-22T21:19:43.946Z",
+  "timestamp": "2026-11-22T22:29:36.093Z",
   "title": "Make your Terraform Projects more secure with Sonar Clean as You Code",
   "template": "webinar-detail",
   "blocks": [
@@ -16,5 +16,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/make-your-terraform-projects-more-secure-with-sonar-clean-as-you-code/prakash-headshot.png": "https://www.datocms-assets.com/2885/1628727404-prakash-headshot.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/make-your-terraform-projects-more-secure-with-sonar-clean-as-you-code/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

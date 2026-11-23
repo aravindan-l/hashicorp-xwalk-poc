@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow",
   "path": "events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow",
-  "timestamp": "2026-11-22T21:20:03.300Z",
+  "timestamp": "2026-11-22T22:29:58.328Z",
   "title": "Simplifying infrastructure automation with HashiCorp Terraform and ServiceNow",
   "template": "webinar-detail",
   "blocks": [
@@ -17,5 +17,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/halie-kastl-headshot.jpg": "https://www.datocms-assets.com/2885/1750286548-halie-kastl-headshot.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/simplifying-infrastructure-automation-with-hashicorp-terraform-and-servicenow/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

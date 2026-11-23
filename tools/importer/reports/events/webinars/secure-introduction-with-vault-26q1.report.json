@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/secure-introduction-with-vault-26q1",
   "path": "events/webinars/secure-introduction-with-vault-26q1",
-  "timestamp": "2026-11-22T21:17:05.551Z",
+  "timestamp": "2026-11-22T22:27:00.451Z",
   "title": "Secure Introduction with Vault (Americas)",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/secure-introduction-with-vault-26q1/chris-moody.jpg": "https://www.datocms-assets.com/2885/1699628632-chris-moody.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/secure-introduction-with-vault-26q1/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-new-releases-emea-session",
   "path": "events/webinars/hashicorp-new-releases-emea-session",
-  "timestamp": "2026-11-22T21:17:14.341Z",
+  "timestamp": "2026-11-22T22:27:10.403Z",
   "title": "HashiCorp New Releases (EMEA)",
   "template": "webinar-detail",
   "blocks": [
@@ -18,5 +18,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/mikenomitch1.jpg": "https://www.datocms-assets.com/2885/1569273909-mikenomitch1.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-new-releases-emea-session/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

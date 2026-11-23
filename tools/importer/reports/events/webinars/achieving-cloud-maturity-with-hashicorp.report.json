@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/achieving-cloud-maturity-with-hashicorp",
   "path": "events/webinars/achieving-cloud-maturity-with-hashicorp",
-  "timestamp": "2026-11-22T21:17:52.461Z",
+  "timestamp": "2026-11-22T22:27:49.649Z",
   "title": "Achieving cloud maturity with HashiCorp",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/achieving-cloud-maturity-with-hashicorp/tom-oconnell.png": "https://www.datocms-assets.com/2885/1753985267-tom-oconnell.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/achieving-cloud-maturity-with-hashicorp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

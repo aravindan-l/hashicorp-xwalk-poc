@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/scaling-infrastructure-as-code-proven-strategies-and-productive-workflows-america",
   "path": "events/webinars/scaling-infrastructure-as-code-proven-strategies-and-productive-workflows-america",
-  "timestamp": "2026-11-22T21:15:59.352Z",
+  "timestamp": "2026-11-22T22:25:54.050Z",
   "title": "Scaling infrastructure as code: Proven strategies and productive workflows (Americas)",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/scaling-infrastructure-as-code-proven-strategies-and-productive-workflows-america/headshot-2021-square-400px.jpg": "https://www.datocms-assets.com/2885/1659029105-headshot-2021-square-400px.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/scaling-infrastructure-as-code-proven-strategies-and-productive-workflows-america/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

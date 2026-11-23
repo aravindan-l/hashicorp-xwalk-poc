@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/engineering-velocity-with-gcp-and-terraform",
   "path": "events/webinars/engineering-velocity-with-gcp-and-terraform",
-  "timestamp": "2026-11-22T21:12:49.791Z",
+  "timestamp": "2026-11-22T22:22:41.986Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -13,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/engineering-velocity-with-gcp-and-terraform/jake-lundberg-photo.png": "https://www.datocms-assets.com/2885/1701273015-jake-lundberg-photo.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/engineering-velocity-with-gcp-and-terraform/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

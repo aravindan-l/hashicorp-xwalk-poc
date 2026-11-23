@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/part-1-scaling-your-adoption-of-aws-with-hashicorp-terraform-apj",
   "path": "events/webinars/part-1-scaling-your-adoption-of-aws-with-hashicorp-terraform-apj",
-  "timestamp": "2026-11-22T21:19:27.879Z",
+  "timestamp": "2026-11-22T22:29:19.737Z",
   "title": "Part 1: Scaling your adoption of AWS with HashiCorp Terraform",
   "template": "webinar-detail",
   "blocks": [
@@ -16,5 +16,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/part-1-scaling-your-adoption-of-aws-with-hashicorp-terraform-apj/surebart-archive-photo.jpg": "https://www.datocms-assets.com/2885/1681375528-surebart-archive-photo.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/part-1-scaling-your-adoption-of-aws-with-hashicorp-terraform-apj/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

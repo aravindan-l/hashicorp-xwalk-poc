@@ -14,7 +14,7 @@ import {
 } from './aem.js';
 
 // Page templates with their own stylesheet in /templates/<name>/<name>.css
-const TEMPLATES = ['blog-article'];
+const TEMPLATES = ['blog-article', 'webinar'];
 
 // Root of this site's pages on AEM author, where Universal Editor opens them.
 const AUTHOR_SITE_ROOT = '/content/hashicorp-xwalk-poc';

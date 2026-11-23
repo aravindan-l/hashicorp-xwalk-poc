@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/oss-vs-enterprise-puntos-claves-por-considerar-al-implementar-terraform-en-produc",
   "path": "events/webinars/oss-vs-enterprise-puntos-claves-por-considerar-al-implementar-terraform-en-produc",
-  "timestamp": "2026-11-22T21:18:12.181Z",
+  "timestamp": "2026-11-22T22:28:07.629Z",
   "title": "OSS vs Enterprise? Puntos claves por considerar al implementar Terraform en producción",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/oss-vs-enterprise-puntos-claves-por-considerar-al-implementar-terraform-en-produc/omar-speaker-msft.jpg": "https://www.datocms-assets.com/2885/1634061405-omar-speaker-msft.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/oss-vs-enterprise-puntos-claves-por-considerar-al-implementar-terraform-en-produc/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/emea-partner-masterclass-hashicorp-cloud-operating-model",
   "path": "events/webinars/emea-partner-masterclass-hashicorp-cloud-operating-model",
-  "timestamp": "2026-11-22T21:13:42.807Z",
+  "timestamp": "2026-11-22T22:23:36.686Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/emea-partner-masterclass-hashicorp-cloud-operating-model/nicolas-headshot.png": "https://www.datocms-assets.com/2885/1584443821-nicolas-headshot.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/emea-partner-masterclass-hashicorp-cloud-operating-model/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

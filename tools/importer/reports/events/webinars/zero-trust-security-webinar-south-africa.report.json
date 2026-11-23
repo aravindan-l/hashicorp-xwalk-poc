@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/zero-trust-security-webinar-south-africa",
   "path": "events/webinars/zero-trust-security-webinar-south-africa",
-  "timestamp": "2026-11-22T21:14:27.244Z",
+  "timestamp": "2026-11-22T22:24:23.578Z",
   "title": "Zero Trust Security Webinar: South Africa",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-webinar-south-africa/mervyn.jpg": "https://www.datocms-assets.com/2885/1654079950-mervyn.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-webinar-south-africa/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea",
   "path": "events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea",
-  "timestamp": "2026-11-22T21:20:17.820Z",
+  "timestamp": "2026-11-22T22:30:13.865Z",
   "title": "Zero Trust 101: Best Practices for Security in the Cloud",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea/aubrey-johnson.jpg": "https://www.datocms-assets.com/2885/1622764674-aubrey-johnson.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zts-101-best-practices-for-security-in-the-cloud-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

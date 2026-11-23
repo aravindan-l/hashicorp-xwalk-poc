@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/episode-1-3-phases-of-optimizing-cloud-spend-with-hashicorp-terraform-asia-and-au",
   "path": "events/webinars/episode-1-3-phases-of-optimizing-cloud-spend-with-hashicorp-terraform-asia-and-au",
-  "timestamp": "2026-11-22T21:16:18.839Z",
+  "timestamp": "2026-11-22T22:26:13.330Z",
   "title": "Part 1: 3 phases of optimizing cloud spend with HashiCorp Terraform (Asia and Australia)",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/episode-1-3-phases-of-optimizing-cloud-spend-with-hashicorp-terraform-asia-and-au/nick-defino.jpg": "https://www.datocms-assets.com/2885/1713903505-nick-defino.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/episode-1-3-phases-of-optimizing-cloud-spend-with-hashicorp-terraform-asia-and-au/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

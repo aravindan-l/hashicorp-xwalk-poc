@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/integrating-nomad-with-vault",
   "path": "events/webinars/integrating-nomad-with-vault",
-  "timestamp": "2026-11-22T21:14:36.858Z",
+  "timestamp": "2026-11-22T22:24:31.648Z",
   "title": "Integrating HashiCorp Nomad with Vault",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-nomad-with-vault/burkey3.png": "https://www.datocms-assets.com/2885/1597621090-burkey3.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/integrating-nomad-with-vault/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

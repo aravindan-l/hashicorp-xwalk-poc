@@ -2,15 +2,16 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-hcp-packer-terraform-cloud",
   "path": "events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-hcp-packer-terraform-cloud",
-  "timestamp": "2026-11-22T21:13:05.359Z",
+  "timestamp": "2026-11-22T22:22:58.769Z",
   "title": "HashiCorp Webinar sugli aggiornamenti dei prodotti: HCP Packer + Terraform Cloud",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-hcp-packer-terraform-cloud/luca.jpg": "https://www.datocms-assets.com/2885/1636386871-luca.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/hashicorp-webinar-sugli-aggiornamenti-dei-prodotti-hcp-packer-terraform-cloud/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

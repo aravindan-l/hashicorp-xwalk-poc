@@ -31,3 +31,160 @@
     padding: 64px;
   }
 }
+
+/* live Marketo form (forms2), styled like the source panel; Marketo's own theme is removed */
+/* stylelint-disable selector-class-pattern -- Marketo forms2 renders camelCase class names */
+.marketo-form.marketo-form-loaded .marketo-form-placeholder {
+  display: block;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  text-align: left;
+}
+
+.marketo-form .mktoForm {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 32px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+.marketo-form .mktoForm .mktoFormRow {
+  display: flex;
+  flex: 1 1 100%;
+  gap: 32px;
+}
+
+.marketo-form .mktoForm .mktoFormRow:not(:has(input:not([type='hidden']), select, textarea, .mktoHtmlText)) {
+  display: none;
+}
+
+.marketo-form .mktoForm .mktoFormCol,
+.marketo-form .mktoForm .mktoFieldWrap {
+  flex: 1 1 0;
+  min-width: 0;
+  width: auto;
+  float: none;
+}
+
+.marketo-form .mktoForm .mktoLabel {
+  display: flex;
+  gap: 8px;
+  width: auto;
+  margin: 0 0 8px;
+  padding: 0;
+  float: none;
+  color: #0c0c0e;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.marketo-form .mktoForm .mktoRequiredField .mktoLabel::after {
+  content: 'Required';
+  color: #656a76;
+  font-weight: 400;
+}
+
+.marketo-form .mktoForm .mktoAsterix {
+  display: none;
+}
+
+.marketo-form .mktoForm input:not([type='checkbox'], [type='radio'], [type='hidden']),
+.marketo-form .mktoForm select,
+.marketo-form .mktoForm textarea {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 48px;
+  padding: 11px;
+  border: 1px solid #8c909c;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #0c0c0e;
+  font: inherit;
+  font-size: 16px;
+}
+
+.marketo-form .mktoForm .mktoCheckboxList {
+  display: flex;
+  gap: 8px;
+  width: auto;
+  float: none;
+}
+
+.marketo-form .mktoForm .mktoCheckboxList label {
+  color: #0c0c0e;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+.marketo-form .mktoForm .mktoHtmlText {
+  width: auto;
+  color: #656a76;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.marketo-form .mktoForm .mktoError .mktoErrorMsg {
+  margin-top: 6px;
+  color: #c00005;
+  font-size: 13px;
+}
+
+.marketo-form .mktoForm .mktoButtonRow {
+  flex: 1 1 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.marketo-form .mktoForm .mktoButtonWrap {
+  margin: 0;
+}
+
+.marketo-form .marketo-form-panel .mktoForm .mktoButtonWrap .mktoButton {
+  padding: 11px 19px;
+  background-image: none;
+  box-shadow: none;
+  text-shadow: none;
+  border: 1px solid #0c56e9;
+  border-radius: 5px;
+  background-color: #1060ff;
+  color: #fff;
+  font: inherit;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.marketo-form .marketo-form-panel .mktoForm .mktoButtonWrap .mktoButton:hover {
+  background-color: #0c56e9;
+}
+
+.marketo-form .marketo-form-success p {
+  margin: 0 0 16px;
+}
+
+/* consent-style checkbox: box first, then its label, on one line */
+.marketo-form .mktoForm .mktoFieldWrap:has(> .mktoCheckboxList) {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.marketo-form .mktoForm .mktoFieldWrap:has(> .mktoCheckboxList) > .mktoLabel {
+  margin: 0;
+}
+
+.marketo-form .mktoForm .mktoCheckboxList input {
+  margin: 4px 0 0;
+}
+
+.marketo-form .mktoForm .mktoCheckboxList label:empty {
+  display: none;
+}
+/* stylelint-enable selector-class-pattern */

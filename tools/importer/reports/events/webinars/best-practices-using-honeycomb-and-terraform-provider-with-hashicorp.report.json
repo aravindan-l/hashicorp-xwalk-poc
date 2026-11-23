@@ -2,10 +2,11 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/best-practices-using-honeycomb-and-terraform-provider-with-hashicorp",
   "path": "events/webinars/best-practices-using-honeycomb-and-terraform-provider-with-hashicorp",
-  "timestamp": "2026-11-22T21:11:26.952Z",
+  "timestamp": "2026-11-22T22:21:15.709Z",
   "title": "Best Practices Using Honeycomb and HashiCorp's Terraform Provider",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
@@ -13,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/best-practices-using-honeycomb-and-terraform-provider-with-hashicorp/nic-jackson-hashicorp.jpg": "https://www.datocms-assets.com/2885/1521522465-nic-jackson-hashicorp.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/best-practices-using-honeycomb-and-terraform-provider-with-hashicorp/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -237,10 +237,16 @@ var CustomImportScript = (() => {
       recordingLink = document.createElement("p");
       recordingLink.append(a);
     }
+    const message = formId ? [] : [...element.querySelectorAll("p")].filter((p) => !p.closest("form") && clean2(p.textContent)).map((p) => {
+      const n = document.createElement("p");
+      n.innerHTML = p.innerHTML;
+      return n;
+    });
     const cells = [
       [hinted2(document, "title", [textNode(document, title)])],
       [hinted2(document, "formId", [textNode(document, formId)])],
-      [hinted2(document, "recordingUrl", [recordingLink])]
+      [hinted2(document, "recordingUrl", [recordingLink])],
+      [hinted2(document, "message", message)]
     ];
     const block = WebImporter.Blocks.createBlock(document, { name: "marketo-form", cells });
     element.replaceWith(block);
@@ -530,7 +536,7 @@ var CustomImportScript = (() => {
   }
 
   // tools/importer/transformers/hashicorp-metadata.js
-  var PAGE_TEMPLATES = { "blog-article": "blog-article", "blog-listing": "blog-listing" };
+  var PAGE_TEMPLATES = { "blog-article": "blog-article", "blog-listing": "blog-listing", "webinar-detail": "webinar" };
   function transform5(hookName, element, payload) {
     var _a;
     if (hookName !== "afterTransform") return;
@@ -732,7 +738,7 @@ var CustomImportScript = (() => {
         "name": "marketo-form",
         "instances": [
           "[class*='style_webinarForm']",
-          "[class*='registration-form_container']:has(form.mktoForm)"
+          "[class*='registration-form_container']"
         ]
       },
       {
@@ -767,9 +773,7 @@ var CustomImportScript = (() => {
           "[class*='event-title_eventTitle']",
           "[class*='style_contentLane'] [class*='style_description__']",
           "[class*='live_description']",
-          "[class*='topic-content_container']",
-          "[class*='registration-form_container']:not(:has(form.mktoForm)) h4",
-          "[class*='registration-form_container']:not(:has(form.mktoForm)) p"
+          "[class*='topic-content_container']"
         ]
       },
       {

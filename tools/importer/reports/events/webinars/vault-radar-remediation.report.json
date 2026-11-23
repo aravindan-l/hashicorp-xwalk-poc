@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/vault-radar-remediation",
   "path": "events/webinars/vault-radar-remediation",
-  "timestamp": "2026-11-22T21:19:46.821Z",
+  "timestamp": "2026-11-22T22:29:40.104Z",
   "title": "From exposure to action: Operationalizing secret remediation",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-radar-remediation/ef1gckjnm-u05rm0lheep-31575340be57-512-edited.png": "https://www.datocms-assets.com/2885/1746465026-ef1gckjnm-u05rm0lheep-31575340be57-512-edited.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/vault-radar-remediation/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

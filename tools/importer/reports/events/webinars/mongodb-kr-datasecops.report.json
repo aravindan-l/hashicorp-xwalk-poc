@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/mongodb-kr-datasecops",
   "path": "events/webinars/mongodb-kr-datasecops",
-  "timestamp": "2026-11-22T21:25:14.426Z",
+  "timestamp": "2026-11-22T22:25:39.013Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/headshot-kd-kim.png": "https://www.datocms-assets.com/2885/1646110807-headshot_kd-kim.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/mongodb-kr-datasecops/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "921c5da04b83"
+  "importScript": "a59e33a00077"
 }

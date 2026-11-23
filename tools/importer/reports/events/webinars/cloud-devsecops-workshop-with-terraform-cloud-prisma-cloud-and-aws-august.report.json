@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-august",
   "path": "events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-august",
-  "timestamp": "2026-11-22T21:16:41.648Z",
+  "timestamp": "2026-11-22T22:26:34.258Z",
   "title": "Cloud DevSecOps Workshop with HCP Terraform, Prisma Cloud, and AWS (Americas and Europe)",
   "template": "webinar-detail",
   "blocks": [
@@ -17,5 +17,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-august/angelo.png": "https://www.datocms-assets.com/2885/1697124898-angelo.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/cloud-devsecops-workshop-with-terraform-cloud-prisma-cloud-and-aws-august/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

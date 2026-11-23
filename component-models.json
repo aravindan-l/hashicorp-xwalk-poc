@@ -38,6 +38,10 @@
           {
             "name": "Blog Listing",
             "value": "blog-listing"
+          },
+          {
+            "name": "Webinar",
+            "value": "webinar"
           }
         ]
       },
@@ -551,6 +555,13 @@
         "name": "recordingUrl",
         "label": "Recording link",
         "description": "Optional URL of the recording shown after the form is submitted"
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "message",
+        "label": "Message",
+        "description": "Text shown in the panel instead of a form, e.g. 'Recording coming soon!' notice. Leave the form ID empty to show only the message."
       }
     ]
   },

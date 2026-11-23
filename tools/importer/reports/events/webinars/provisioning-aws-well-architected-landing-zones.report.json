@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/provisioning-aws-well-architected-landing-zones",
   "path": "events/webinars/provisioning-aws-well-architected-landing-zones",
-  "timestamp": "2026-11-22T21:17:22.614Z",
+  "timestamp": "2026-11-22T22:27:19.929Z",
   "title": "Secure, scalable AWS landing zones with the HashiCorp Cloud Platform",
   "template": "webinar-detail",
   "blocks": [
@@ -16,5 +16,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/provisioning-aws-well-architected-landing-zones/headshot-1.png": "https://www.datocms-assets.com/2885/1760710100-headshot-1.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/provisioning-aws-well-architected-landing-zones/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

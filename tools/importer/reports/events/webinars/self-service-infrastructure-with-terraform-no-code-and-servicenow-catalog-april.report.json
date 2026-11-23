@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april",
   "path": "events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april",
-  "timestamp": "2026-11-22T21:16:38.803Z",
+  "timestamp": "2026-11-22T22:26:30.827Z",
   "title": "Self-service infrastructure with Terraform no-code provisioning and the ServiceNow catalog",
   "template": "webinar-detail",
   "blocks": [
@@ -17,5 +17,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/img-8856.jpg": "https://www.datocms-assets.com/2885/1759412364-img_8856.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/self-service-infrastructure-with-terraform-no-code-and-servicenow-catalog-april/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

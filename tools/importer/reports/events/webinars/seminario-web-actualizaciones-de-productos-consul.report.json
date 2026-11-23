@@ -2,15 +2,16 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/seminario-web-actualizaciones-de-productos-consul",
   "path": "events/webinars/seminario-web-actualizaciones-de-productos-consul",
-  "timestamp": "2026-11-22T21:11:56.865Z",
+  "timestamp": "2026-11-22T22:21:47.570Z",
   "title": "Seminario web: Actualizaciones de productos - Consul",
   "template": "webinar-detail",
   "blocks": [
+    "marketo-form",
     "cards-speaker"
   ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/seminario-web-actualizaciones-de-productos-consul/jose.jpg": "https://www.datocms-assets.com/2885/1666877440-jose.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/seminario-web-actualizaciones-de-productos-consul/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

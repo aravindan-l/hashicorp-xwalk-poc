@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-americas-and-europe-infrastructure",
   "path": "events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-americas-and-europe-infrastructure",
-  "timestamp": "2026-11-22T21:17:20.582Z",
+  "timestamp": "2026-11-22T22:27:17.457Z",
   "title": "HashiCorp | An IBM Company",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-americas-and-europe-infrastructure/ruddy-2021-sm.png": "https://www.datocms-assets.com/2885/1689618967-ruddy_2021_sm.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/the-infrastructure-cloud-a-blueprint-for-cloud-success-americas-and-europe-infrastructure/logo-ibm.png": "https://www.datocms-assets.com/2885/1740664580-logo_ibm.png"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

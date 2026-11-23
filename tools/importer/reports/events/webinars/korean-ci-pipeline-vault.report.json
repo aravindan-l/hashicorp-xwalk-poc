@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/korean-ci-pipeline-vault",
   "path": "events/webinars/korean-ci-pipeline-vault",
-  "timestamp": "2026-11-22T21:15:06.579Z",
+  "timestamp": "2026-11-22T22:25:02.817Z",
   "title": "[Korean] CI Pipeline을 Vault로 더 안전하게",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/korean-ci-pipeline-vault/junsang-park-photo.jpg": "https://www.datocms-assets.com/2885/1586477899-junsang-park-photo.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/korean-ci-pipeline-vault/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

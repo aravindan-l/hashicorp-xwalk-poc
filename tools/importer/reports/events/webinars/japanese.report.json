@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/japanese",
   "path": "events/webinars/japanese",
-  "timestamp": "2026-11-22T21:13:23.976Z",
+  "timestamp": "2026-11-22T22:23:18.130Z",
   "title": "シークレットゼロ：初期シークレット管理リスクの回避策",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/japanese/takayuki-kaburagi.jpg": "https://www.datocms-assets.com/2885/1586920197-takayuki-kaburagi.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/japanese/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

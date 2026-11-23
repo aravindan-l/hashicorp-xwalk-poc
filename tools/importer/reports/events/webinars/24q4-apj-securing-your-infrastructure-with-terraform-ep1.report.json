@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/24q4-apj-securing-your-infrastructure-with-terraform-ep1",
   "path": "events/webinars/24q4-apj-securing-your-infrastructure-with-terraform-ep1",
-  "timestamp": "2026-11-22T21:19:31.075Z",
+  "timestamp": "2026-11-22T22:29:23.047Z",
   "title": "Securing your infrastructure with Terraform: Addressing provisioning skills gaps, reusing infrastructure, and setting up dynamic provider credentials (Asia & Australia)",
   "template": "webinar-detail",
   "blocks": [
@@ -11,5 +11,5 @@
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/24q4-apj-securing-your-infrastructure-with-terraform-ep1/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

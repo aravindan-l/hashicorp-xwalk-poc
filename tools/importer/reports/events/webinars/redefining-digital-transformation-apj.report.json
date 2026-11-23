@@ -2,12 +2,14 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/redefining-digital-transformation-apj",
   "path": "events/webinars/redefining-digital-transformation-apj",
-  "timestamp": "2026-11-22T21:11:38.091Z",
+  "timestamp": "2026-11-22T22:21:27.430Z",
   "title": "Redefining digital transformation with The Infrastructure Cloud to do cloud right (Asia and Australia)",
   "template": "webinar-detail",
-  "blocks": [],
+  "blocks": [
+    "marketo-form"
+  ],
   "assets": {
     "/content/dam/hashicorp-xwalk-poc/events/webinars/redefining-digital-transformation-apj/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

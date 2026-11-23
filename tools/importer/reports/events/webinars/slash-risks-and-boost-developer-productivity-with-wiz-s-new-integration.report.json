@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/slash-risks-and-boost-developer-productivity-with-wiz-s-new-integration",
   "path": "events/webinars/slash-risks-and-boost-developer-productivity-with-wiz-s-new-integration",
-  "timestamp": "2026-11-22T21:17:08.670Z",
+  "timestamp": "2026-11-22T22:27:04.295Z",
   "title": "Slash risks and boost developer productivity with Wiz’s new integration with Terraform run tasks (Americas)",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/slash-risks-and-boost-developer-productivity-with-wiz-s-new-integration/screenshot-2023-01-25-at-20-25-36.png": "https://www.datocms-assets.com/2885/1674671192-screenshot-2023-01-25-at-20-25-36.png",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/slash-risks-and-boost-developer-productivity-with-wiz-s-new-integration/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

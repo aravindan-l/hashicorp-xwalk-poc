@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/azure-builtright-ep3",
   "path": "events/webinars/azure-builtright-ep3",
-  "timestamp": "2026-11-22T21:18:53.244Z",
+  "timestamp": "2026-11-22T22:28:45.439Z",
   "title": "Transforming infrastructure as code with AI tools",
   "template": "webinar-detail",
   "blocks": [
@@ -15,5 +15,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep3/nic-jackson-hashicorp.jpg": "https://www.datocms-assets.com/2885/1521522465-nic-jackson-hashicorp.jpg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/azure-builtright-ep3/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

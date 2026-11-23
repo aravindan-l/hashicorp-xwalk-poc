@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/byok-bring-your-own-key-with-vault-kr",
   "path": "events/webinars/byok-bring-your-own-key-with-vault-kr",
-  "timestamp": "2026-11-22T21:15:15.502Z",
+  "timestamp": "2026-11-22T22:25:14.200Z",
   "title": "Vault, 사용 중인 Key 관리 (Bring Your Own Key)",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/byok-bring-your-own-key-with-vault-kr/junsang-park-photo.jpg": "https://www.datocms-assets.com/2885/1586477899-junsang-park-photo.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/byok-bring-your-own-key-with-vault-kr/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

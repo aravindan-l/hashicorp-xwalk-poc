@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/zero-trust-security-for-banking-financial-services-emea",
   "path": "events/webinars/zero-trust-security-for-banking-financial-services-emea",
-  "timestamp": "2026-11-22T21:20:09.473Z",
+  "timestamp": "2026-11-22T22:30:04.354Z",
   "title": "Zero Trust Security for Banking & Financial Services (EMEA)",
   "template": "webinar-detail",
   "blocks": [
@@ -14,5 +14,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services-emea/franco-camba-headshot-1.jpg": "https://www.datocms-assets.com/2885/1669028741-franco-camba-headshot-1.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/zero-trust-security-for-banking-financial-services-emea/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.hashicorp.com/en/events/webinars/migrating-from-vault-oss-to-vault-enterprise-apj",
   "path": "events/webinars/migrating-from-vault-oss-to-vault-enterprise-apj",
-  "timestamp": "2026-11-22T21:14:02.743Z",
+  "timestamp": "2026-11-22T22:23:56.698Z",
   "title": "Migrating from Vault OSS to Vault Enterprise for compliance, scale and availability",
   "template": "webinar-detail",
   "blocks": [
@@ -13,5 +13,5 @@
     "/content/dam/hashicorp-xwalk-poc/events/webinars/migrating-from-vault-oss-to-vault-enterprise-apj/jane-ho.jpg": "https://www.datocms-assets.com/2885/1656063461-jane-ho.jpeg",
     "/content/dam/hashicorp-xwalk-poc/events/webinars/migrating-from-vault-oss-to-vault-enterprise-apj/events-social-share.jpg": "https://www.datocms-assets.com/2885/1599178066-events-social-share.jpg"
   },
-  "importScript": "eab72306cfc1"
+  "importScript": "a59e33a00077"
 }

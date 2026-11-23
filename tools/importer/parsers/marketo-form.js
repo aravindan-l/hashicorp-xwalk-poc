@@ -6,7 +6,8 @@
  * Source: https://www.hashicorp.com/en/events/webinars/*
  * Selectors:
  * - [class*='style_webinarForm'] (recorded webinar: "Watch the recorded webinar" panel);
- * - [class*='registration-form_container']:has(form.mktoForm) (live webinar registration panel).
+ * - [class*='registration-form_container'] (live webinar panel: registration form, or the
+ *   'Recording coming soon!' notice, which becomes the message field when there is no form).
  * Placeholder block: the Marketo inputs are not imported, only the heading, the numeric form ID
  * (from form#mktoForm_<id>) and an optional recording link.
  * Block table: one row per field, in model order; recordingUrl is an empty cell when absent.
@@ -81,10 +82,16 @@ export default function parse(element, { document }) {
     recordingLink.append(a);
   }
 
+  // A panel without a form ("Recording coming soon!") keeps its paragraphs as the message field.
+  const message = formId ? [] : [...element.querySelectorAll('p')]
+    .filter((p) => !p.closest('form') && clean(p.textContent))
+    .map((p) => { const n = document.createElement('p'); n.innerHTML = p.innerHTML; return n; });
+
   const cells = [
     [hinted(document, 'title', [textNode(document, title)])],
     [hinted(document, 'formId', [textNode(document, formId)])],
     [hinted(document, 'recordingUrl', [recordingLink])],
+    [hinted(document, 'message', message)],
   ];
   const block = WebImporter.Blocks.createBlock(document, { name: 'marketo-form', cells });
   element.replaceWith(block);
